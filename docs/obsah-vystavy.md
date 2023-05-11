@@ -1,24 +1,56 @@
 # Jak vytvořit atraktivní obsah virtuální výstavy
 
 Virtuální výstava je online prezentace vybraného tématu. Při její tvorbě
-plníte jednotlivé obrazovky obsahem - např. textem, přidáváte hudbu,
-namluvený komentář, obrázky nebo pro návštěvníky připravíte hry.
+plníte jednotlivé obrazovky obsahem - obrázky, texty, přidáváte hudbu,
+namluvený komentář nebo pro návštěvníky připravíte hry. Obrazovky je možné sdružovat do **kapitol** nebo je možné výstavu sestavit z
+**jednotlivých obrazovek** jdoucích po sobě. Oba principy můžete kombinovat. Příprava výstavy se skládá ze dvou částí: 
 
-Obrazovky je možné sdružovat do kapitol nebo je možné výstavu sestavit z
-jednotlivých obrazovek jdoucích po sobě. Oba principy můžete kombinovat.
+    1. Příprava tématu výstavy a obsahu
+    2. Samotná tvorba v nástroji INDIHU Exhibition 
 
-## Doporučený postup tvorby virtuálních výstav
+## Příprava tématu výstavy a obsahu
 
-<center>![](img/doporuceny-postup-v4.jpg)</center>
+Vymyslet téma pro výstavu je to nejtěžší. Online prostředí funguje jinak než jak jsme zvyklí u normálních fyzických výstav a online návštěvníci mají trochu jiná očekávání. [Očekáváním návštěvníků](inspirace.md#TODOKOTVA) bychom se měli přizpůsobit, aby naše výstava byla úspěšná. 
+
+## Vytvářím svou první výstavu
+
+Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že používate náš nástroj. Abychom vá to zjednodušili, připravili jsme pro vás cvičení, které vám pomohou vybrat to nejlépší téma a formu. 
 
 1.  Výběr tématu (Buďte co nejkonkrétnější, přemýšlejte o návštěvníkovi, jaký je, co ho zajímá, kde na výstavu narazil. Pomoci vám může [10 podnětů k zamyšlení](obsah-vystavy.md#predtim-nez-zacnete)). 
 2.  Vybrat způsob vyprávění (Jak budete obsah členit, jak budete
-    téma rozvíjet a členit, použijete kapitoly? Jak budou jednotlivé
+    téma rozvíjet, použijete kapitoly? Jak budou jednotlivé
     části obsáhlé?). 
 3.  Začněte pracovat na obsahu (Ke každé části napište potřebné texty.
     Najděte obrázky. Zkuste texty nahradit jinými formami obsahu -
     videem, obrázky, fotogalerií či hrou. Zkuste využít co nejvíce
     možností, které nástroj nabízí. Jaká část obsahu je hlavní a co jsou dodatečné materiály ke stažení?)
+
+TODO pracovní listy
+
+## Doporučené funkce pro začátečníky 
+
+Jednotlivé obrazovky a jejich funkce jsou podrobně popsány v záložce [Obrazovky](obrazovky.md). Doporučujeme zaměřit se zejména na tyto formy obsahu a tyto obrazovky:
+
+### Obrázky
+Zaměřte se zejména na obrázky a jejich kvalitu. V současné vizuální době kvalitní obrázky přitáhnou pozornost. Pokud máte tu možnost, nechte nafotit vaše předměty profesionálním fotografem nebo použijte kvalitní fotoaparát. Ujistěte se, že fotografie mají dobrou kompozici, jsou správně nasvícené a mají kvalitní pozadí. U obrázků je důležité **načasování**, nastavte čas u obrázků tak, aby si návštěvník mohl obrázky v klidu prohlédnout. Méně je často více a předejdete přehlcení. 
+
+**Využijte**: 
+
+    - [Obrazovku s obrázkem](obrazovky/#obrazovka-s-obrazkem)
+    - [Slideshow](TODO)
+    - [Fotogalerii](TODO)
+    - [Animaci přiblížení](obrazovky/#animace-priblizeni)
+    - Pro ozvláštnění obrázků využijte různé druhy animací, takže se výstava bude jemně hýbat
+    - Pro zvýraznění informační hodnty a detailů na obrázcích využijte infopointy 
+
+### Texty 
+Kvalitní texty mohou přinést návštěvníkům nové informace a probudit jejich zájem. Buďte ale struční, doporučujeme nevkládat texty delší než 500 znaků. 
+
+## Chci se zdokonalit v pokročilých funkcích 
+
+<center>![](img/doporuceny-postup-v4.jpg)</center>
+
+
 4.  Testování (Poproste někoho, kdo není z oboru o jeho názor, ptejte
     se, čemu nerozumí a podle jeho postřehů upravte texty a ostatní
     obsah. Opravdu návštěvník stráví na výstavě tolik času, kolik jste
