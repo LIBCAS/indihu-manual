@@ -45,15 +45,9 @@ Tvorba virtuálních výstav má dvě části. Nejprve je třeba [vybrat téma](
 
 ## Jak výstavu vidí návštěvník
 
-Virtuální výstavu může návštěvník prohlížet ve dvou módech. Návštěvník
-může módy v průběhu prohlížení výstavy měnit:
+TODO: (foto úvodu ke kapitole)
 
-1.  **Prezentační mód**: obsah se automaticky přehrává podobně jako v kině.
-    Pro tento typ je vhodné doplnit výstavu o audio komentář, který vznikne namluvením textů v textovém módu.  
 
-![](img/prezentacni-mod.png)
+Na úvodní stránce najdete klíčové informace o virtuální výstavě, jako její přibližnou délku, jednotlivé kapitoly, její autory a dokumenty k výstavě. Jakmile zahájíte výstavu tlačítkem "Spusti výstavu," automaticky se zahájí infoprohlídka, která vás postupně provede ovládacími prvky výstavy.
 
-2.  **Textový mód**: obsah se nepřehrává automaticky, ale návštěvník sám
-    určuje, kdy přejde na další stránku pomocí šipek a kolik času na stránce stráví.
-
-![](img/textovy-mod.png)
+TODO: (foto infoprohlídky)
