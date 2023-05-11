@@ -1,6 +1,6 @@
 # Minihry
 
-Editor INDIHU Exhibition obsahuje i šest interaktivních her. Tyto hry umožňují obohatit výstavu hrou, při které se návštěvník pobaví, zaktivizuje nebo si díky hře ukotví nabité znalosti a informace. 
+Výstavu vytvořenou v editoru INDIHU exhibition můžete obohatit i interaktivní hrou. Na výběr máte 6 typů her, kterými můžete návštěvníka pobavit či zaktivizovat. Editor INDIHU Exhibition obsahuje i šest interaktivních her. Tyto hry umožňují obohatit výstavu hrou, při které se návštěvník pobaví, zaktivizuje nebo si díky hře ukotví nabité znalosti a informace. 
 
 !!! warning "Upozornění"
 	U každé hry pečlivě formulujte v řádku Úkol minihry zadání úkolu. Dbejte na to, aby zadání bylo jednoznačné, srozumitelné a v ideálním případě i jednoduché a krátké. Zkuste úkol otestovat na někom z vašeho okolí, abyste si ověřili, že je pokyn jasný.  
