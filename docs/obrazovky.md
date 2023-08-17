@@ -1,6 +1,6 @@
 # Obrazovky
 
-Základním stavebním kamenem virtuální výstavy, kterou tvoříte, jsou obrazovky. Postupně si projdeme jednotlivé typy obrazovek, jejich funkcionality a možnosti použití. Pokud hledáte informace ke konkrétnímu typu obrazovky, použijte navigaci vpravo. Obrazovky plníte obsahem a sdružujete do kapitol a tím vznikne výstava. Výstava může být složená jen za pomocí jednotlivých obrazovek bez organizace do kapitol. Nabízíme 3 druhy obrazovek: 
+Základním stavebním kamenem virtuální výstavy, kterou tvoříte, jsou obrazovky. Postupně si projdeme jednotlivé typy obrazovek, jejich funkcionality a možnosti použití. Pokud hledáte informace ke konkrétnímu typu obrazovky, použijte navigaci vpravo. Obrazovky plníte obsahem a sdružujete do kapitol, tím vznikne výstava. Výstava může být složená pouze z jednotlivých obrazovek bez organizace do kapitol. Nabízíme 3 druhy obrazovek: 
 
 - Obsahová obrazovka 
 - Interaktivní obrazovka
@@ -37,7 +37,7 @@ TODO - fotky, jak vypadjí přiložené soubory u obrazovky a na konci výstavy 
 Doplňte délku trvání obrazovky. To je údaj, který je důležitý pro prezentační mód, protože udává dobu, po kterou se obrazovka automaticky zobrazí. Dejte pozor, aby namluvený komentář nebyl delší než doba trvání obrazovky. 
 
 ## Úvod výstavy
-Úvodní stránka výstavy obsahuje poměrně hodně informací. Základem je (animovaný) obrázek, název výstavy, informace o tom, kdo výstavu dělal, seznam kapitol, informace o času potřebného k projití výstavy apod. Tvůrce se k editaci dostane ze záložky Struktura výstavy kliknutím na čtvereček úvodu výstavy nebo použitím menu tohoto čtverečku. 
+Úvodní stránka výstavy obsahuje poměrně hodně informací. Základem je (animovaný) obrázek, název výstavy, informace o tom, kdo výstavu vytvořil, seznam kapitol, informace o čase potřebném k projití výstavy apod. Tvůrce se k editaci dostane ze záložky Struktura výstavy kliknutím na čtvereček úvodu výstavy nebo použitím menu tohoto čtverečku. 
 
 !!! warning "Upozornění"
     Není třeba vyplnit všechny položky hned na začátku tvorby výstavy. Některé informace vyplynou až během procesu vytváření samotné výstavy. 
@@ -64,7 +64,7 @@ Na této záložce tvůrce vyplňuje základní údaje k výstavě.
   * Organizace (11): Hlavní instituce, která stojí za tvorbou výstavy. Ostatní zapojené instituce je možné přidat do tiráže.  
 
 !!! info "Tip"
-    Pro snadnější sledování postupu prací na výstavě lze všechny obrazovky po dokončení označit jako dokončené (12). Ve výpisu všech obrazovek výstavy se dokončené obrazovky vyznačí zelenou barvou. 
+    Pro snadnější sledování postupu prací na výstavě lze všechny obrazovky po dokončení označit jako dokončené (12). Ve výpisu všech obrazovek výstavy se tyto obrazovky vyznačí zelenou barvou. 
 
 !!! info "Tip"
     Audio verzi výstavy lze uveřejnit jako podcast, což umožní lidem čerpat zajímavé informace i formou poslechu. 
@@ -96,7 +96,7 @@ Na hlavní záložce vyplníte základní údaje ke kapitole – název a podná
 
 **Obrázek na pozadí**
 
-Vyberte obrázek z dokumentů, který uvodí téma kapitoly. V případě, že obrázek nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Pokud chcete, vyberte typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat. 
+Vyberte obrázek z dokumentů, který uvede téma kapitoly. V případě, že obrázek nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Pokud chcete, vyberte typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat. 
 
 ## Obsahové obrazovky 
 

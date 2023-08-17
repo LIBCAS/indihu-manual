@@ -52,7 +52,7 @@ jako je přejmenování, sdílení výstavy či její části, export, změna st
 Po otevření detailu výstavy se tvůrci zobrazí první záložka Struktura
 výstavy (1). Lze se přepnout na záložky Soubory (2) pro správu souborů
 k výstavě, Nastavení (3) pro obecná nastavení celé výstavy a Sdílení
-(4), kde přidáte spolutvůrce. Po založení nové výstavy automaticky výstava obsahuje první obrazovku Úvod výstavy (5), možnost
+(4), kde lze přidat spolutvůrce. Po založení nové výstavy automaticky výstava obsahuje první obrazovku Úvod výstavy (5), možnost
 přidání obrazovky (6) a Závěr výstavy (7). Závěr výstavy se generuje automaticky. Tvůrce má možnost v záložce Nastavení připravit informaci a odkaz pro přesměrování návštěvníků v případě, že je výstava již ukončena. 
 
 ![](img/detail-vystavy-1.jpg)
@@ -110,7 +110,15 @@ Každá výstava je v jednom z těchto stavů:
     kterými je výstava sdílena.
 2.  **Zveřejněná**: Výstava je veřejně dostupná přes svoje URL. Výstavu není
     možné upravovat. 
-3.  **Ukončená**: Výstava byla ukončena a návštěvníci si ji nemohou dále prohlížet, ani ji nemůžete upravovat. Pokud návštěvník klinkne na dokaz výstavy, můžete návštěvníka přesměrovat jinam. V záložce Nastavení lze v části "Informace návštěvníkovi v případě, že je výstava již ukončená" umístit obrázek, dát URL na přesměrování jinam, nebo krátký vzkaz návštěvníkům (např. poděkování za a informaci o tom, co chystáte dál). 
+3.  **Ukončená**: Výstava byla ukončena a není ani veřejně dostupná ani
+    určena k dalším úpravám. V záložce Nastavení lze v části "Informace
+    návštěvníkovi v případě, že je výstava již ukončená" vytvořit
+    stránku, která se zobrazí, když je tato výstava již
+    nedostupná. Výstavu lze znovu převést do stavu V přípravě nebo
+    Zveřejněná.
+
+**URL výstavy** umožňuje nastavit libovolnou koncovku adresy tak, aby byla
+dobře použitelná a zapamatovatelná.
 
 !!! info "Tip"
     URL výstavy umožňuje nastavit libovolnou koncovku adresy tak, aby byla dobře použitelná a zapamatovatelná. Upravte URL tak, aby na propagačních materiálech vypada dobře. 
@@ -133,9 +141,9 @@ Při **spolupráci více autorů** se automaticky editace zamkne na 1 minutu. In
 
 ### Jednoduchý editor obrázků
 
-Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý editor obrázků, který umožní tvůrcům základní úpravy jakými je např. ořez, otočení či změna poměru stran. 
+Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý **editor obrázků**, který umožní tvůrcům základní úpravy jakými je např. ořez, otočení či změna poměru stran. 
 
-Do editoru obrázků se dostanete z hlavní stránky výstavy ze záložky Soubory a poté pomocí menu u konkrétního obrázku, který jste si nahráli do systému. Pro Editor obrázků zvolte položku v menu s názvem Editovat, která je označena ikonou palety. 
+Do editoru obrázků se dostanete z hlavní stránky výstavy ze záložky Soubory a poté pomocí menu u konkrétního obrázku, který jste si nahráli do systému. Pro editor obrázků zvolte položku v menu s názvem Editovat, která je označena ikonou palety. 
 
 ![](img/editor-obrazku-uvod.png)
 
@@ -156,7 +164,7 @@ Editor nabízí tyto funkce:
 
 ![](img/editor-obrazku-funkce1.png)
 
-Poté, co provedete změny, klikněte na první ikonu s disketou pro uložení a upravenou verzi obrázku si pojmenujte a uložte. Okno pro uložení změn vypadá následovně. 
+Poté, co provedete změny, klikněte na první ikonu s disketou pro uložení a upravenou verzi obrázku si pojmenujte a uložte. Okno pro uložení změn vypadá následovně: 
 
 ![](img/editor-obrazku-ulozeni.png)
 

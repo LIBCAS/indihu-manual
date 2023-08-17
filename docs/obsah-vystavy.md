@@ -5,8 +5,7 @@ Virtuální výstava je online prezentace vybraného tématu a její přípravu 
 
 ![uspesna_indihu_vystava](uspesna_indihu_vystava.jpg)
 
-Při její tvorbě plníte jednotlivé obrazovky obsahem - obrázky, texty, přidáváte hudbu, namluvený komentář nebo pro návštěvníky připravíte hry. Obrazovky je možné sdružovat do **kapitol** nebo je možné výstavu sestavit z
-**jednotlivých obrazovek** jdoucích po sobě. Oba principy můžete kombinovat. Příprava výstavy se skládá ze dvou hlavních částí rozdělených do 6 základních činností: 
+Při její tvorbě plníte jednotlivé obrazovky obsahem - obrázky, texty, přidáváte hudbu, namluvený komentář nebo pro návštěvníky připravíte hry. Příprava výstavy se skládá ze dvou hlavních částí rozdělených do 6 základních kroků: 
 
 1. Příprava tématu a obsahu výstavy
 2. Samotná tvorba v nástroji INDIHU Exhibition 
@@ -16,36 +15,36 @@ Při její tvorbě plníte jednotlivé obrazovky obsahem - obrázky, texty, při
 
 ## Vytvářím svou první výstavu
 
-Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že používáte náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy.
+Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že jste se rozhodli použít náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy.
 
 TIP!
 Pracovní listy doporučujeme vytisknout a vyplnit s tužkou v ruce. Mají podobu mentální a pojmové mapy.
 
-### Příprava tématu výstavy 
-Nejprve je třeba vybrat téma a najít ten správný přístup k jeho vyprávění. Online prostředí funguje jinak, než jak jsme zvyklí u fyzických výstav, a online návštěvníci mají trochu jiná očekávání, kterým bychom se měli přizpůsobit, aby naše výstava byla úspěšná.
+### Téma výstavy 
+Nejprve je třeba vybrat téma a najít ten správný přístup k jeho vyprávění. Virtuální prostředí funguje jinak, než jak jsme zvyklí u fyzických výstav, a online návštěvníci mají trochu jiná očekávání, kterým bychom se měli přizpůsobit, aby naše výstava byla úspěšná.
 
 TIP!
 Preferujte kompaktní témata a pokud možno se vyvarujte složitě strukturovaným problémům. 
 
-### Příprava obsahu výstavy 
+### Obsah výstavy 
 Nyní můžete začít zpracovávat vlastní obsah výstavy. Napište všechny potřebné texty a vyhledejte si co největší množství vizuálního materiálu. 
 Nejdůležitějším hlediskem přípravy výstavy je srozumitelnost obsahu, proto se zaměřte na jeho logické členění, buďte konkrétní a věcní.
 
-V druhé fázi práce se zamyslete nad tím, jak byste mohli popisný text nahradit zajímavějším typem obsahu. Nejpříhodnější bývají video klipy. Využijte také svoji kreativitu a vymyslete pro návštěvníka hru (pokročilejší funkce), jejichž uplatnění ve výstavě vám nástroj nabízí. 
+V druhé fázi práce se zamyslete nad tím, jak byste mohli popisný text nahradit zajímavějším typem obsahu. Nejpříhodnější bývají videoklipy. Využijte také svoji kreativitu a vymyslete pro návštěvníka hru (pokročilejší funkce), jejichž uplatnění ve výstavě vám nástroj nabízí. 
 
 TIP!
-Ne všechny informace jsou stejně důležité! Uvědomte si, která část obsahu je hlavní a co jsou pouze dodatečné materiály, které můžete připojit ke stažení?
+Ne všechny informace jsou stejně důležité! Uvědomte si, která část obsahu je hlavní a co jsou pouze dodatečné materiály, které můžete připojit ke stažení.
 
-### Příprava formy výstavy (způsob vyprávění tématu) 
+### Forma výstavy (způsob vyprávění tématu) 
 
 Při tvorbě vlastní virtuální výstavy v nástroji Indihu Exhibition plníte **obrazovky** obsahem. Obrazovky je dále možné sdružovat do **kapitol** nebo je možné výstavu sestavit z **jednotlivých obrazovek** jdoucích po sobě. Oba principy můžete rovněž kombinovat.
 
 TIP!
-Rozmyslete si, jak budete obsah výstavy rozvíjet a členit, jak budou jednotlivé části obsáhlé? Podle toho si lépe rozhodnete, zda budete používat jednotlivé izolované obrazovky, nebo budete téma členit do kapitol.
+Rozmyslete si, jak budete obsah výstavy rozvíjet a členit, jak budou jednotlivé části obsáhlé? Podle toho si lépe rozhodnete, zda budete používat jednotlivé izolované obrazovky, nebo budete téma strukturovat do kapitol.
 
 ## Doporučené funkce pro začátečníky 
 
-Jednotlivé obrazovky a jejich funkce jsou podrobně popsány v záložce [Obrazovky](obrazovky.md). Záčínáte-li si teprve tvorbu virtuálních výstav osvojovat, doporučujeme zaměřit se zejména na tyto typy obrazovek:
+Jednotlivé obrazovky a jejich funkce jsou podrobně popsány v záložce [Obrazovky](obrazovky.md). Záčínáte-li si teprve tvorbu virtuálních výstav osvojovat, doporučujeme zaměřit se zejména na tyto typy obsahu:
 
 ### Obrazovky s obrázky
 
@@ -72,7 +71,7 @@ Obrázky, které prezentujete ve výstavě, mohou mít jiný formát, rozličnou
 ### Texty 
 
 Kvalitní texty mohou přinést návštěvníkům nové informace a probudit jejich zájem o prezentované téma. Musí být ale stručné! 
-Rázně doporučujeme nevkládat texty delší než 500 znaků! Průzkum návštěvnické spokojenosti virtuálních výstav jasně ukázal, že delší texty návštěvníci nečtou. 
+Doporučujeme nevkládat texty delší než 500 znaků! Průzkum návštěvnické spokojenosti virtuálních výstav jasně ukázal, že delší texty návštěvníci nečtou. 
 Při přípravě textů se držte těchto doporučení:
 
 - Pokud možno, vyhněte se odborným výrazům.
@@ -124,9 +123,9 @@ Především si uvědomte, jestli návštěvník stráví na výstavě opravdu t
 
 Máte-li za sebou již svou první výstavu nebo dokonce několik, doporučujeme vám vyzkoušet pokročilejší funkce a zejména do větší hloubky pracovat s různými cílovými skupinami. Můžete tak udělat výstavy určené speciálně pro konkrétní cílové skupiny nebo udělat výstavy v několika verzích (složitější pro dospělé, hravější a jednodušší pro děti).
 
-### Video klipy
+### Videoklipy
 
-Vedle použití již existujících video klipů si můžete pro výstavu připravit unikátní video stopy, čímž zásadně ozvláštníte obsah. Videa by neměla být příliš dlouhá (doporučujeme 1 min, max. 3 min). A při jejich tvorbě se opět zaměřte na poctivou přípravu scénáře. Můžete využít různé žánry:
+Vedle použití již existujících videoklipů si můžete pro výstavu připravit unikátní video stopy, čímž zásadně ozvláštníte obsah. Videa by neměla být příliš dlouhá (doporučujeme 1 min, max. 3 min). A při jejich tvorbě se opět zaměřte na poctivou přípravu scénáře. Můžete využít různé žánry:
 
 •	Dokumentární film
 
@@ -146,7 +145,7 @@ Video připravujte v rozlišení FullHD (1920×1080), 25 snímků za vteřinu, v
 
 Přemýšlíte o virtuální výstavě jako o prostoru, který si může návštěvník projít podle své volby? Chcete jeho zájem koncentrovat podle jeho nálady, zvědavosti či úrovni vědomostí? V tomto případě můžete využít funkci nelineárního procházení virtuální výstavou. 
 Je to jedna z nejvíce pokročilých funkcí a na vás jako na tvůrce klade velké nároky na promýšlení struktury výstavy. Návštěvníkovi ale tímto způsobem můžete nabídnout přeskočení vybraného obsahu. 
-Podrobněji vás s funkcí seznámí tento video klip. / Podrobnější informace naleznete v této záložce. Pro takový typ obsahu použijte Obrazovku nelineárního procházení výstavou. 
+Podrobněji vás s funkcí seznámí tento videoklip. / Podrobnější informace naleznete v této záložce. Pro takový typ obsahu použijte Obrazovku nelineárního procházení výstavou. 
 
 ### Hry 
 
@@ -173,7 +172,7 @@ Ověřte si, co nejvíce zajímá vaše návštěvníky a ušijte jim výstavu n
 Na přípravě výstavy můžete dále spolupracovat s místními školami nebo jinými institucemi z oblasti neformálního vzdělávání. Rozšíříte tím dosah výstavy i samotné portfolio vašich aktivit. 
 
 TIP!
-Například klub místních amatérských fotografů, nebo filmový kroužek se může podílet na tvorbě náročnějšího mediálního obsahu.
+Například klub místních amatérských fotografů nebo filmový kroužek se může podílet na tvorbě náročnějšího mediálního obsahu.
 
 ### Zaměřte se na propagaci výstavy
 

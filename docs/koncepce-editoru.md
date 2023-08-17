@@ -24,7 +24,7 @@ V současné době je hraní digitálních her velmi populární a využít je m
 
 * můžete "zkontrolovat", zda si návštěvník zapamatoval klíčové informace
 * hrou upozorníte na nejdůležitější informace 
-* obsah bude dynamičtější a může znovu probudit zájem návštěvníka
+* obsah bude dynamičtější a může oživit zájem návštěvníka
 * vtáhnete návštěvníka do děje
 * přimějete návštěvníka, aby se nad tématem zamyslel 
 * z pasivního návštěvníka se stane aktivní návštěvník
@@ -38,4 +38,4 @@ Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje 
 !!! info "Tip"
 	Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy. 
 
-Editor jsme vytvářeli s tím, aby jeho používání bylo co nejjednodušší. Nemusíte umět programovat nebo být webdesignér, a přesto vytvoříte online výstavu. Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste uměli alespoň trochu pracovat s obrázky, nahrát audio nebo vytvářet videa. Nástroj INDIHU Exhibition obsahuje jednoduchý nástroj na úpravu obrázků (oříznutí, otočení, změna poměru stran). V manuálu se u jednotlivých obrazovek a miniher objevují tipy na nástroje, které můžete použít. Pokud vám to zdroje dovolí, můžete využít služeb profesionálů (fotografa, grafika, filmaře nebo zvukaře). 
+Editor je vytvořen tak, aby jeho používání bylo co nejjednodušší. Nemusíte umět programovat nebo být webdesignér, a přesto vytvoříte online výstavu. Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste uměli alespoň trochu pracovat s obrázky, nahrát audio nebo vytvářet videa. Nástroj INDIHU Exhibition obsahuje jednoduchý nástroj na úpravu obrázků (oříznutí, otočení, změna poměru stran). V manuálu se u jednotlivých obrazovek a her objevují tipy na nástroje, které můžete použít. Pokud vám to zdroje dovolí, můžete využít služeb profesionálů (fotografa, grafika, filmaře nebo zvukaře). 
