@@ -33,7 +33,6 @@ Dokumenty jsou k dipozici:
 - v textovém poli u každé obrazovky
 - na závěrečné obrazovce
 
-TODO - fotky, jak vypadjí přiložené soubory u obrazovky a na konci výstavy a na začátku 
 
 **Časování výstavy**
 Doplňte délku trvání obrazovky. To je údaj, který je důležitý pro prezentační mód, protože udává dobu, po kterou se obrazovka automaticky zobrazí. Dejte pozor, aby namluvený komentář nebyl delší než doba trvání obrazovky. 
