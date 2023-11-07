@@ -202,7 +202,7 @@ Doplňte délku trvání obrazovky. To je údaj, který je důležitý pro preze
 
 **Obrázky**
 
-Editace obrazovky spočívá ve výběru dvou obrázků ze souborů k výstavě. Pokud nemáte soubor v editoru, nahrajte jej ze svého počítače. Nástroj obsahuje i jednoduchý editor obrázků(DODAT ODKAZ), který je dostupný v adresáři souborů přes menu u každého obrázku. Po tom, co máte vybrané obrázky, vyberte způsob přechodu - Myš nad obrázkem, Kliknutí na obrázek, Horizontální táhlo, Vertikální táhlo, Pozvolný přechod. 
+Editace obrazovky spočívá ve výběru dvou obrázků ze souborů k výstavě. Pokud nemáte soubor v editoru, nahrajte jej ze svého počítače. Nástroj obsahuje i jednoduchý [editor obrázků](https://nnis.github.io/indihu-manual/zaklady/#jednoduchy-editor-obrazku), který je dostupný v adresáři souborů přes menu u každého obrázku. Po tom, co máte vybrané obrázky, vyberte způsob přechodu - Myš nad obrázkem, Kliknutí na obrázek, Horizontální táhlo, Vertikální táhlo, Pozvolný přechod. 
 
 ### Obrazovka s externím obsahem
 
