@@ -24,6 +24,7 @@ INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kóde
 - Vkládání externího obsahu (např. mapy, videa, grafy, 3D objekty) 
 - [Hry](hry.md) (Kvíz, Najdi na obrázku, Stírací los, Hádej velikost apod.)
 - Přikládání souborů s dalšími materiály (např. seznam literatury, pracovní listy pro školy)
+- Větvení výstavy, kdy si návštěvník vybere, jak chce pokračovat TODO LINK
 - Na tvorbě výstavy můžete spolupracovat s více tvůrci
 - Hostování výstavy
 - Snadné sdílení návštěvníkům i spoluatorům
