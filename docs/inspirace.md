@@ -23,4 +23,8 @@ V neposlední řadě je důležité, aby ovládání virtuální výstavy bylo *
 
 ## Výstavy pro inpiraci
 
-TODO jednotlivé prvky (obrázky) + linky na zajímavé výstavy
+TODO jednotlivé prvky (obrázky) + linky na zajímavé výstavy doplnit po překlopení
+Akce K 
+Rozmanitosti přírody
+České muzeum hudby
+Severská udržitelná města
