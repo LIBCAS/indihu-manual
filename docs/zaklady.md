@@ -10,10 +10,7 @@
 | Návštěvník        | Pojmem "návštěvník" je označován uživatel, který navštíví web s virtuální výstavou.                                                                                                                                                                                                                                                                                 |
 | Obrazovka         | Výstava je tvořena jednotlivými obrazovkami. Na obrazovkách může být různý obsah (obrázky, hry, videa atd.). V části [Obrazovky](obrazovky.md) se seznámíte se všemi možnostmi i ovládáním. Při tvorbě výstavy postupně plníte obrazovky obsahem.                                                                                                                   |
 | Kapitola          | Obrazovky je možné sdružovat do kapitol. Tvoření kapitol je nástrojem pro logické členění obsahu. Výstava může obsahovat jednu či více kapitol. Kapitola vždy obsahuje úvodní stránku kapitoly s názvem a titulním obrázkem, který může být animovaný. Návštěvník může při prohlížení výstavy přeskakovat z jedné kapitoly do druhé skrze seznam "Kapitoly" v menu. |
-| Hra               | Pro větší interaktivitu, kterou návštěvníci dnes hodně vyžadují, jsou k dispozici [hry](hry.md). Návštěvník je postaven před řešení úkolu a tím se zvýší jeho angažovanost v tématu.                                                                                                                                                                                |                                                                                                                                                                                                                                                              |
-| Obrazovka         | Výstava je tvořena jednotlivými obrazovkami. Na obrazovkách může být různý obsah (obrázky, hry, videa atd.). V části [Obrazovky](obrazovky.md) se seznámíte se všemi možnostmi i ovládáním. Při tvorbě výstavy postupně plníte obrazovky obsahem.                                                                                                                   |
-| Kapitola          | Obrazovky je možné sdružovat do kapitol. Tvoření kapitol je nástrojem pro logické členění obsahu. Výstava může obsahovat jednu či více kapitol. Kapitola vždy obsahuje úvodní stránku kapitoly s názvem a titulním obrázkem, který může být animovaný. Návštěvník může při prohlížení výstavy přeskakovat z jedné kapitoly do druhé skrze seznam "Kapitoly" v menu. |
-| Hra               | Pro větší interaktivitu, kterou návštěvníci dnes hodně vyžadují, jsou k dispozici [hry](hry.md). Návštěvník je postaven před řešení úkolu a tím se zvýší jeho angažovanost v tématu.                                                                                                                                                                                |
+| Hra               | Pro větší interaktivitu, kterou návštěvníci dnes hodně vyžadují, jsou k dispozici [hry](hry.md). Návštěvník je postaven před řešení úkolu a tím se zvýší jeho angažovanost v tématu.                                                                                                                                                                                |                                                                                                                                                                                                                                                             
 
 ## Zřízení účtu
 
@@ -29,6 +26,15 @@
     “Správa účtu”, které se nachází na pravé straně záhlaví.
 
 Tvůrce si založí výstavu, vytváří jednotlivé obrazovky. Až je s výstavou spokojen, zveřejnění ji. Pokud chce, může výstavu ukončit nebo ji může návštěvníkům nechat dostupnou pořád. Největší návštěvnost je vždy po zveřejnění nebo když vystavu propagujete (když dáte příspěvek s pozvánkou na sociální sítě nebo třeba vyjde článek v novinách). Tvůrci mou mít v jednu chvíli více rozpracovaných výstav.
+
+TODO video
+
+## Zvládnu přípravu výstavy sám?
+
+Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě. Editor je vytvořen tak, aby jeho **používání bylo co nejjednodušší**. V části [Jak vytvořit úspěšnou výstavu](uspesna-vystava.md) jsou typy pro tvůrce, kteří dělají svou první výstavu a pro ty, kteří jsou již zkušenější a chtějí se rozvíjet. Nemusíte umět programovat nebo být webdesignér, a přesto vytvoříte online výstavu. Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste **uměli alespoň trochu pracovat s obrázky, nahrát audio nebo vytvářet videa**. Nástroj obsahuje jednoduchý nástroj na úpravu obrázků (oříznutí, otočení, změna poměru stran). Pokud vám to zdroje dovolí, můžete **využít služeb profesionálů** (fotografa, grafika, filmaře nebo zvukaře). 
+
+!!! info "Tip"
+    Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy.
 
 ## Po vstupu do editoru
 

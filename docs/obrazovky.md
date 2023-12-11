@@ -10,7 +10,9 @@ Základním stavebním kamenem virtuální výstavy, kterou tvoříte, jsou obra
 
 Každá obrazovka začíná záložkou s názvem **Název a text** kde vyplňujete název obrazovky. V názvu shrňte, o čem obrazovka pojednává a usnadněte tak návštěvníkovi orientaci v tématu. Název se zobrazí v editoru ve výpisu obrazovek a vidí ji i návštěvník v levém dolním rohu, kde si může otevřít textové pole s dalšími informacemi k tématu. 
 
-Vyplňte Text k tématu, pokud chcete sdělit nějaké informace o tom, na co se návštěvník dívá nebo chcete dodat širší kontext. Text se zobrazí v textovém poli po kliknutí na název obrazovky. Sledujte informace o délce textu. Po finalizaci textu můžete obsah nahrát jako audio, které si návštěvník poslechne. Audio a i text však nemusí mít stejný obsah.
+Vyplňte Text k tématu, pokud chcete sdělit nějaké informace o tom, na co se návštěvník dívá nebo chcete dodat širší kontext. Text se zobrazí v textovém poli po kliknutí na název obrazovky. Sledujte informace o délce textu. Po finalizaci textu můžete obsah nahrát jako audio, které si návštěvník poslechne. Audio a i text však nemusí mít stejný obsah. 
+
+TODO formátování textu
 
 !!! info "Tip"
     K orientaci vám při vytváření výstavy slouží jak názvy obrazovek, tak ikonky vedle názvu, které odkazují na typ obrazovky - např. ikona obrázku, poháru označujíácí hry nebo videa. Díky tomu neztrácíte přehled jak o obsahu, tak o typech obrazovek. Máte informaci o tom, jaké typy obrazovek jdou po sobě a zda se vám obrazovky příliš neopakují. 
@@ -31,7 +33,6 @@ Dokumenty jsou k dipozici:
 - v textovém poli u každé obrazovky
 - na závěrečné obrazovce
 
-TODO - fotky, jak vypadjí přiložené soubory u obrazovky a na konci výstavy a na začátku 
 
 **Časování výstavy**
 Doplňte délku trvání obrazovky. To je údaj, který je důležitý pro prezentační mód, protože udává dobu, po kterou se obrazovka automaticky zobrazí. Dejte pozor, aby namluvený komentář nebyl delší než doba trvání obrazovky. 
@@ -200,7 +201,7 @@ Doplňte délku trvání obrazovky. To je údaj, který je důležitý pro preze
 
 **Obrázky**
 
-Editace obrazovky spočívá ve výběru dvou obrázků ze souborů k výstavě. Pokud nemáte soubor v editoru, nahrajte jej ze svého počítače. Nástroj obsahuje i jednoduchý editor obrázků(DODAT ODKAZ), který je dostupný v adresáři souborů přes menu u každého obrázku. Po tom, co máte vybrané obrázky, vyberte způsob přechodu - Myš nad obrázkem, Kliknutí na obrázek, Horizontální táhlo, Vertikální táhlo, Pozvolný přechod. 
+Editace obrazovky spočívá ve výběru dvou obrázků ze souborů k výstavě. Pokud nemáte soubor v editoru, nahrajte jej ze svého počítače. Nástroj obsahuje i jednoduchý [editor obrázků](https://nnis.github.io/indihu-manual/zaklady/#jednoduchy-editor-obrazku), který je dostupný v adresáři souborů přes menu u každého obrázku. Po tom, co máte vybrané obrázky, vyberte způsob přechodu - Myš nad obrázkem, Kliknutí na obrázek, Horizontální táhlo, Vertikální táhlo, Pozvolný přechod. 
 
 ### Obrazovka s externím obsahem
 

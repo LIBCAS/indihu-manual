@@ -1,6 +1,17 @@
 # Herní obrazovky
 
-Editor INDIHU Exhibition obsahuje i šest interaktivních her. Tyto hry umožňují obohatit výstavu hrou, při které se návštěvník pobaví, zaktivizuje nebo si díky hře ukotví nabité znalosti a informace. 
+V současné době je hraní digitálních her velmi populární a využít je můžete i ve výstavách. Hry nejsou jen pro dětské návštěvníky, ale zaujmou i dospělé a **vtáhnou návštěvníka do děje**. K dipozici máte několik různých her - některé jsou zaměřené na fakt a mají jasné řešení, jiné jsou více kreativní a otevřené. Editor obsahuje 6 interaktivních her. Mezi výhody her patří:
+
+- Můžete "zkontrolovat", zda si návštěvník zapamatoval klíčové informace
+- Hrou upozorníte na nejdůležitější informace
+- Obsah bude dynamičtější a může oživit zájem návštěvníka
+- Vtáhnete návštěvníka do děje
+- Přimějete návštěvníka, aby se nad tématem zamyslel
+- Z pasivního návštěvníka se stane aktivní návštěvník
+- Je to jednoduše zábava
+- Umožníte mu se kreativně vyjádřit
+
+
 
 !!! warning "Upozornění"
 	U každé hry pečlivě formulujte v řádku Úkol minihry zadání úkolu. Toto zadání by mělo být jednoduché, krátké a hlavně srozumitelné. Zkuste úkol otestovat na někom z vašeho okolí, abyste si ověřili, že je pokyn jasný.  
