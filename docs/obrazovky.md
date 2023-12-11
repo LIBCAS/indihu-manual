@@ -8,11 +8,13 @@ Základním stavebním kamenem virtuální výstavy, kterou tvoříte, jsou obra
 
 # Obsah společný pro včechny obrazovky 
 
-Každá obrazovka začíná záložkou s názvem **Název a text** kde vyplňujete název obrazovky. V názvu shrňte, o čem obrazovka pojednává a usnadněte tak návštěvníkovi orientaci v tématu. Název se zobrazí v editoru ve výpisu obrazovek a vidí ji i návštěvník v levém dolním rohu, kde si může otevřít textové pole s dalšími informacemi k tématu. 
+Každá obrazovka začíná záložkou s názvem **Název a text** kde vyplňujete název obrazovky. V názvu shrňte, o čem obrazovka pojednává a usnadněte tak návštěvníkovi orientaci v tématu. Název se zobrazí v editoru ve výpisu obrazovek a vidí ji i návštěvník v levém dolním rohu, kde si může otevřít textové pole s dalšími informacemi k tématu. Název má být aktraktivní a stručný. 
 
-Vyplňte Text k tématu, pokud chcete sdělit nějaké informace o tom, na co se návštěvník dívá nebo chcete dodat širší kontext. Text se zobrazí v textovém poli po kliknutí na název obrazovky. Sledujte informace o délce textu. Po finalizaci textu můžete obsah nahrát jako audio, které si návštěvník poslechne. Audio a i text však nemusí mít stejný obsah. 
+Vyplňte **Text k tématu**, pokud chcete sdělit nějaké informace o tom, na co se návštěvník dívá nebo chcete dodat širší kontext. V editoru sledujte informaci o délce textu - počet znaků převedený na délku mluveného slova - to vám pomůže mít představu o potřebném času na čtení. Text se zobrazí v textovém poli po kliknutí na název obrazovky. Sledujte informace o délce textu. Po finalizaci textu můžete obsah nahrát jako audio, které si návštěvník poslechne. Audio a i text však nemusí mít stejný obsah. 
 
-TODO formátování textu
+![](img/formatovani-textu.png) 
+
+![](img/formatovani-textu-frontend.png) 
 
 !!! info "Tip"
     K orientaci vám při vytváření výstavy slouží jak názvy obrazovek, tak ikonky vedle názvu, které odkazují na typ obrazovky - např. ikona obrázku, poháru označujíácí hry nebo videa. Díky tomu neztrácíte přehled jak o obsahu, tak o typech obrazovek. Máte informaci o tom, jaké typy obrazovek jdou po sobě a zda se vám obrazovky příliš neopakují. 
@@ -98,6 +100,24 @@ Na hlavní záložce vyplníte základní údaje ke kapitole – název a podná
 **Obrázek na pozadí**
 
 Vyberte obrázek z dokumentů, který uvede téma kapitoly. V případě, že obrázek nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Pokud chcete, vyberte typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat. 
+
+## Rozcestník
+
+Rozcestník je typ interaktivní obrazovky, díky které návštěvníkům umožníte, aby si vybrali, čemu se chtějí ve výstavě dále věnovat. Návštěvník si vybírá téma, nebo si vybere možnost pokračovat dál ve výstavě kliknutím na čtvercové tlačítko **Další obrazovka** vlevo dole. Pokud si vybere konkrétní téma, které nabízíte, přeskočí tím část výstavy. 
+
+Rozcestník funguje podobně jako kvíz. Máte tři základní možnosti, jak dáte návštěvníkům vybrat: 
+
+  - Kombinací obrázku a textu
+  - Jen textem
+  - Pouze obrázkem
+
+Postupně vyplníte záložku **Název, text, audio** jako u ostatních typů obrazovek. Klíčový obsah je v druhé záložce **Odkazy**, kam dáte jednotlivá témata, kam mohou návštěvníci pokračovat, a vyberete obrazovku, na kterou se návštěvník dostane, pokud si ji zvolí. Vždy se vám k vyplnění nabídnou 3 možnosti, nicméně můžete přidat další nebo jednu odebrat. Jako k ostatním obrazovkám můžete přidávat soubory. 
+
+![](img/rozcestnik.png)
+
+![](img/rozcestnik-frontend.png)
+
+![](img/rozcestnik-frontend-text.png)
 
 ## Obsahové obrazovky 
 
