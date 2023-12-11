@@ -148,18 +148,18 @@ Při **spolupráci více autorů** se automaticky editace zamkne na 1 minutu. In
 !!! info "Tip"
     Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy. 
 
-![](nastaveni-sdileni-popis.png)
+![](img/nastaveni-sdileni-popis.png)
 
 ## Hodnocení a návštěvnost
 
 V záložce "Hodnocení a návštěvnost" jsou dostupné informace o tom, jak výstavu vnímají návštěvníci. Jednak je tam uveden celkový počet shlédnutí, který systém počítá sám, podobně jako je tomu u shlédnutí videí na YouTube. Toto hodnocení pro vás může být užitečnou zpětnou vazbou, co se povedlo a kde je naopak prostor pro zlepšení. Zjednodušené hodnocení se rovněž ukáže na výpisu všech vašich výstav a máte ho tak po ruce. 
 
-![](hodnoceni-vystavy.png) 
+![](img/hodnoceni-vystavy.png) 
 
-![](hodnoceni-vypis-dlazdice.png) 
+![](img/hodnoceni-vypis-dlazdice.png) 
 
 Návštěvníci jsou vyzváni k hodnocení výstavy na závěrečné obrazovce. Celkové hodnocení výstavy je pomocí hvězdiček, poté mohou vybrat aspekty výstavy (např. téma nebo hry), které je obzvlášť zaujaly, a také mají možnost zanechat návštěvníkům vzkaz a adresu, na kterou tvůrci mohou odpověď. Vzkaz však není povinný. 
 
-![](hodnoceni-vystavy-navstevnici.png) 
+![](img/hodnoceni-vystavy-navstevnici.png) 
 
 
