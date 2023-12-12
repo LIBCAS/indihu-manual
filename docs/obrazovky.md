@@ -192,23 +192,23 @@ Vyberte příslušný obrázek nebo jej přidejte do souborů z počítače. Mí
 
 ### Slideshow
 
-Fotogalerie je typ obrazovky, která je v hodná k prezentování více obrázků, které spolu souvisí. V případě, že vkládáte za sebe více Obrazovek s obrázkem, zvažte využití Fotogalerie, protože výsledný dojem bude plynulejší. Umožní vám to také okomentovat více fotografií v jednom textu nebo jedním audio komentářem. To ulehčí i editaci a práci s audiosoubory. 
+Slideshow je typ obrazovky, která je v hodná k prezentování více obrázků, které spolu souvisí. V případě, že vkládáte za sebe více "Obrazovek s obrázkem", zvažte využití Slideshow, protože výsledný dojem bude plynulejší. Umožní vám to také okomentovat více fotografií v jednom textu nebo jedním audio komentářem, což vám ulehčí i editaci a práci s audiosoubory. 
 
-!!! warning "Upozornění"
-    U určování Celkové doby zobrazení obrazovky v případě Fotogalerie postupujte tak, že si zvolte čas na zobrazení jedné fotky a ten vynásobte počtem snímků. Příklad: při čtyřech fotkách a 20 vteřinách bude každá fotografie zobrazena 5 vteřin. 
+Při vkládání obrázků postupujte stejně jako u Obrazovky s obrázkem nebo u práce se soubory. Vyberte příslušný obrázek z adresáře nebo jej nahrajte do správce souborů. Další obrázek do Slideshow přidáte kliknutím na čtverec s ikonou + (1). 
 
-!!! info "Tip"
-    Načasování plynutí výstavy věnujte velkou pozornost. Zvolte u každé obrazovky takový čas, aby měl návštěvník prostor si prohlédnout obsah, ale zároveň aby se nezačal nudit. Doporučujeme vyzkoušet načasování jednotlivých obrazovek s testovacími návštěvníky. 
+**Funkcionality Slideshow**
 
-**Slideshow**
-
-Při vkládání obrázků postupujte stejně jako u Obrazovky s obrázkem nebo u práce se soubory. Vyberte příslušný obrázek z adresáře nebo jej nahrajte do správce souborů. Další obrázek do fotogalerie přidáte kliknutím na čtverec s ikonou +. 
-
-Ke každé fotografii můžete přidávat infopointy. Zvolte také způsob animace. Na výběr máte z více typů - Bez animace, Bez animace s rozmlženým pozadím, Pozvolné objevení, Pozvolné objevení s rozmlženým pozadím, Zleva doprava, Zleva doprava s rozmlženým pozadím. Rozmlžené pozadí vyplní celou obrazovku na fullscreen.  
+- **Infopointy (2):**Ke každé fotografii můžete přidávat infopointy. 
+- **Přechod obrázků (3):**Zvolte také způsob animace, tedy přechodu mezi jednotlivými obrázky. Na výběr máte z více typů  (např. Bez animace, Bez animace s rozmlženým pozadím nebo Pozvolné objevení. Rozmlžené pozadí vyplní celou obrazovku na fullscreen. 
+- **Časování (4):** Slideshow nabízí dvě varianty. Buď nastavíte časování pro celou obrazovku a editor sám vypočítá čas jednotlivých obrázků rovnoměrně. Nebo můžete nastavit časování manuálně a zvolíte si čas pro každý obrázek zvlášť. 
 
 !!! info "Tip"
     Zvažte také využití obrázku s průhledným pozadím. Pozadí potom bude černé a obrázek hezky vynikne. 
-    ![](img/fotogalerie-png.png)
+
+!!! info "Tip"
+    Načasování plynutí výstavy věnujte velkou pozornost. Zvolte u každé obrazovky takový čas, aby měl návštěvník prostor si prohlédnout obsah, ale zároveň aby se nezačal nudit. Doporučujeme vyzkoušet načasování jednotlivých obrazovek s testovacími návštěvníky, protože vy jako tvůrci obsah znáte a nepotřebujete tolik času na prohlížení a čtení. 
+
+![](img/slideshow-popis.png)
 
 ### Foto před a po
 
@@ -260,13 +260,15 @@ Sem vložte embed kód stránky nebo služby.
 
 ## Závěr výstavy  
 
-TODO - nové funkce, dopsat. Obrazovka Závěr výstavy se generuje automaticky nebo tam můžete nahrát jakýkoli obrázek. Je na ní zopakován obrázek z úvodní stránky k výstavě, tentokrát však bez animace. Obrazovka obsahuje možnost přehrát si výstavu znovu pomocí šipky Spustit znovu. Dále je možné ji sdílet ostatním na Facebook a Twitter a získat URL odkaz na výstavu. 
+Obrazovka "Závěr výstavy" se generuje automaticky a využívá obrázek, který jste měli na uvodní stránce, tentokrát však bez animace. Máte však možnost nahrát jakýkoli jiný obrázek. Na závěrečné obrazovce se objeví výzva k hodnocení výstavy. 
 
 ![](img/zaver-ukazka.png)
 
-Po kliknutí na ikonu s názvem Soubory k výstavě vyjede panel se seznamem souborů, které si návštěvník může stáhnout do počítače. 
+Po hodnocení výste se objeví další funkce. Obrazovka nabízí možnost přehrát si výstavu znovu pomocí ikony "Spustit znovu" (1). Ikona pro stažení dokumentů "Soubory k výstavě" (2) po kliknutí zobrazí panel se seznamem souborů, které si návštěvník může stáhnout do počítače. Tato funkce se zobrazí jen tehdy, když výstava dokumenty obsahuje. Dále najdeme funkci "Sdílet" (3) výstavu ostatním na Facebook, WhatsApp, síť X a získat URL odkaz na výstavu. Návštěvníci také mají možnost kliknout na ikonu Email, což vytvoří automatizovaný mail s pozvánkou. 
 
-![](img/zaver-ukazka-dokumenty.png)
+![](img/zaver-funkce-popis.png)
+
+![](img/zaver-sdileni.png)
 
 !!! info "Tip"
     Přikládáte-li k výstavě soubory, dbejte na jejich srozumitelné pojmenování, aby návštěvník věděl, co si stahuje. 

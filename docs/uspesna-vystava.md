@@ -1,40 +1,48 @@
 # Jak vytvořit úspěšnou virtuální výstavu
 
 
-Virtuální výstava je online prezentace vybraného tématu a její přípravu lze rozdělit do 6 základních činností: 
+Virtuální výstava je online prezentace vybraného tématu. Při tvorbě výstavy plníte jednotlivé obrazovky obsahem - obrázky, texty, přidáváte hudbu, namluvený komentář nebo pro návštěvníky připravíte hry. Příprava výstavy se skládá ze dvou hlavních částí. Z **přípravy tématu a obsahu výstavy** a ze **samotné práci v nástroji INDIHU Exhibition.** Přípravu výstavy lze rozdělit do 6 základních činností: 
 
-![uspesna_indihu_vystava](uspesna_indihu_vystava.jpg)
+1. Vybrat téma
+2. Vybrat způsob vyprávění (konceptualizace obsahu)
+3. Zpracovat obsah
+4. Testování a úpravy
+5. Nahrání audio komentáře
+6. Zveřejnění a propagace 
 
-Při její tvorbě plníte jednotlivé obrazovky obsahem - obrázky, texty, přidáváte hudbu, namluvený komentář nebo pro návštěvníky připravíte hry. Příprava výstavy se skládá ze dvou hlavních částí rozdělených do 6 základních kroků: 
-
-1. Příprava tématu a obsahu výstavy
-2. Samotná tvorba v nástroji INDIHU Exhibition 
+<!-- ![](uspesna_indihu_vystava.jpg) -->
 
 ![](img/doporuceny-postup-v4.jpg)
+
+!!! info "Tip"
+    Nepodceňujte poctivou přípravu tématu výstavy, tedy bodu 1 a 2. Věnujte konceptualizaci potřebnou péči a najděte ten typ vyprávění, který zaujme. Používání nástroje je mnohem snažší, když máte dobře rozmyslené, co budete vyprávět.
 
 ## Vytvářím svou první výstavu
 
 Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že jste se rozhodli použít náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy.
 
-!!! info "Tip"
-    Pracovní listy doporučujeme vytisknout a vyplnit s tužkou v ruce. Mají podobu mentální a pojmové mapy.
+![Pracovní listy pro dobrou výstavu](downloads/INDIHU_listy3.pdf)
 
-### Téma výstavy 
+!!! info "Tip"
+    Pracovní listy doporučujeme vytisknout a vyplnit s tužkou v ruce. Pracovní listy vám pomohou odpovědět na klíčové otázky - **o čem výstava bude, komu je určena, jaký ty interakce nabídne návštěvníků.** K pracovním listům se můžete opakovaně vracet. Doporučujeme je nechat **samostatně vyplnit každému členu či člence tvůrčího týmu** a poté najít společnou koncepci. 
+
+**Téma výstavy**
+
 Nejprve je třeba vybrat téma a najít ten správný přístup k jeho vyprávění. Virtuální prostředí funguje jinak, než jak jsme zvyklí u fyzických výstav, a online návštěvníci mají trochu jiná očekávání, kterým bychom se měli přizpůsobit, aby naše výstava byla úspěšná.
 
 !!! info "Tip"
-    Preferujte kompaktní témata a pokud možno se vyvarujte složitě strukturovaným problémům. 
+    Preferujte kompaktní témata a pokud možno se vyvarujte složitě strukturovaným problémům. Na komplikované vaprávění v těkavém online světě není prostor. 
 
-### Obsah výstavy 
-Nyní můžete začít zpracovávat vlastní obsah výstavy. Napište všechny potřebné texty a vyhledejte si co největší množství vizuálního materiálu. 
-Nejdůležitějším hlediskem přípravy výstavy je srozumitelnost obsahu, proto se zaměřte na jeho logické členění, buďte konkrétní a věcní.
+**Obsah výstavy**
+
+Nyní můžete začít zpracovávat vlastní obsah výstavy. Napište všechny potřebné texty a vyhledejte si co největší množství vizuálního materiálu. Nejdůležitějším hlediskem přípravy výstavy je srozumitelnost obsahu, proto se zaměřte na jeho logické členění, buďte konkrétní a věcní.
 
 V druhé fázi práce se zamyslete nad tím, jak byste mohli popisný text nahradit zajímavějším typem obsahu. Nejpříhodnější bývají videoklipy. Využijte také svoji kreativitu a vymyslete pro návštěvníka hru (pokročilejší funkce), jejichž uplatnění ve výstavě vám nástroj nabízí. 
 
 !!! info "Tip"
     Ne všechny informace jsou stejně důležité! Uvědomte si, která část obsahu je hlavní a co jsou pouze dodatečné materiály, které můžete připojit ke stažení.
 
-### Forma výstavy (způsob vyprávění tématu) 
+**Forma výstavy (způsob vyprávění tématu)**
 
 Při tvorbě vlastní virtuální výstavy v nástroji Indihu Exhibition plníte **obrazovky** obsahem. Obrazovky je dále možné sdružovat do **kapitol** nebo je možné výstavu sestavit z **jednotlivých obrazovek** jdoucích po sobě. Oba principy můžete rovněž kombinovat.
 
