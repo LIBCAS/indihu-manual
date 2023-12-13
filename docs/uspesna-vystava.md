@@ -20,7 +20,7 @@ Virtuální výstava je online prezentace vybraného tématu. Při tvorbě výst
 
 Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že jste se rozhodli použít náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy.
 
-[file.ext](img/INDIHU_listy3.pdf){:download}
+[Pracovní listy - provedou vás přípravou výstavy](img/INDIHU_listy3.pdf){:download}
 
 !!! info "Tip"
     Pracovní listy doporučujeme vytisknout a vyplnit s tužkou v ruce. Pracovní listy vám pomohou odpovědět na klíčové otázky - **o čem výstava bude, komu je určena, jaký ty interakce nabídne návštěvníků.** K pracovním listům se můžete opakovaně vracet. Doporučujeme je nechat **samostatně vyplnit každému členu či člence tvůrčího týmu** a poté najít společnou koncepci. 
