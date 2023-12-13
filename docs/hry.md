@@ -24,7 +24,7 @@ Návštěvník má za úkol najít správné místo na obrázku. Například mí
 	Tato hra přiměje návštěvníka k pečlivému prozkoumání obsahu, čímž se prohloubí jeho vnímání a soustředění. 
 
 ## Dokresli
-	
+
 Návštěvník má za úkol dokreslit pouze částečně zobrazený objekt. Ukažte mu jen část lineárního grafu a nechte ho zkusit odhadnout, jak vývoj pokračoval. Ukažte mu část obrazce a nechte jej zbytek dokreslit.
 
 !!! info "Tip"

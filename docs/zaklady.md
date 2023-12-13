@@ -14,7 +14,7 @@
 ## Zřízení účtu
 
 1.  **Registrace tvůrce**: Pro využívání INDIHU Exhibition jako webové
-    aplikace je třeba se zaregistrovat na adrese [exhibition.indihu.cz]<https://exhibition.indihu.cz/>. Můžete si vytvořit registrační údaje a zvolit si login (e-mail) a heslo nebo použít při registraci login do Google, Facebooku či GitHubu. Po vyplnění registračního formuláře je třeba registraci potvrdit pomocí odkazu zaslaného na zadaný e-mail. Tím vznikne žádost o vytvoření účtu, která je schválena
+    aplikace je třeba se zaregistrovat na adrese [exhibition.indihu.cz](https://exhibition.indihu.cz). Můžete si vytvořit registrační údaje a zvolit si login (e-mail) a heslo nebo použít při registraci login do Google, Facebooku či GitHubu. Po vyplnění registračního formuláře je třeba registraci potvrdit pomocí odkazu zaslaného na zadaný e-mail. Tím vznikne žádost o vytvoření účtu, která je schválena
     administrátorem nejpozději během 3 dnů. Po schválení žádosti vzniká uživatelský účet s rolí Editor. O postupech v procesu registrace je žadatel informován e-mailovými notifikacemi.
 2.  **Přihlášení do editoru**: Tvůrce se přihlašuje uživatelským jménem
     (e-mail) a heslem, které si zvolil při registraci nebo třetí službou Google, Facebook, GitHub). Tvůrce má možnost v záložce “Správa účtu” umístěné na pravé straně záhlaví změnit svoje osobní údaje, heslo nebo zrušit účet.
@@ -30,9 +30,9 @@ Tvorba (virtuálních) výstav je týmová práce. Editor umožňuje, aby na vý
 
 V části [Jak vytvořit úspěšnou výstavu](uspesna-vystava.md) jsou typy pro tvůrce, kteří dělají svou první výstavu a pro ty, kteří jsou již zkušenější a chtějí se rozvíjet a vyzkoušet nové funkce. Nemusíte umět programovat nebo být webdesignér, a přesto vytvoříte online výstavu. Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste: 
 
-- uměli alespoň trochu pracovat s obrázky
-- nahrát audio
-- vytvářet videa nebo napsat scénář a výrobu videa někomu zadat 
+- Uměli alespoň trochu pracovat s obrázky
+- Nahrát audio nebo připravit podklady pro nahrání
+- Vytvářet videa nebo napsat scénář a výrobu videa někomu zadat 
 
 ### Jednoduchý editor obrázků
 
@@ -162,4 +162,9 @@ Návštěvníci jsou vyzváni k hodnocení výstavy na závěrečné obrazovce. 
 
 ![](img/hodnoceni-vystavy-navstevnici.png) 
 
+## Motiv 
+
+Poslení záložkou u výstavy v rámci všeobechných nastevení je uprava motivu. Editor nabízí dva základní motivy - světlý a tmavý. Dále máte možnost si přizpůsobit ovládací prvky např. v rámci dodržení vašeho grafického manuálu a korporátní identity. Ve všobecném nástavení máte možnost upravit barvu pozadí, barvu ikon (např. šipky), barvu tagů. Výstavu také v části "Nastavení loga a vodoznaku" můžete nahrát vlastní logo a vybrat jeho umístění. Ve třetí části můžete změnit všeobecné nastavení infopointů. U infopointů pak můžete změnit barvu u každého individuálně dle potřeby. 
+
+![](img/motiv.png) 
 
