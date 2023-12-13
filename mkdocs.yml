@@ -9,9 +9,10 @@ nav:
     - 'Obrazovky': 'obrazovky.md'
     - 'Hry': 'hry.md'
     - 'Inspirace': 'inspirace.md'
-repo_url: https://nnis.github.io/indihu-manual/
+repo_url: https://libcas.github.io/indihu-manual
 markdown_extensions:
   - toc:
       permalink: '#'
   - admonition
+  - attr_list
 
