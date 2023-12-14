@@ -4,11 +4,11 @@ Základním stavebním kamenem virtuální výstavy, kterou tvoříte, jsou obra
 
 - Obsahové obrazovky 
 - Interaktivní obrazovky
-- [Herní obrazovky](hry)
+- [Herní obrazovky](hry.md)
 
-# Obsah společný pro všechny obrazovky 
+## Obsah společný pro všechny obrazovky 
 
-## Název, text, audio
+### Název, text, audio
 
 Každá obrazovka začíná záložkou s názvem **Název, text, audio** kde vyplňujete název obrazovky. V názvu shrňte, o čem obrazovka pojednává a usnadněte tak návštěvníkovi orientaci v tématu. Název se zobrazí v editoru ve výpisu obrazovek a vidí ji i návštěvník v levém dolním rohu, kde si může otevřít textové pole s dalšími informacemi k tématu. Název má být atraktivní a stručný. 
 
@@ -23,7 +23,7 @@ V pravé části stránky editace nahráváte **audio** soubory, nastavujete ča
 !!! info "Tip"
     K orientaci vám při vytváření výstavy slouží jak názvy obrazovek, tak ikonky vedle názvu, které odkazují na typ obrazovky - např. ikona obrázku, ikona poháru označující hry nebo ikona videa. Díky tomu neztrácíte přehled jak o obsahu, tak o typech obrazovek. Máte informaci o tom, jaké typy obrazovek jdou po sobě a zda se vám obrazovky příliš neopakují. 
 
-## Dokumenty
+### Dokumenty
 
 K výstavě i ke každí obrazovce je možné přidat dokumenty ideálně ve formátu .docx nebo .pdf, které si návštěvník může stáhnout. **Soubory ke stažení** umožňují přidat rozšiřující informace k výstavě (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo je nahrajte z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně. 
 
@@ -41,7 +41,7 @@ Dokumenty jsou návštěvníkovi k dispozici:
 
 ![](img/dokumenty-editace.png) 
 
-## Infopointy
+### Infopointy
 
 Infopointy jsou malé čtverečky, které můžete umístit kamkoli na obrazovku a dodat k detailu dodatečné informace ve formě textu, obrázku nebo videa. Díky infopointům můžete nasměrovat návštěvníkovu pozornost. Infopointy nabízí řadu funkcí: 
 
@@ -65,7 +65,7 @@ Infopointy jsou malé čtverečky, které můžete umístit kamkoli na obrazovku
 !!! info "Tip"
     Pro snadnější sledování postupu prací na výstavě lze všechny obrazovky po dokončení označit jako dokončené. Ve výpisu všech obrazovek výstavy se tyto obrazovky vyznačí zelenou barvou. 
 
-## Úvod výstavy
+### Úvod výstavy
 
 Úvodní stránka výstavy obsahuje poměrně hodně informací, jsou však schované a návštěvník si je rozklikne. Základem je (animovaný) obrázek, název výstavy, informace o tom, kdo výstavu vytvořil, seznam kapitol, informace o čase potřebném k projití výstavy a zejména ikona pro spuštění výstavy. Čas pro projití výstavy se počítá automaticky podle nastavení délky všech obrazovek ve výstavě. Jedná se o čas bez her. Po založení výstavy se obrazovka vytvoří automaticky. Tvůrce se k editaci dostane ze záložky "Struktura výstavy" kliknutím na čtvereček nebo přes menu v podobě tří teček. 
 
@@ -95,7 +95,7 @@ Obrazovka "Úvod výstavy" má tři záložky, které je třeba postupně naplni
 
 Na této záložce tvůrce přidává osoby podílející se na přípravě výstavy. Tiráž je navržena tak, aby tvůrce mohl/a pomocí ikony + **volně přidávat spolupracovníky a spolupracovnice** a přiřazovat jim popis spolupráce dle potřeby. Jednotliví autoři se zobrazují v řádcích. Pomocí ikonky tužka lze text upravit a pomocí koše smazat. Po kliknutí na ikonu + se zobrazí vyskakovací okno, kde do prvního řádku "Role" napíšete, co konkrétní osoba dělala. Do druhého řádku "Osoby nebo text" napíšete jméno nebo jinou krátkou informaci. Přidání další osoby do tiráže potvrdíte tlačítkem Uložit. Pro zrušení akce použijte tlačítko Storno. Pomocí šipek nahoru/dolů lze upravovat pořadí osob v tiráži.  
 
-## Úvod do kapitoly
+### Úvod do kapitoly
 
 Každá nová kapitola je uvozena titulní stránkou, obrazovkou "Úvod do kapitoly". Obsahuje název a titulní obrázek. Obrázek přidáváte v záložce "Obrázek na pozadí," kde můžete vybrat typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat.Obrázek doporučujeme orientovat na šířku. Vyberte ho z dokumentů a pokud ho nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Na hlavní záložce "Název, audio" vyplníte základní údaje ke kapitole název a případně podnázev a nastavíte pozici textu (uprostřed, nahoře, vlevo), tmavý nebo světlý motiv či zvýraznění. Různá nastavení vám pomohou, aby byl text dobře čitelný. Text také můžete animovat, což znamená, že písmena se budou objevovat postupně. 
 
@@ -112,10 +112,10 @@ Zvuková stopa pro celou kapitolu je přehrávána ve smyčce po čas průchodu 
 
 ### Obrazovka s obrázkem
 
-Obrazovka s obrázkem je jednou ze základních obrazovek. Hlavním obsahem je tedy obrázek. Obrazovka s obrázkem je relativně snadná na přípravu a je efektní. Doporučujeme použití tzv. [infopointů](obrazovky/#Infopointy), které obohatí obrázek o informační hodnotu. Infopointy jsou určeny ke zvýraznění určitého detailu nebo motivu na obrázku tím, že na konkrétní místo vložíte ikonu a krátký text, obrázek nebo video. Na jeden obrázek je možné vložit více infopointů. Infopoint se v editaci vždy objeví v levém horním rohu a je to modrá ikona s otazníkem. Odtud ho přetáhněte myší na jakékoli místo v obrázku.  
+Obrazovka s obrázkem je jednou ze základních obrazovek. Hlavním obsahem je tedy obrázek. Obrazovka s obrázkem je relativně snadná na přípravu a je efektní. Doporučujeme použití tzv. [infopointů](obrazovky.md#Infopointy), které obohatí obrázek o informační hodnotu. Infopointy jsou určeny ke zvýraznění určitého detailu nebo motivu na obrázku tím, že na konkrétní místo vložíte ikonu a krátký text, obrázek nebo video. Na jeden obrázek je možné vložit více infopointů. Infopoint se v editaci vždy objeví v levém horním rohu a je to modrá ikona s otazníkem. Odtud ho přetáhněte myší na jakékoli místo v obrázku.  
 
 !!! info "Tip"
-    V případě, že dáváte více obrazovek s obrázkem za sebe zvažte, zda raději nepoužijete typ obrazovky [Fotogalerie](obrazovky/#fotogalerie) nebo [slideshow](obrazovky/#slideshow). 
+    V případě, že dáváte více obrazovek s obrázkem za sebe zvažte, zda raději nepoužijete typ obrazovky [Fotogalerie](obrazovky.md#fotogalerie) nebo [slideshow](obrazovky.md#slideshow). 
 
 Vyberte obrázek z dokumentů. V případě, že obrázek nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Pokud chcete, vyberte typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat. Pomocí tlačítka + přidejte infopointy a nabídka nastavení se vám zobrazí ve vyskakovacím okně. Na jeden obrázek je možné vložit více infopointů, nedoporučujeme však více než tři.
 
@@ -126,7 +126,7 @@ Hlavním obsahem této obrazovky je video, které nahrajete do souborů z počí
 Zaškrtnete-li pole Vypnout zvukovou stopu kapitoly, nebude na této obrazovce zvuk pokreslující celou kapitolu, ale pustí se zvuk ve videu. 
 
 !!! info "Tip"
-    Ve výstavě můžete použít i video, které jste umístili na internet, např. na YouTube na Vimeo a to pomocí embed kódu. V tom případě použijte [Obrazovku s externím obsahem](obrazovky/#obrazovka-s-externim-obsahem). 
+    Ve výstavě můžete použít i video, které jste umístili na internet, např. na YouTube na Vimeo a to pomocí embed kódu. V tom případě použijte [Obrazovku s externím obsahem](obrazovky.md#obrazovka-s-externim-obsahem). 
 
 ### Obrazovka s textem
 

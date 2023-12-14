@@ -98,7 +98,7 @@ Při přípravě textů se držte těchto doporučení:
 - Nejzajímavější informace dejte na začátek textu a nespoléhejte se na to, že návštěvník dočte až do konce.
 - Používejte formátování (vytučněte důležitá sdělení) nebo odrážky
 - Podrobnější informace můžete připojit v samostatném souboru k výstavě a/nebo ke každé obrazovce, předejdete tak neúnosnému přehlcení hlavního obsahu.
-- Pro zvýraznění krátkého textu využijte [obrazovku s textem](obrazovky/#obrazovka-s-textem), která se hodí např. pro citáty nebo zopakování klíčových informací.
+- Pro zvýraznění krátkého textu využijte [obrazovku s textem](obrazovky.md#obrazovka-s-textem), která se hodí např. pro citáty nebo zopakování klíčových informací.
 
 V případě, že chcete pro návštěvníky připravit dokumenty ke stažení s podrobnějšími informacemi, můžete je připravit v následujících formátech: .pdf, .txt, .docx. Doporučujeme především využití formátu .pdf, u kterého nedojde ke změně formátování.
 
@@ -130,8 +130,8 @@ Z finálních textů můžete namluvit **audio komentář**. Usnadníte tak div�
 Interaktivní obrazovky jsou druhy obrazovek, které poskytují návštěvníkům možnost drobné interakce, ale nejsou náročné na vytvoření a jsou vítaným ozvláštněním výstavy. Jejich podoba opět stojí zejména na obrázcích.
 
 **Při přípravě výstavy využijte tyto typy interaktivních obrazovek:** 
- - [Fotogalerie](https://libcas.github.io/indihu-manual/obrazovky/#fotogalerie): Tato obrazovka návštěvníkovi umožňuje si vybrat obrázky, které si prohlídne a pohled z blízka pomocí lupy.
- - [Před a po](https://libcas.github.io/indihu-manual/obrazovky/#foto-pred-a-po): Tato obrazovka umožňuje prezentovat dva obrázky, které se doplňují, nebo naopak kontrastují, a návštěvník je může sám porovnávat. 
+ - [Fotogalerie](obrazovky.md#fotogalerie): Tato obrazovka návštěvníkovi umožňuje si vybrat obrázky, které si prohlídne a pohled z blízka pomocí lupy.
+ - [Před a po](obrazovky.md#foto-pred-a-po): Tato obrazovka umožňuje prezentovat dva obrázky, které se doplňují, nebo naopak kontrastují, a návštěvník je může sám porovnávat. 
  - [Obrazovka s externím obsahem](obrazovky.md#obrazovka-s-externim-obsahem): Máte zajímavý obsah uveřejněný v jiné aplikaci? Díky této obrazovce ho můžete jednoduše integrovat do výstavy a to včetně zachovaní interaktivity, který obsah na jiné stránce nabízí. Příkladem mohou být např. mapové aplikace nebo video.
 
 ### Testování
@@ -158,20 +158,20 @@ Video připravujte v rozlišení FullHD (1920×1080), 25 snímků za vteřinu, v
 
 ### Parallax
 
-[Parallax](/obrazovky/#parallax) je speciální typ pohyblivého obrázku. Tohoto zajímavého efektu se docílí tím, že se obrázek nahraje v několika vrstvách, z nichž se každá pohybuje zvlášť. Příprava parallaxu je náročnější, jak na představivost, tak na vlastní produkci. 
+[Parallax](obrazovky.md#parallax) je speciální typ pohyblivého obrázku. Tohoto zajímavého efektu se docílí tím, že se obrázek nahraje v několika vrstvách, z nichž se každá pohybuje zvlášť. Příprava parallaxu je náročnější, jak na představivost, tak na vlastní produkci. 
 
 ### Nelineární procházení virtuální výstavou
 
 Přemýšlíte o virtuální výstavě jako o prostoru, který si může návštěvník projít podle své volby? Chcete jeho zájem koncentrovat podle jeho nálady, zvědavosti či úrovni vědomostí? V tomto případě můžete využít funkci nelineárního procházení virtuální výstavou pomocí: 
 
-- obrazovky [Rozcestník](https://libcas.github.io/indihu-manual/obrazovky/#rozcestnik)
-- nebo skrz [Infopointy](https://libcas.github.io/indihu-manual/obrazovky/#infopointy)
+- obrazovky [Rozcestník](obrazovky.md#rozcestnik)
+- nebo skrz [Infopointy](obrazovky.md#infopointy)
 
 Je to jedna z nejvíce pokročilých funkcí a na vás jako na tvůrce klade velké nároky na promýšlení struktury výstavy. Návštěvníkovi ale tímto způsobem můžete nabídnout přeskočení vybraného obsahu. 
 
 ### Hry 
 
-Interaktivita a možnost se přímo zapojit do procesu konzumace virtuálního obsahu je již běžnou součástí vnímání na internetu a návštěvníci jsou na takové chování ve virtuálním prostředí zvyklí. Nástroj INDIHU Exhibition nabízí zapojit do výstavy několik typů her, jejichž podrobnější vysvětlení naleznete v samostatné [záložce](hry). 
+Interaktivita a možnost se přímo zapojit do procesu konzumace virtuálního obsahu je již běžnou součástí vnímání na internetu a návštěvníci jsou na takové chování ve virtuálním prostředí zvyklí. Nástroj INDIHU Exhibition nabízí zapojit do výstavy několik typů her, jejichž podrobnější vysvětlení naleznete v samostatné [záložce](hry.md). 
 
 Některé z nich mají jasné řešení a jsou vhodnější pro ověření znalostí a pozornosti. Znalostními hrami můžeme téma otevřít a zjistit vstupní úroveň vědomostí, které zbytkem obsahu výstavy doplníme a rozvedeme, nebo je naopak zapojit na závěr jako jednoduchý způsob všechny prezentované informace shrnout. Mezi tyto hry patří: 
 

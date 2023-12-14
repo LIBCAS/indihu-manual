@@ -32,7 +32,7 @@ Návštěvník má za úkol dokreslit pouze částečně zobrazený objekt. Uka�
 
 ## Stírací los
 
-Hlavním obsahem je obrázek, po jehož odkrytí se zobrazí jiný obrázek. Návštěvník první obrázek "vygumuje" myší a dostane novou informaci. Stírací los můžete použít jako interaktivní obdobu [Foto před a po](/obrazovky/#foto-pred-a-po). 
+Hlavním obsahem je obrázek, po jehož odkrytí se zobrazí jiný obrázek. Návštěvník první obrázek "vygumuje" myší a dostane novou informaci. Stírací los můžete použít jako interaktivní obdobu [Foto před a po](obrazovky.md#foto-pred-a-po). 
 
 !!! info "Tip"
 	Stírání je velice jednoduché a intuitivní. Nelze však předpokládat, že návštěvník pečlivě setře celý obrázek, proto raději umístěte objekt a pointu ke středu obrázku a ne na jeho okraje. 
