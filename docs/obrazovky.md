@@ -65,6 +65,9 @@ Infopointy jsou malé čtverečky, které můžete umístit kamkoli na obrazovku
 !!! info "Tip"
     Pro snadnější sledování postupu prací na výstavě lze všechny obrazovky po dokončení označit jako dokončené. Ve výpisu všech obrazovek výstavy se tyto obrazovky vyznačí zelenou barvou. 
 
+!!! warning "Upozornění"
+    Myslete na to, že při prohlížení výstav mají návštvěníci malé obrazovky, a proto se obsah jednotlivých infopointů může překrývat. Doporučujeme psát infopointy stručné a nedávat je jako "Trvale zobrazené." Můžete také vytvořit výstavu pro telefony zvlášť.  
+
 ### Úvod výstavy
 
 Úvodní stránka výstavy obsahuje poměrně hodně informací, jsou však schované a návštěvník si je rozklikne. Základem je (animovaný) obrázek, název výstavy, informace o tom, kdo výstavu vytvořil, seznam kapitol, informace o čase potřebném k projití výstavy a zejména ikona pro spuštění výstavy. Čas pro projití výstavy se počítá automaticky podle nastavení délky všech obrazovek ve výstavě. Jedná se o čas bez her. Po založení výstavy se obrazovka vytvoří automaticky. Tvůrce se k editaci dostane ze záložky "Struktura výstavy" kliknutím na čtvereček nebo přes menu v podobě tří teček. 
@@ -249,13 +252,13 @@ U příslušné služby, kterou chcete využít, zvolíte možnost sdílení emb
 !!! info "Tip: Interaktivní grafy"
     Grafy jsou účinnými nástroji vizualizace informací a dokáží návštěvníkovi předat velké množství informací zajímavou formou. Využití grafů může vypadat třeba takto: 
     ![](img/graf-ukazka.png)
-    Tento graf byl vytvořen pomocí služby [Inforgram](https://infogram.com/). Konkrétní čísla a informace se zobrazí, když na část grafu návštěvník najede myší. Kromě grafů můžete vytvářet v tomto nástroji i mapy s informacemi. 
+    Tento graf byl vytvořen pomocí služby [Infogram](https://infogram.com/). Konkrétní čísla a informace se zobrazí, když na část grafu návštěvník najede myší. Kromě grafů můžete vytvářet v tomto nástroji i mapy s informacemi. 
 
 !!! info "Tip: 3D objekt"
     Máte-li k dispozici digitalizované objekty ve 3D, je možné pomocí embed kódu vložit do výstavy i je. Návštěvník si může pomocí myši s objektem otáčet a dívat se na něj ze všech stran. Někdy 3D modely obsahují i textové informace.   
     ![](img/embed-3d.png)
 
-## Rozcestník
+### Rozcestník
 
 Rozcestník je typ interaktivní obrazovky, díky které návštěvníkům umožníte, aby si vybrali, čemu se chtějí ve výstavě dále věnovat. Návštěvník si vybírá téma, nebo si vybere možnost pokračovat dál ve výstavě kliknutím na čtvercové tlačítko **Další obrazovka** vlevo dole. Pokud si vybere konkrétní téma, které nabízíte, přeskočí tím část výstavy. 
 
