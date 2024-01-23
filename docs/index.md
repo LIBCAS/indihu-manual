@@ -6,7 +6,7 @@ Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu **multimedi
 
 Editor byl koncipován tak, aby byla výsledná virtuální výstava vizuální, svěží, nápaditá a zábavná. Hlavní roli ve virtuálních výstavách hraje obsah, ovládací prvky jsou subtilní. INDIHU Exhibition má širokou škálu použití pro instituce zprostředkovávající kulturní dědictví, umožní vytvářet výstavy na **libovolná témata** a lze použít i pro neotřelou online prezentaci výstupů vědeckého bádání. 
 
-Může sloužit jako **vzdělávací nástroj** a pomůcka ve výuce v různých typech škol. Ve výuce můžete využít hotové výstavy, nebo nechat žáky a studenty v něm mohou zpracovávat školní práce. 
+Může sloužit jako **vzdělávací nástroj** a pomůcka ve výuce v různých typech škol. Ve výuce můžete využít hotové výstavy, nebo nechat žáky a studenty v editoru zpracovávat školní práce. 
 
 !!! question "Proč používat INDIHU Exhibition?"
     * Umožní tvořit virtuální výstavy, aniž byste museli rozumět webdesignu
