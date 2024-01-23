@@ -22,7 +22,7 @@ Co od virtuální výstavy očekává její návštěvník? Je to především *
 - střídání různorodého obsahu
 - možnost výběru tématu
 
-Návštěvníci očekávají **příběh!** Formulací tématu do příběhu, využití postavy **vypravěče**, kterým může být třeba reálná nebo vymšlená postava, můžeme dosáhnout osobního zážitku. 
+Návštěvníci očekávají **příběh!** Formulací tématu do příběhu, využití postavy **vypravěče**, kterým může být třeba reálná nebo vymyšlená postava, můžeme dosáhnout osobního zážitku. 
 
 V neposlední řadě je důležité, aby ovládání virtuální výstavy bylo **jednoduché a intuitivní** a aby návštěvník, věděl, jak může výstavou procházet. Ideální kombinací je předem navržená cesta výstavou s možností individuálního odklonu od ní. 
 
@@ -30,7 +30,7 @@ V neposlední řadě je důležité, aby ovládání virtuální výstavy bylo *
 
 ### Na Sibiř z domova
 
-Výstavu "Na Sibiř z domova" vytvořili v Národním muzeu v době, kdy byla kvůli pandemii covidu-19 zavřená muzea. Zvolenou koncepcí bylo **převedení fyzické výstavy do virtuální podoby**, nicméně tak, aby vyhovovalo potřebám online návštěvníků. Výstava vyniká zejména svým překvapivým tématem a **zajímavým obsahem**, kdy se návštěvníci setkávají s kulturou, op které toho příliš neví a sledují **každodenní život a zvyky** obyvatel Sibiře. Výstava má **dobrý začátek**, kdy se setkáváme pomocí videa s jednou z autorek výstavy, takže výstava **působí osobně**. Mezi další kvalitní prvky výstavy **patří pestrý obrazový materiál** a zejména skvělé fotografie pocházející z výzkumu v terénu a pořízené profesionálním fotografem. Fotografie se typově střídají, takže návštěvník udrží pozornost a nezačne se nudit. **Fotografie sbírkových předmětů** jsou kvalitně nafocené a doplněné infopointy, takže vyniknou. Výstava obsahuje hudbu i kvalitní audio komentář. **Délka je 14 minut**, což je ideální - výstavy by neměly být delší než 15 minut, protože online návštěvníci hledají spíše kratší obsah. 
+Výstavu "Na Sibiř z domova" vytvořili v Národním muzeu v době, kdy byla kvůli pandemii covidu-19 zavřená muzea. Zvolenou koncepcí bylo **převedení fyzické výstavy do virtuální podoby**, nicméně tak, aby vyhovovalo potřebám online návštěvníků. Výstava vyniká zejména svým překvapivým tématem a **zajímavým obsahem**, kdy se návštěvníci setkávají s kulturou, o které toho příliš neví a sledují **každodenní život a zvyky** obyvatel Sibiře. Výstava má **dobrý začátek**, kdy se setkáváme pomocí videa s jednou z autorek výstavy, takže výstava **působí osobně**. Mezi další kvalitní prvky výstavy **patří pestrý obrazový materiál** a zejména skvělé fotografie pocházející z výzkumu v terénu a pořízené profesionálním fotografem. Fotografie se typově střídají, takže návštěvník udrží pozornost a nezačne se nudit. **Fotografie sbírkových předmětů** jsou kvalitně nafocené a doplněné infopointy, takže vyniknou. Výstava obsahuje hudbu i kvalitní audio komentář. **Délka je 14 minut**, což je ideální - výstavy by neměly být delší než 15 minut, protože online návštěvníci hledají spíše kratší obsah. 
 
 ![](img/sibir1.png)
 

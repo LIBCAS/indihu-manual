@@ -16,6 +16,9 @@ Virtuální výstava je online prezentace vybraného tématu. Při tvorbě výst
 !!! info "Tip"
     Nepodceňujte poctivou přípravu tématu výstavy, tedy bodu 1 a 2. Věnujte konceptualizaci potřebnou péči a najděte ten typ vyprávění, který zaujme. Používání nástroje je mnohem snazší, když máte dobře rozmyšlené, co budete vyprávět.
 
+!!! warning "Upozornění"
+    Myslete na to, že návštěvníci jsou zvyklí na kratký obsah online. Běžně se dívají na Shorts na YouTube, krátká Reels na Instagramu nebo na krátká videa na sociální síti TikTok. Vaše výstava by měla být do 15 minut.
+
 ## Vytvářím svou první výstavu
 
 Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že jste se rozhodli použít náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy.
@@ -34,7 +37,7 @@ Nejprve je třeba vybrat téma a najít ten správný přístup k jeho vyprávě
 
 **Obsah výstavy**
 
-Nyní můžete začít zpracovávat vlastní obsah výstavy. Napište všechny potřebné texty a vyhledejte si co největší množství vizuálního materiálu. Nejdůležitějším hlediskem přípravy výstavy je srozumitelnost obsahu, proto se zaměřte na jeho logické členění, buďte konkrétní a věcní.
+Nyní můžete začít zpracovávat vlastní obsah výstavy. **Méně je více** - vyberte to nejdůležitější tak, aby byla výsledná vsýtava do 15 minut. Napište všechny potřebné texty a vyhledejte si co největší množství vizuálního materiálu. Nejdůležitějším hlediskem přípravy výstavy je srozumitelnost obsahu, proto se zaměřte na jeho logické členění, buďte konkrétní a věcní.
 
 V druhé fázi práce se zamyslete nad tím, jak byste mohli popisný text nahradit zajímavějším typem obsahu. Nejpříhodnější bývají videoklipy. Využijte také svoji kreativitu a vymyslete pro návštěvníka hru (pokročilejší funkce), jejichž uplatnění ve výstavě vám nástroj nabízí. 
 

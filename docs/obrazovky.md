@@ -2,9 +2,52 @@
 
 Základním stavebním kamenem virtuální výstavy, kterou tvoříte, jsou obrazovky. Postupně si projdeme jednotlivé typy obrazovek, jejich funkcionality a možnosti použití. Pokud hledáte informace ke konkrétnímu typu obrazovky, použijte navigaci vpravo. Obrazovky plníte obsahem a sdružujete do kapitol, tím vznikne výstava. Výstava může být složená pouze z jednotlivých obrazovek bez organizace do kapitol. Nabízíme 3 druhy obrazovek: 
 
-- Obsahové obrazovky 
-- Interaktivní obrazovky
+- [Obsahové obrazovky](obrazovky.md#obsahove-obrazovky) 
+- [Interaktivní obrazovky](obrazovky.md#interaktivni-obrazovky)
 - [Herní obrazovky](hry.md)
+
+## Úvod výstavy
+
+Úvodní stránka výstavy obsahuje poměrně hodně informací, jsou však schované a návštěvník si je rozklikne. Základem je (animovaný) obrázek, název výstavy, informace o tom, kdo výstavu vytvořil, seznam kapitol, informace o čase potřebném k projití výstavy a zejména ikona pro spuštění výstavy. Čas pro projití výstavy se počítá automaticky podle nastavení délky všech obrazovek ve výstavě. Jedná se o čas bez her. Po založení výstavy se obrazovka vytvoří automaticky. Tvůrce se k editaci dostane ze záložky "Struktura výstavy" kliknutím na čtvereček nebo přes menu v podobě tří teček. 
+
+!!! warning "Upozornění"
+    Není třeba vyplnit všechny položky hned na začátku tvorby výstavy. Některé informace vyplynou až během procesu vytváření samotné výstavy. 
+
+![](img/uvod-vystavy.png) 
+
+Obrazovka "Úvod výstavy" má tři záložky, které je třeba postupně naplnit obsahem. Kromě záložky "Název, popis, audio," kde přidáváte informace jako u ostatních obrazovek a navíc dáváte informaci o instituci, která výstavu vytvořila, obsahuje záložku "Tiráž" a "Dokumenty/soubory k výstavě". V úvodu výstavy vyplňujete:
+
+* Název: Název výstavy, který se zobrazí při prohlížení výstavy. Pokuste se názvem zaujmout. 
+* Podnázev: Vysvětlující doplněk k názvu. Není třeba vyplňovat. 
+* Perex: Text uvádějící výstavu. Měl by být chytlavý a vzbudit v návštěvníkovi zájem, ale zároveň stručný a jednoduchý. Zobrazí se po kliknutí na "Více informací" před spuštěním výstavy. Editor vám ukazuje počet znaků a automaticky vypočítává přibližnou délku, kdyby text byl namluvený jako audio.
+* Obrázek na pozadí: Titulní obrázek celé výstavy. 
+* Animace obrázku: Volba typů animace (Shora dolů, Zdola nahoru a další). Obrázek může být statický a bez animace. 
+* Audio verze výstavy: Vznikne složením všech audio komentářů použitých ve výstavě. Návštěvníkům umožníte si ji stáhnout a poslechnout či sdílet jako podcast.  
+* Organizace: Hlavní instituce, která stojí za tvorbou výstavy. Ostatní zapojené instituce je možné přidat do tiráže. 
+* Odkaz na web organizace 
+
+!!! info "Tip"
+    Audio verzi výstavy lze uveřejnit jako podcast, což umožní lidem čerpat zajímavé informace i formou poslechu. 
+
+!!! info "Tip"
+    Vyzkoušejte na někom, kdo výstavu nezná a nepodílí se na její tvorbě. Má u všech obrazovek dost času na prohlížení? Jak dlouho stráví hraním?
+
+**Tiráž**
+
+Na této záložce tvůrce přidává osoby podílející se na přípravě výstavy. Tiráž je navržena tak, aby tvůrci mohli pomocí ikony "+" **volně přidávat spolupracovníky a spolupracovnice** a přiřazovat jim popis spolupráce dle potřeby. Jednotliví autoři se zobrazují v řádcích. Pomocí ikonky tužka lze text upravit a pomocí koše smazat. Po kliknutí na ikonu "+" se zobrazí vyskakovací okno, kde do prvního řádku "Role" napíšete, co konkrétní osoba dělala. Do druhého řádku "Osoby nebo text" napíšete jméno nebo jinou krátkou informaci. Přidání další osoby do tiráže potvrdíte tlačítkem Uložit. Pro zrušení akce použijte tlačítko Storno. Pomocí šipek nahoru/dolů lze upravovat pořadí osob v tiráži.  
+
+## Úvod do kapitoly
+
+Každá nová kapitola je uvozena titulní stránkou, obrazovkou "Úvod do kapitoly". Obsahuje název a titulní obrázek. Obrázek přidáváte v záložce "Obrázek na pozadí," kde můžete vybrat typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat.Obrázek doporučujeme orientovat na šířku. Vyberte ho z dokumentů a pokud ho nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Na hlavní záložce "Název, audio" vyplníte základní údaje ke kapitole název a případně podnázev a nastavíte pozici textu (uprostřed, nahoře, vlevo), tmavý nebo světlý motiv či zvýraznění. Různá nastavení vám pomohou, aby byl text dobře čitelný. Text také můžete animovat, což znamená, že písmena se budou objevovat postupně. 
+
+![](img/uvod-kapitoly-umisteni.png) 
+
+![](img/uvod-kapitoly-umisteni2.png) 
+
+Zvuková stopa pro celou kapitolu je přehrávána ve smyčce po čas průchodu všemi stránkami kapitoly. Zvuková stopa pro úvodní stránku kapitoly je přehrána pouze jednou a definuje svou délkou i délku animace obrázku a celkově délku setrvání na této stránce. Pokud vám automaticky vypočtená délka nevyhovuje, můžete délku v sekundách manuálně změnit.  
+
+!!! failure "Pozor"
+    Tvorba mluveného komentáře je produkčně poměrně náročná. Proto doporučujeme audio komentář nahrávat až jako poslední, když jste s celou výstavou spokojeni a prošla testováním. 
 
 ## Obsah společný pro všechny obrazovky 
 
@@ -66,59 +109,18 @@ Infopointy jsou malé čtverečky, které můžete umístit kamkoli na obrazovku
     Pro snadnější sledování postupu prací na výstavě lze všechny obrazovky po dokončení označit jako dokončené. Ve výpisu všech obrazovek výstavy se tyto obrazovky vyznačí zelenou barvou. 
 
 !!! warning "Upozornění"
-    Myslete na to, že při prohlížení výstav mají návštěvníci malé obrazovky, a proto se obsah jednotlivých infopointů může překrývat. Doporučujeme psát infopointy stručné a nedávat je jako "Trvale zobrazené." Můžete také vytvořit výstavu pro telefony zvlášť.  
-
-### Úvod výstavy
-
-Úvodní stránka výstavy obsahuje poměrně hodně informací, jsou však schované a návštěvník si je rozklikne. Základem je (animovaný) obrázek, název výstavy, informace o tom, kdo výstavu vytvořil, seznam kapitol, informace o čase potřebném k projití výstavy a zejména ikona pro spuštění výstavy. Čas pro projití výstavy se počítá automaticky podle nastavení délky všech obrazovek ve výstavě. Jedná se o čas bez her. Po založení výstavy se obrazovka vytvoří automaticky. Tvůrce se k editaci dostane ze záložky "Struktura výstavy" kliknutím na čtvereček nebo přes menu v podobě tří teček. 
-
-!!! warning "Upozornění"
-    Není třeba vyplnit všechny položky hned na začátku tvorby výstavy. Některé informace vyplynou až během procesu vytváření samotné výstavy. 
-
-![](img/uvod-vystavy.png) 
-
-Obrazovka "Úvod výstavy" má tři záložky, které je třeba postupně naplnit obsahem. Kromě záložky "Název, popis, audio," kde přidáváte informace jako u ostatních obrazovek a navíc dáváte informaci o instituci, která výstavu vytvořila, obsahuje záložku "Tiráž" a "Dokumenty/soubory k výstavě". V úvodu výstavy vyplňujete:
-
-* Název: Název výstavy, který se zobrazí při prohlížení výstavy. Pokuste se názvem zaujmout. 
-* Podnázev: Vysvětlující doplněk k názvu. Není třeba vyplňovat. 
-* Perex: Text uvádějící výstavu. Měl by být chytlavý a vzbudit v návštěvníkovi zájem, ale zároveň stručný a jednoduchý. Zobrazí se po kliknutí na "Více informací" před spuštěním výstavy. Editor vám ukazuje počet znaků a automaticky vypočítává přibližnou délku, kdyby text byl namluvený jako audio.
-* Obrázek na pozadí: Titulní obrázek celé výstavy. 
-* Animace obrázku: Volba typů animace (Shora dolů, Zdola nahoru a další). Obrázek může být statický a bez animace. 
-* Audio verze výstavy: Vznikne složením všech audio komentářů použitých ve výstavě. Návštěvníkům umožníte si ji stáhnout a poslechnout či sdílet jako podcast.  
-* Organizace: Hlavní instituce, která stojí za tvorbou výstavy. Ostatní zapojené instituce je možné přidat do tiráže. 
-* Odkaz na web organizace 
-
-!!! info "Tip"
-    Audio verzi výstavy lze uveřejnit jako podcast, což umožní lidem čerpat zajímavé informace i formou poslechu. 
-
-!!! info "Tip"
-    Vyzkoušejte na někom, kdo výstavu nezná a nepodílí se na její tvorbě. Má u všech obrazovek dost času na prohlížení? Jak dlouho stráví hraním?
-
-**Tiráž**
-
-Na této záložce tvůrce přidává osoby podílející se na přípravě výstavy. Tiráž je navržena tak, aby tvůrce mohl/a pomocí ikony + **volně přidávat spolupracovníky a spolupracovnice** a přiřazovat jim popis spolupráce dle potřeby. Jednotliví autoři se zobrazují v řádcích. Pomocí ikonky tužka lze text upravit a pomocí koše smazat. Po kliknutí na ikonu + se zobrazí vyskakovací okno, kde do prvního řádku "Role" napíšete, co konkrétní osoba dělala. Do druhého řádku "Osoby nebo text" napíšete jméno nebo jinou krátkou informaci. Přidání další osoby do tiráže potvrdíte tlačítkem Uložit. Pro zrušení akce použijte tlačítko Storno. Pomocí šipek nahoru/dolů lze upravovat pořadí osob v tiráži.  
-
-### Úvod do kapitoly
-
-Každá nová kapitola je uvozena titulní stránkou, obrazovkou "Úvod do kapitoly". Obsahuje název a titulní obrázek. Obrázek přidáváte v záložce "Obrázek na pozadí," kde můžete vybrat typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat.Obrázek doporučujeme orientovat na šířku. Vyberte ho z dokumentů a pokud ho nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Na hlavní záložce "Název, audio" vyplníte základní údaje ke kapitole název a případně podnázev a nastavíte pozici textu (uprostřed, nahoře, vlevo), tmavý nebo světlý motiv či zvýraznění. Různá nastavení vám pomohou, aby byl text dobře čitelný. Text také můžete animovat, což znamená, že písmena se budou objevovat postupně. 
-
-![](img/uvod-kapitoly-umisteni.png) 
-
-![](img/uvod-kapitoly-umisteni2.png) 
-
-Zvuková stopa pro celou kapitolu je přehrávána ve smyčce po čas průchodu všemi stránkami kapitoly. Zvuková stopa pro úvodní stránku kapitoly je přehrána pouze jednou a definuje svou délkou i délku animace obrázku a celkově délku setrvání na této stránce. Pokud vám automaticky vypočtená délka nevyhovuje, můžete délku v sekundách manuálně změnit.  
-
-!!! failure "Pozor"
-    Tvorba mluveného komentáře je produkčně poměrně náročná. Proto doporučujeme audio komentář nahrávat až jako poslední, když jste s celou výstavou spokojeni a prošla testováním. 
+    Myslete na to, že při prohlížení výstav mohou mít návštěvníci malé obrazovky, a proto se obsah jednotlivých infopointů může překrývat. Doporučujeme psát infopointy stručné a nedávat je jako "Trvale zobrazené." Můžete také vytvořit výstavu pro telefony zvlášť.  
 
 ## Obsahové obrazovky 
 
 ### Obrazovka s obrázkem
 
-Obrazovka s obrázkem je jednou ze základních obrazovek. Hlavním obsahem je tedy obrázek. Obrazovka s obrázkem je relativně snadná na přípravu a je efektní. Doporučujeme použití tzv. [infopointů](obrazovky.md#Infopointy), které obohatí obrázek o informační hodnotu. Infopointy jsou určeny ke zvýraznění určitého detailu nebo motivu na obrázku tím, že na konkrétní místo vložíte ikonu a krátký text, obrázek nebo video. Na jeden obrázek je možné vložit více infopointů. Infopoint se v editaci vždy objeví v levém horním rohu a je to modrá ikona s otazníkem. Odtud ho přetáhněte myší na jakékoli místo v obrázku.  
+Obrazovka s obrázkem je jednou ze základních obrazovek. Hlavním obsahem je tedy obrázek. Obrazovka s obrázkem je relativně snadná na přípravu a je efektní. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů. Doporučujeme použití tzv. [infopointů](obrazovky.md#infopointy), které obohatí obrázek o informační hodnotu. Infopointy do obrázku přidáte v záložce "Obrázek" a mají podobu modrého otazníku, který umístíte kamkoli v obrázku chcete. Nový infopoint se vždy zobrazí v levém horním rohu. 
+
+Infopointy jsou určeny ke zvýraznění určitého detailu nebo motivu na obrázku tím, že na konkrétní místo vložíte ikonu a krátký text, obrázek nebo video. Na jeden obrázek je možné vložit více infopointů. Infopoint se v editaci vždy objeví v levém horním rohu a je to modrá ikona s otazníkem. Odtud ho přetáhněte myší na jakékoli místo v obrázku.  
 
 !!! info "Tip"
-    V případě, že dáváte více obrazovek s obrázkem za sebe zvažte, zda raději nepoužijete typ obrazovky [Fotogalerie](obrazovky.md#fotogalerie) nebo [slideshow](obrazovky.md#slideshow). 
+    V případě, že máte ve výstavě více obrazovek s obrázkem za sebou, zvažte, zda raději nepoužijete typ obrazovky [Fotogalerie](obrazovky.md#fotogalerie) nebo [slideshow](obrazovky.md#slideshow). 
 
 Vyberte obrázek z dokumentů. V případě, že obrázek nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Pokud chcete, vyberte typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat. Pomocí tlačítka + přidejte infopointy a nabídka nastavení se vám zobrazí ve vyskakovacím okně. Na jeden obrázek je možné vložit více infopointů, nedoporučujeme však více než tři.
 
@@ -129,7 +131,7 @@ Hlavním obsahem této obrazovky je video, které nahrajete do souborů z počí
 Zaškrtnete-li pole Vypnout zvukovou stopu kapitoly, nebude na této obrazovce zvuk pokreslující celou kapitolu, ale pustí se zvuk ve videu. 
 
 !!! info "Tip"
-    Ve výstavě můžete použít i video, které jste umístili na internet, např. na YouTube na Vimeo a to pomocí embed kódu. V tom případě použijte [Obrazovku s externím obsahem](obrazovky.md#obrazovka-s-externim-obsahem). 
+    Ve výstavě můžete použít i video, které jste umístili na internet, např. na YouTube nebo na Vimeo. V tomto případě využijte [Obrazovku s externím obsahem](obrazovky.md#obrazovka-s-externim-obsahem). Externí služby nabízejí možnost sdílení přes tzv. embed kód, který si zkopírujete do své stránky. 
 
 ### Obrazovka s textem
 
@@ -149,7 +151,10 @@ Tipy použití pro obrazovku s textem:
 
 ### Parallax
 
-Parallax je dynamický efekt, který oživí virtuální výstavu. Spočívá v tom, že je obrázek rozdělen na nejméně 2 vrstvy - popředí a pozadí. Tyto vrstvy jsou animovány rozdílnou rychlostí, čímž vzniká iluze 3D, ačkoli se jedná stále o obrázek. Příklady tohoto efektu najdete např. na [YouTube](https://www.youtube.com/watch?v=cUfmUPhApJ0). 
+Parallax je dynamický efekt, který oživí virtuální výstavu. Spočívá v tom, že je obrázek rozdělen na nejméně 2 vrstvy - popředí a pozadí. Tyto vrstvy jsou animovány rozdílnou rychlostí, čímž vzniká iluze 3D, ačkoli se jedná stále o obrázek. Přípravu jednotlivých vrstev vytvořte v příšlušném grafickém programu, na který jste zvyklí (např. Kripta, Adobe Photoshop). 
+
+!!! info "Tip"
+    Tato obrazovka je poměrně náročná jak grafickou na přípravu, tak na vymýšlení jejího obsahového zakotvení ve výstavě. Proto se zatím ve výstavách příliš neobjevuje. Doporučujeme si najít inspiraci pro použití např. na YouTube.
 
 Pomocí vkládání obrázků po vrstvách vytvoříte parallax. Obrázky si nahrajte do systému z počítače pomocí správce souborů. V případě parallaxu je třeba obrázky jednotlivých vrstev upravit a ořezat, viz následující obrázek z editace. Nejdůležitějším obrázkem je podkladový obrázek, na jehož výběr dbejte. 
 
@@ -165,10 +170,15 @@ Ukázku, jak může vypadat parallax, uvidíte v následujícím videu.
 
 ### Animace přiblížení
 
-Obrazovka "Animace přiblížení"" je velmi efektivní způsob, jak na jednom obrázku návštěvníkovi zdůraznit určité detaily včetně možnosti tyto detaily okomentovat. Statickou obdobou podobné funkcionality je obrázek, do kterého přidáte infopointy. Na rozdíl od infopointů, které si uživatel nemusí rozkliknout, u této obrazovky o detailní pohled nepřijde, protože se obrázek přibližuje a oddaluje tak, jak jste to nastavili. Mezi jednotlivými detaily se animace vždy vrátí na celek obrázku.   
+Obrazovka "Animace přiblížení"" je velmi efektní způsob, jak na jednom obrázku návštěvníkům zdůraznit určité detaily. Obrázek se přiblíží na místo, které chcete ukázat, poté se oddálí a může se přiblížit na další. Tento detail také máte možnost okomentovat - máte na výběr několik možných umístění, kde se komentář zobrazí. Na detaily můžete upozorňovat i infopointy, ty ale návštěvníci nemusí vždy rozkliknout, a u obrazovky "Animace přiblížení" o detailní pohled nepřijdou, protože se obrázek přibližuje a oddaluje tak, jak jste to nastavili. Mezi jednotlivými detaily se animace vždy vrátí na celek obrázku. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.   
+
+!!! info "Tip"
+    Obrazovka "Animace přiblížení" vyžaduje poměrně dost času, aby byla animace příjemná a plynulá a návštěvníci měli dost času si obrázek prohlédnout. 
 
 !!! info "Tip"
     Načasování plynutí výstavy věnujte velkou pozornost. Zvolte u každé obrazovky takový čas, aby měl návštěvník prostor si prohlédnout obsah, ale zároveň aby se nezačal nudit. Doporučujeme vyzkoušet načasování jednotlivých obrazovek s testovacími návštěvníky. 
+
+<!-- TODO video -->
 
 **Sekvence**
 
@@ -178,31 +188,32 @@ Vyberte příslušný obrázek nebo jej přidejte do souborů z počítače. Mí
 
 Slideshow je typ obrazovky, která je v hodná k prezentování více obrázků, které spolu souvisí. V případě, že vkládáte za sebe více "Obrazovek s obrázkem", zvažte využití Slideshow, protože výsledný dojem bude plynulejší. Umožní vám to také okomentovat více fotografií v jednom textu nebo jedním audio komentářem, což vám ulehčí i editaci a práci s audiosoubory. 
 
-Při vkládání obrázků postupujte stejně jako u "Obrazovky s obrázkem" nebo u práce se soubory. Vyberte příslušný obrázek z adresáře nebo jej nahrajte do správce souborů. Další obrázek do Slideshow přidáte kliknutím na čtverec s ikonou + (1). 
+Při vkládání obrázků postupujte stejně jako u "Obrazovky s obrázkem" nebo u práce se soubory. Vyberte příslušný obrázek z adresáře nebo jej nahrajte do správce souborů. Další obrázek do Slideshow přidáte kliknutím na čtverec s ikonou "+"" (1). Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.
 
 **Funkcionality Slideshow:**
+
+![](img/slideshow-popis.png)
 
 - **Infopointy (2):**Ke každé fotografii můžete přidávat infopointy. 
 - **Přechod obrázků (3):**Zvolte také způsob animace, tedy přechodu mezi jednotlivými obrázky. Na výběr máte z více typů  (např. Bez animace, Bez animace s rozmlženým pozadím nebo Pozvolné objevení. Rozmlžené pozadí vyplní celou obrazovku na fullscreen. 
 - **Časování (4):** Slideshow nabízí dvě varianty. Buď nastavíte časování pro celou obrazovku a editor sám vypočítá čas jednotlivých obrázků rovnoměrně. Nebo můžete nastavit časování manuálně a zvolíte si čas pro každý obrázek zvlášť. 
 
 !!! info "Tip"
-    Zvažte také využití obrázku s průhledným pozadím. Pozadí potom bude černé a obrázek hezky vynikne. 
+    Zvažte také využití obrázku s rozmlženým pozadím. Pozadí potom bude černé a obrázek hezky vynikne.
+    ![](img/slideshow-porovnani.png) 
 
 !!! info "Tip"
     Načasování plynutí výstavy věnujte velkou pozornost. Zvolte u každé obrazovky takový čas, aby měl návštěvník prostor si prohlédnout obsah, ale zároveň aby se nezačal nudit. Doporučujeme vyzkoušet načasování jednotlivých obrazovek s testovacími návštěvníky, protože vy jako tvůrci obsah znáte a nepotřebujete tolik času na prohlížení a čtení. 
-
-![](img/slideshow-popis.png)
 
 ## Interaktivní obrazovky 
 
 ### Fotogalerie
 
-Fotogalerie je typ obrazovky, která je v hodná k prezentování více obrázků, které spolu souvisí. V případě, že vkládáte za sebe více "Obrazovek s obrázkem", zvažte využití fotogalerie, protože výsledný dojem bude plynulejší. Umožní vám to také okomentovat více fotografií v jednom textu nebo jedním audio komentářem, což vám ulehčí i editaci a práci s audiosoubory. 
+Fotogalerie je typ obrazovky, která je v hodná k prezentování více obrázků, které spolu souvisí. V případě, že vkládáte za sebe více "Obrazovek s obrázkem", zvažte využití fotogalerie, protože výsledný dojem bude plynulejší. Umožní vám to také okomentovat více fotografií v jednom textu nebo jedním audio komentářem, což vám ulehčí jak editaci, tak práci s audiosoubory. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.
 
-U fotogalerie se ukáže přehled všech obrázků a návštěvníci si interaktivně volí ty, které se jim zobrazí v detailu. Detail si mohou dále prohlížet a ještě zvětšit. Pro výběr mohou obrázek zavřít nebo přejít na další pomocí šipek. Podle počtu obrázků a velikosti obrazovky, na které si návštěvníci výstavu prohlížejí, se náhledy obrázků ve fotogalerie upraví automaticky tak, aby byly dobře velké a rozprostřené na obrazovce. V púřípadě, že s enevejdou na jednu obrazovku, objeví se možnost posunu dolů (scrollování). 
+U fotogalerie se ukáže přehled všech obrázků a v detailu se zobrazí pouze ty, které si návštěvníci interaktivně zvolí. Detail si pak mohou ještě zvětšit. Pro výběr mohou obrázek zavřít pomocí ikony křížku nebo přejít na další obrázek pomocí šipek. Podle počtu obrázků a velikosti obrazovky, na které si návštěvníci výstavu prohlížejí, se náhledy obrázků ve fotogalerii upraví automaticky tak, aby byly dobře velké a rozprostřené na obrazovce. V případě, že se nevejdou na jednu obrazovku, objeví se možnost posunu dolů (scrollování). 
 
-Při vkládání obrázků postupujte stejně jako u "Obrazovky s obrázkem" nebo u práce se soubory. Vyberte příslušný obrázek z adresáře nebo jej nahrajte do správce souborů. Správce souborů umožnuje nahrát více obrázků najednou. Další obrázek do fotogalerie přidáte kliknutím na čtverec s ikonou +. Pořadí fotek můžete upravovat pomocí šipek nebo je můžete smazat kliknutím na koš. 
+Při vkládání obrázků postupujte stejně jako u "Obrazovky s obrázkem" nebo u práce se soubory. Vyberte příslušný obrázek z adresáře nebo jej nahrajte do správce souborů. Správce souborů umožňuje nahrát více obrázků najednou. Další obrázek do fotogalerie přidáte kliknutím na čtverec s ikonou +. Pořadí fotek můžete upravovat pomocí šipek nebo je můžete smazat kliknutím na koš. 
 
 ![](img/fotogalerie.png)
 
@@ -210,14 +221,14 @@ Při vkládání obrázků postupujte stejně jako u "Obrazovky s obrázkem" neb
 
 ### Foto před a po
 
-Obrazovka "Před a po" je jedním z prvků výstavy, který vybízí návštěvníka k aktivitě, protože ten si obrázek prohlíží a přejíždí táhlem z jedné vrstvy na druhou. Je složena ze dvou obrázků, které jsou vidět jen z půlky. Editace obrazovky spočívá ve výběru dvou obrázků ze souborů k výstavě. Pokud nemáte soubor v editoru, nahrajte jej ze svého počítače. Nástroj obsahuje i jednoduchý [editor obrázků](https://nnis.github.io/indihu-manual/zaklady/#jednoduchy-editor-obrazku), který je dostupný v adresáři souborů přes menu u každého obrázku. Máte možnost nastavit: 
+Obrazovka "Před a po" je jedním z prvků výstavy, který vybízí návštěvníka k aktivitě, protože ten si obrázek prohlíží a přejíždí táhlem z jedné vrstvy na druhou. Je složena ze dvou obrázků, které jsou vidět jen z půlky. Editace obrazovky spočívá ve výběru dvou obrázků ze souborů k výstavě. Pokud nemáte soubor v editoru, nahrajte jej ze svého počítače. Nástroj obsahuje i jednoduchý [editor obrázků](zaklady.md#jednoduchy-editor-obrazku), který je dostupný v adresáři souborů přes menu u každého obrázku. Máte možnost nastavit: 
 
 - Způsob přechodu mezi obrázky (táhlo, přechod, prolnutí)
 - Umístění táhla
 - Infopointy
 - Délku trvání obrazovky
 
-Obrazovka Před a po je ideálním prostředkem, jak **zdůraznit změnu a rozdíly**, kterých by si návštěvník nemusel všimnout. Nabízí se třeba při prezentaci stejného místa v různých dobách. Zároveň je možné obrazovku využít i k vytvoření vtipů a hříček, kdy do jednoho obrázku vložím něco, co na původním není a tento rozdíl se objeví až přetažením táhla. 
+Obrazovka Před a po je ideálním prostředkem, jak **zdůraznit změnu a rozdíly**, kterých by si návštěvník nemusel všimnout. Nabízí se třeba při prezentaci stejného místa v různých dobách. Zároveň je možné obrazovku využít i k vytvoření vtipů a hříček, kdy do jednoho obrázku vložím něco, co na původním není a tento rozdíl se objeví až přetažením táhla. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.
 
 !!! info "Tip"
     Vyzkoušejte různé druhy přechodů. Pozvolný přechod působí zcela odlišným dojmem než když použijete táhlo, kterým hýbe sám uživatel. Právě pozvolný přechod u obrazovky Před a po může být využit místo složitějších animací. 
