@@ -23,7 +23,7 @@ Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že jste s
 [Pracovní listy - provedou vás přípravou výstavy](img/INDIHU_listy3.pdf){:download}
 
 !!! info "Tip"
-    Pracovní listy doporučujeme vytisknout a vyplnit s tužkou v ruce. Pracovní listy vám pomohou odpovědět na klíčové otázky - **o čem výstava bude, komu je určena, jaký ty interakce nabídne návštěvníků.** K pracovním listům se můžete opakovaně vracet. Doporučujeme je nechat **samostatně vyplnit každému členu či člence tvůrčího týmu** a poté najít společnou koncepci. 
+    Pracovní listy doporučujeme vytisknout a vyplnit s tužkou v ruce. Pracovní listy vám pomohou odpovědět na klíčové otázky - **o čem výstava bude, komu je určena, jaký ty interakce nabídne návštěvníkům.** K pracovním listům se můžete opakovaně vracet. Doporučujeme je nechat **samostatně vyplnit každému členovi či člence tvůrčího týmu** a poté najít společnou koncepci. 
 
 **Téma výstavy**
 
@@ -74,6 +74,9 @@ Při přípravě výstavy se zaměřte zejména na obrazový materiál a jeho kv
     Speciální pozornost věnujte úvodním obrázkům - obrázek celé výstavy a úvodům do kapitol. 
 
 Pokud si obrazový materiál připravujete sami, doporučujeme použít **kvalitní fotoaparát**. Rovněž se ujistěte, že fotografie mají dobrou kompozici, jsou správně nasvícené a mají kvalitní pozadí. Samozřejmě pokud máte tu možnost, nechte nafotit vše potřebné profesionálním fotografem. Sdílejte pouze ty obrázky, ke kterým máte **autorská práva**.
+
+!!! warning "Upozornění"
+    Autorská práva jsou v prostředí internetu velmi složitá a když něco zveřejníte online, obrázky si může kdokoli stáhnout. Doporučujeme používat jen ty obrázky, ke kterým práva máte jako instituce nebo jste je sami vyfotili. Pokud potřebujete ilustrační obrázky, využijte databáze a obrázky s licencí CC (Creative commons). Můžeme doporučit např. Wikimedia commons, [The Flickr Commons Program](https://www.flickr.com/commons). Existují i audio a zvuky pod licencemi CC. **Vždy uvádějte zdroj** obrázků nebo jiných médií. K tomu můžete využít textové pole nebo infopoint. 
 
 ### Načasování a infopointy 
 
@@ -130,7 +133,7 @@ Z finálních textů můžete namluvit **audio komentář**. Usnadníte tak div�
 Interaktivní obrazovky jsou druhy obrazovek, které poskytují návštěvníkům možnost drobné interakce, ale nejsou náročné na vytvoření a jsou vítaným ozvláštněním výstavy. Jejich podoba opět stojí zejména na obrázcích.
 
 **Při přípravě výstavy využijte tyto typy interaktivních obrazovek:** 
- - [Fotogalerie](obrazovky.md#fotogalerie): Tato obrazovka návštěvníkovi umožňuje si vybrat obrázky, které si prohlídne a pohled z blízka pomocí lupy.
+ - [Fotogalerie](obrazovky.md#fotogalerie): Na obrazovce se zobrazí sada obrázků a návštěvníci si mohou vybrat ten, který si zvětší a prohlédnou. Mohou si projít postupně všechny nebo jen vybrané. Každý obrázek také umožňuje využít funkci lupy a prohlédnutí zblízka. 
  - [Před a po](obrazovky.md#foto-pred-a-po): Tato obrazovka umožňuje prezentovat dva obrázky, které se doplňují, nebo naopak kontrastují, a návštěvník je může sám porovnávat. 
  - [Obrazovka s externím obsahem](obrazovky.md#obrazovka-s-externim-obsahem): Máte zajímavý obsah uveřejněný v jiné aplikaci? Díky této obrazovce ho můžete jednoduše integrovat do výstavy a to včetně zachovaní interaktivity, který obsah na jiné stránce nabízí. Příkladem mohou být např. mapové aplikace nebo video.
 
@@ -139,7 +142,7 @@ Interaktivní obrazovky jsou druhy obrazovek, které poskytují návštěvníků
 Poproste někoho mimo tvůrčí tým výstavy o názor. Například kolegu, který s vámi na výstavě nepracuje, ale nejlépe někoho, kdo není z vašeho oboru. Ptejte se, čemu nerozumí a podle jeho postřehů výstavu upravte. 
 
 !!! info "Tip"
-    Především si uvědomte, jestli návštěvník stráví na výstavě opravdu tolik času, kolik jste naplánovali a podle toho upravte její délku.
+    Především si uvědomte, jestli návštěvník stráví na výstavě opravdu tolik času, kolik jste naplánovali, a podle toho upravte její délku.
 
 ## Doporučené funkce a postupy pro pokročilé tvůrce
 
@@ -173,7 +176,7 @@ Je to jedna z nejvíce pokročilých funkcí a na vás jako na tvůrce klade vel
 
 Interaktivita a možnost se přímo zapojit do procesu konzumace virtuálního obsahu je již běžnou součástí vnímání na internetu a návštěvníci jsou na takové chování ve virtuálním prostředí zvyklí. Nástroj INDIHU Exhibition nabízí zapojit do výstavy několik typů her, jejichž podrobnější vysvětlení naleznete v samostatné [záložce](hry.md). 
 
-Některé z nich mají jasné řešení a jsou vhodnější pro ověření znalostí a pozornosti. Znalostními hrami můžeme téma otevřít a zjistit vstupní úroveň vědomostí, které zbytkem obsahu výstavy doplníme a rozvedeme, nebo je naopak zapojit na závěr jako jednoduchý způsob všechny prezentované informace shrnout. Mezi tyto hry patří: 
+Některé z nich mají jasné řešení a jsou vhodnější pro ověření znalostí a pozornosti. Znalostními hrami můžeme téma otevřít a zjistit vstupní úroveň vědomostí, které zbytkem obsahu výstavy doplníme a rozvedeme, nebo je naopak zapojit na závěr jako jednoduchý způsob, jak všechny prezentované informace shrnout. Mezi tyto hry patří: 
 
 - Najdi na obrázku
 - Hádej velikost
@@ -200,5 +203,5 @@ Propagace výstavy může do velké míry ovlivnit její dosah a úspěšnost. P
 - Připravte kampaň na sociální sítě a upozorňujte na výstavu v dostatečném předstihu. Jasně formulujte, co návštěvníci díky zhlédnutí výstavy získají.
 - Načasujte výstavu na nějaké významné datum, nebo ji spojte s další offline událostí. Můžete například zorganizovat i vernisáž.
 - Oslovte místní média a připravte tiskovou zprávu, nebo novinářům nabídněte rozhovor s autory.
-- Nabídněte virtuální výstavu pro volnočasové či školní vzdělávání, čímž připravíte komplexnější využití vaší práce.
+- Využijte kontaktů se školami nebo jinými institucemi, které se podílejí na vzdělávání, a vy s nimi spolupracujte. Cíleně jim nabídněte vaši virtuální výstavu a propagujte ji přes osvědčené kanály.
 - Připravte doprovodný edukační materiál pro návštěvníky výstavy či pro školy v podobě pracovního listu. 

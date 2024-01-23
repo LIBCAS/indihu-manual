@@ -4,9 +4,9 @@
 
 Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu **multimediálních bohatých prezentací s interaktivními prvky**. Online přítomnost se stává nezbytností, protože veřejnost očekává, že **budete online nabízet zajímavý obsah**. Je ideální pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si soubory mohou v případě zájmu stáhnout. 
 
-Editor byl koncipován tak, aby byla výsledná virtuální výstava vizuální, svěží, nápaditá a zábavná. Hlavní roli ve virtuálních výstavách hraje obsah, ovládací prvky jsou subtilní. INDIHU Exhibition má širokou škálu použití pro instituce zprostředkovávající kulturní dědictví, umožní vytvářet výstavy na **libovolná témata** a lze použít i pro neotřelou online prezentaci výstupů vědeckého bádání. 
+Editor byl koncipován tak, aby byla výsledná virtuální výstava vizuální, svěží, nápaditá a zábavná. Hlavní roli ve virtuálních výstavách hraje vizuální obsah, ovládací prvky jsou co nejméně nápadné. INDIHU Exhibition má širokou škálu použití pro instituce zprostředkovávající kulturní dědictví, umožní vytvářet výstavy na **libovolná témata** a lze použít i pro neotřelou online prezentaci výstupů vědeckého bádání. 
 
-Může sloužit jako **vzdělávací nástroj** a pomůcka ve výuce v různých typech škol. Ve výuce můžete využít hotové výstavy, nebo nechat žáky a studenty v něm mohou zpracovávat školní práce. 
+Může sloužit jako **vzdělávací nástroj** a pomůcka ve výuce v různých typech škol. Tvůrci mohou nabídnout hotové výstavy školám, které mohou využít výstavy jako doplnění či ozvláštnění výuky a zajímavý vzdělávací obsah. Žáci a studenti také mohou tvořit vlastní výstavy a tím si osvojit jak konkrétní téma, tak i problematiku kulturního digitálního dědictví. 
 
 !!! question "Proč používat INDIHU Exhibition?"
     * Umožní tvořit virtuální výstavy, aniž byste museli rozumět webdesignu
@@ -16,7 +16,7 @@ Může sloužit jako **vzdělávací nástroj** a pomůcka ve výuce v různých
     * Ušetří peníze za programátory
     * Splňuje současné standardy uživatelských rozhraní - jednoduché ovládání a střízlivé rozhraní s akcentem na vizuálně atraktivní obsah. 
 
-INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kódem](<https://github.com/LIBCAS/INDIHU>). [Registrovaní tvůrci](https://libcas.github.io/indihu-manual/zaklady/#zrizeni-uctu) vytváří výstavu ve svém webovém prohlížeči na adrese [exhibition.indihu.cz]<https://exhibition.indihu.cz/>. Kdokoli si může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. O technickou stránku věci, infrastrukturu, provoz a data se stará Knihovna Akademie věd ČR. 
+INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kódem](<https://github.com/LIBCAS/INDIHU>). [Registrovaní tvůrci](zaklady.md/#zrizeni-uctu) vytváří výstavu ve svém webovém prohlížeči na adrese [exhibition.indihu.cz]<https://exhibition.indihu.cz/>. Kdokoli si může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. O technickou stránku věci, infrastrukturu, provoz a data se stará Knihovna Akademie věd ČR. 
 
 ## Co to umí 
 
@@ -28,7 +28,7 @@ INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kóde
 - Vkládání externího obsahu (např. mapy, videa, grafy, 3D objekty) 
 - [Hry](hry.md) (Kvíz, Najdi na obrázku, Stírací los, Hádej velikost apod.)
 - Přikládání souborů s dalšími materiály (např. seznam literatury, pracovní listy pro školy)
-- Větvení výstavy, kdy si návštěvník vybere, jak chce pokračovat TODO LINK
+- [Větvení výstavy](obrazovky.md/#rozcestnik), kdy si návštěvník vybere, jak chce pokračovat
 - Na tvorbě výstavy můžete spolupracovat s více tvůrci
 - Hostování výstavy
 - Snadné sdílení návštěvníkům i spoluautorům a spoluautorkám

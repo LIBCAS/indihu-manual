@@ -66,7 +66,7 @@ Infopointy jsou malé čtverečky, které můžete umístit kamkoli na obrazovku
     Pro snadnější sledování postupu prací na výstavě lze všechny obrazovky po dokončení označit jako dokončené. Ve výpisu všech obrazovek výstavy se tyto obrazovky vyznačí zelenou barvou. 
 
 !!! warning "Upozornění"
-    Myslete na to, že při prohlížení výstav mají návštvěníci malé obrazovky, a proto se obsah jednotlivých infopointů může překrývat. Doporučujeme psát infopointy stručné a nedávat je jako "Trvale zobrazené." Můžete také vytvořit výstavu pro telefony zvlášť.  
+    Myslete na to, že při prohlížení výstav mají návštěvníci malé obrazovky, a proto se obsah jednotlivých infopointů může překrývat. Doporučujeme psát infopointy stručné a nedávat je jako "Trvale zobrazené." Můžete také vytvořit výstavu pro telefony zvlášť.  
 
 ### Úvod výstavy
 

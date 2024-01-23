@@ -21,14 +21,16 @@
 
 <!-- TODO video -->
 
-## Zvládnu přípravu výstavy sám?
+## Zvládneme přípravu výstavy sami?
 
-Tvorba (virtuálních) výstav je týmová práce. Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě. Editor je vytvořen tak, aby jeho **používání bylo co nejjednodušší**. 
+Tvorba (virtuálních) výstav je týmová práce. Nemusíte ale umět programovat nebo být webdesignéři, a přesto vytvoříte online výstavu. Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě. Editor je vytvořen tak, aby jeho **používání bylo co nejjednodušší**. 
+
+V části [Jak vytvořit úspěšnou výstavu](uspesna-vystava.md) jsou typy pro tvůrce, kteří dělají svou první výstavu a pro ty, kteří jsou již zkušenější a chtějí se rozvíjet a vyzkoušet nové funkce. 
 
 !!! info "Tip"
-    Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy.
+    Pracujte v týmu. Ačkoli je zámek pro editaci nastaven jen na 1 minutu, domluvte se předem, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy.
 
-V části [Jak vytvořit úspěšnou výstavu](uspesna-vystava.md) jsou typy pro tvůrce, kteří dělají svou první výstavu a pro ty, kteří jsou již zkušenější a chtějí se rozvíjet a vyzkoušet nové funkce. Nemusíte umět programovat nebo být webdesignér, a přesto vytvoříte online výstavu. Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste: 
+Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste: 
 
 - Uměli alespoň trochu pracovat s obrázky
 - Nahrát audio nebo připravit podklady pro nahrání
@@ -61,11 +63,11 @@ Výstavy jsou zobrazeny graficky pomocí **dlaždic** nebo jako **seznam** (viz 
 
 U každé výstavy jsou uvedeny základní informace, jako jsou: název, vlastník, stav a datum poslední změny (4).
 
-U každé výstavy jsou pomocí tlačítka (5) k dispozici základní operace jako je přejmenování, sdílení výstavy či její části, export, změna stavu, zkopírování či smazání .
+U každé výstavy jsou pomocí tlačítka se třemi tečkami (5) k dispozici základní operace jako je přejmenování, sdílení výstavy či její části, export, změna stavu, zkopírování či smazání .
 
-![](img/uvod-dlazdice.png)
+![](img/uvod-dlazdice-popis.png)
 
-![](img/uvod-seznam.png)
+![](img/uvod-seznam-popis.png)
 
 ## Struktura výstavy a základní nastavení 
 
@@ -103,7 +105,9 @@ Každá výstava disponuje svým vlastním souborovým depozitářem, do kteréh
 
 ### Nastavení a sdílení 
 
-Záložka obsahuje veškerá nastavení virtuální výstavy, která se týkají výstavy jako celku:
+Záložka obsahuje veškerá nastavení virtuální výstavy, která se týkají výstavy jako celku - stav výstavy, URL výstavy, Embed kód pro výstavu, tagy výstavy a sdílení s ostatními tvůrci. 
+
+![](img/nastaveni-sdileni-popis.png)
 
 **Stav výstavy (1)**
 
@@ -148,8 +152,6 @@ Při **spolupráci více autorů** se automaticky editace zamkne na 1 minutu. In
 !!! info "Tip"
     Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy. 
 
-![](img/nastaveni-sdileni-popis.png)
-
 ## Hodnocení a návštěvnost
 
 V záložce "Hodnocení a návštěvnost" jsou dostupné informace o tom, jak výstavu vnímají návštěvníci. Jednak je tam uveden celkový počet shlédnutí, který systém počítá sám, podobně jako je tomu u shlédnutí videí na YouTube. Toto hodnocení pro vás může být užitečnou zpětnou vazbou, co se povedlo a kde je naopak prostor pro zlepšení. Zjednodušené hodnocení se rovněž ukáže na výpisu všech vašich výstav a máte ho tak po ruce. 
@@ -160,11 +162,14 @@ V záložce "Hodnocení a návštěvnost" jsou dostupné informace o tom, jak v�
 
 Návštěvníci jsou vyzváni k hodnocení výstavy na závěrečné obrazovce. Celkové hodnocení výstavy je pomocí hvězdiček, poté mohou vybrat aspekty výstavy (např. téma nebo hry), které je obzvlášť zaujaly, a také mají možnost zanechat návštěvníkům vzkaz a adresu, na kterou tvůrci mohou odpověď. Vzkaz však není povinný. 
 
-![](img/hodnoceni-vystavy-navstevnici.png) 
+![](img/hodnoceni-vystavy-navstevnici-orez.png) 
 
 ## Motiv 
 
-Poslení záložkou u výstavy v rámci všeobechných nastevení je uprava motivu. Editor nabízí dva základní motivy - světlý a tmavý. Dále máte možnost si přizpůsobit ovládací prvky např. v rámci dodržení vašeho grafického manuálu a korporátní identity. Ve všobecném nástavení máte možnost upravit barvu pozadí, barvu ikon (např. šipky), barvu tagů. Výstavu také v části "Nastavení loga a vodoznaku" můžete nahrát vlastní logo a vybrat jeho umístění. Ve třetí části můžete změnit všeobecné nastavení infopointů. U infopointů pak můžete změnit barvu u každého individuálně dle potřeby. 
+Poslední záložkou u výstavy v rámci všeobecných nestavení je úprava motivu, tedy barevného schématu výstavy. Editor nabízí dva základní motivy - **světlý** a **tmavý**. Editor však umožňuje si některé prvky nastavit **vlastními barvami**. To se hodí zejména v případě, kdy vaše instituce má jednotný grafického manuálu a korporátní identitu. Ve všeobecném nastavení máte možnost upravit barvu pozadí, barvu ikon (např. šipky), barvu tagů. Výstavu také v části "Nastavení loga a vodoznaku" můžete nahrát vlastní logo a vybrat umístění, kde se bude zobrazovat. Ve třetí části můžete změnit všeobecné nastavení infopointů, kdy všechny infopointy budou mít vámi zvolenou barvu. U infopointů si však můžete změnit barvu u každého individuálně dle potřeby a tak dát jen některé jinou barvou, což je více zvýrazní. 
 
 ![](img/motiv.png) 
+
+!!! warning "Upozornění"
+    Nezapomeňte změny motivu uložit vpravo dole.   
 
