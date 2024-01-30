@@ -63,3 +63,19 @@ Virtuální výstava "Projekt Piombo_Madona bez roušky" je příkladem výstavy
 ![](img/piombo2.png)
 
 ![](img/piombo3.png)
+
+### Akce K: Zkáza klášterních knihoven 
+
+Virtuální výstava "Akce K: Zkáza klášterních knihoven" se zabývá tématem komunistického zásahu proti církvi v 50. letech 20. století. Během přípravy se autorský tým potýkal s několika problémy. K tématu neexistovalo příliš mnoho autentických dobových materiálů, a pokud ano, byly notoricky známé. Druhým problémem bylo, že laická veřejnost, na kterou výstava cílila, není dostatečně obeznámena s historií klášterů a důležitostí církve pro středověkou i moderní společnost. Represe komunistického režimu naopak jsou populárním tématem a vernisáž výstavy byla navíc načasována na 70. výročí událostí, což přitáhlo k výstavě zájem médií. Tvůrci se tak zaměřili na **širší kontext** a vysvětlení, jak jsme se vlastně dostali do situace, kdy kláštery byly bohaté. Pro výstavu tvůrci vytvořili autentický materiál v podobě animací a kreseb, **průvodcovskou postavu mnicha**, aby autentický materiál, kterého nebylo moc, vynikl. Kromě propagace a délka výstavy 14 minut umožňovala výstavu využít během tehdejší distanční výuky během první vlny pandemie covid-19. 
+
+Vznik a konceptualizace výstavy je prezentována v odborné recenzované případové studiu v časopise JOINME (Journal of Interactive Media): [Když se potkají klášterní knihovny a nová média: Případová studie vzniku virtuální výstavy](https://joinme-muni.cz/show-article.php)
+
+[Odkaz na výstavu: Akce K: Zkáza klášterních knihoven](https://exhibition.indihu.cz/view/akce-k)
+
+[Záznam průchodu výstavou Akce K formou videa v první verzi INDIHU Exhibition před redesignem](https://youtu.be/I3EHBzh4onw?si=leUwkGX47dvwux7l)
+
+![](img/akcek1.png)
+
+![](img/akcek2.png)
+
+![](img/akcek3.png)

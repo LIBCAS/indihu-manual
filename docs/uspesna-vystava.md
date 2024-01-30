@@ -79,7 +79,7 @@ Při přípravě výstavy se zaměřte zejména na obrazový materiál a jeho kv
 Pokud si obrazový materiál připravujete sami, doporučujeme použít **kvalitní fotoaparát**. Rovněž se ujistěte, že fotografie mají dobrou kompozici, jsou správně nasvícené a mají kvalitní pozadí. Samozřejmě pokud máte tu možnost, nechte nafotit vše potřebné profesionálním fotografem. Sdílejte pouze ty obrázky, ke kterým máte **autorská práva**.
 
 !!! warning "Upozornění"
-    Autorská práva jsou v prostředí internetu velmi složitá a když něco zveřejníte online, obrázky si může kdokoli stáhnout. Doporučujeme používat jen ty obrázky, ke kterým práva máte jako instituce nebo jste je sami vyfotili. Pokud potřebujete ilustrační obrázky, využijte databáze a obrázky s licencí CC (Creative commons). Můžeme doporučit např. Wikimedia commons, [The Flickr Commons Program](https://www.flickr.com/commons). Existují i audio a zvuky pod licencemi CC. **Vždy uvádějte zdroj** obrázků nebo jiných médií. K tomu můžete využít textové pole nebo infopoint. 
+    **Autorská práva** jsou v prostředí internetu velmi složitá a když něco zveřejníte online, obrázky si může kdokoli stáhnout. Doporučujeme používat jen ty obrázky, ke kterým práva máte jako instituce nebo jste je sami vyfotili. Pokud potřebujete ilustrační obrázky, využijte databáze a obrázky s licencí CC (Creative commons). Můžeme doporučit např. [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page), [The Flickr Commons Program](https://www.flickr.com/commons). Existují i audio a zvuky pod licencemi CC. **Vždy uvádějte zdroj** obrázků nebo jiných médií. K tomu můžete využít textové pole nebo infopoint. 
 
 ### Načasování a infopointy 
 
@@ -208,3 +208,6 @@ Propagace výstavy může do velké míry ovlivnit její dosah a úspěšnost. P
 - Oslovte místní média a připravte tiskovou zprávu, nebo novinářům nabídněte rozhovor s autory.
 - Využijte kontaktů se školami nebo jinými institucemi, které se podílejí na vzdělávání, a vy s nimi spolupracujte. Cíleně jim nabídněte vaši virtuální výstavu a propagujte ji přes osvědčené kanály.
 - Připravte doprovodný edukační materiál pro návštěvníky výstavy či pro školy v podobě pracovního listu. 
+
+!!! info "Tip"
+    Pokud si po zveřejnění výstavy všimnete nějaké **chyby** v textu nebo i v obrázcích, nebojte se, můžete ji opravit. **Výstavu lze upravovat** i v režimu Zveřejněná, případně můžete změnit stav na V přípravě, pokud se jedná o změnu, která vám bude trvat déle. Změny se rovnou ukládají a návštěvníkům se vždy zobrazí ta nejaktuálnější verze. 

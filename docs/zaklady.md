@@ -37,9 +37,15 @@ Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mi
 - Nahrát audio nebo připravit podklady pro nahrání
 - Vytvářet videa nebo napsat scénář a výrobu videa někomu zadat 
 
+!!! info "Tip"
+    Pokud si po zveřejnění výstavy všimnete nějaké **chyby** v textu nebo i v obrázcích, nebojte se, můžete ji opravit. **Výstavu lze upravovat** i v režimu Zveřejněná, případně můžete změnit stav na V přípravě, pokud se jedná o změnu, která vám bude trvat déle. Změny se rovnou ukládají a návštěvníkům se vždy zobrazí ta nejaktuálnější verze. 
+
 ### Jednoduchý editor obrázků
 
 Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý **editor obrázků**, který vám umožní základní úpravy jakými je např. ořez, otočení či změna poměru stran. 
+
+!!! warning "Upozornění"
+    **Autorská práva** jsou v prostředí internetu velmi složitá a když něco zveřejníte online, obrázky si může kdokoli stáhnout. Doporučujeme používat jen ty obrázky, ke kterým práva máte jako instituce nebo jste je sami vyfotili. Pokud potřebujete ilustrační obrázky, využijte databáze a obrázky s licencí CC (Creative commons). Můžeme doporučit např. [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page), [The Flickr Commons Program](https://www.flickr.com/commons). Existují i audio a zvuky pod licencemi CC. **Vždy uvádějte zdroj** obrázků nebo jiných médií. K tomu můžete využít textové pole nebo infopoint. 
 
 Najdete ho pod ikonou paletky u samotného obrázku nebo ze souborů. Pokud vám to zdroje dovolí, můžete **využít služeb profesionálů** (fotografa, grafika, filmaře nebo zvukaře). 
 

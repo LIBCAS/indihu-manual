@@ -170,7 +170,7 @@ Ukázku, jak může vypadat parallax, uvidíte v následujícím videu.
 
 ### Animace přiblížení
 
-Obrazovka "Animace přiblížení"" je velmi efektní způsob, jak na jednom obrázku návštěvníkům zdůraznit určité detaily. Obrázek se přiblíží na místo, které chcete ukázat, poté se oddálí a může se přiblížit na další. Tento detail také máte možnost okomentovat - máte na výběr několik možných umístění, kde se komentář zobrazí. Na detaily můžete upozorňovat i infopointy, ty ale návštěvníci nemusí vždy rozkliknout, a u obrazovky "Animace přiblížení" o detailní pohled nepřijdou, protože se obrázek přibližuje a oddaluje tak, jak jste to nastavili. Mezi jednotlivými detaily se animace vždy vrátí na celek obrázku. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.   
+Obrazovka "Animace přiblížení"" je velmi efektní způsob, jak na jednom obrázku návštěvníkům zdůraznit určité detaily. Obrázek se přiblíží na místo, které chcete ukázat, poté se oddálí a může se přiblížit na další. Tento detail také máte možnost okomentovat - máte na výběr několik možných umístění, kde se komentář zobrazí. Na detaily můžete upozorňovat i pomocí infopointů, které ale návštěvníci nemusí vždy rozkliknout, kdežto u obrazovky "Animace přiblížení" o detailní pohled nepřijdou, protože se obrázek přibližuje a oddaluje tak, jak jste to nastavili.  Mezi jednotlivými detaily se animace vždy vrátí na celek obrázku. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.   
 
 !!! info "Tip"
     Obrazovka "Animace přiblížení" vyžaduje poměrně dost času, aby byla animace příjemná a plynulá a návštěvníci měli dost času si obrázek prohlédnout. 
@@ -218,6 +218,8 @@ Při vkládání obrázků postupujte stejně jako u "Obrazovky s obrázkem" neb
 ![](img/fotogalerie.png)
 
 ![](img/fotogalerie.png)
+
+<!-- TODO video, jak si prohlíží fotogalerii návštěvník -->
 
 ### Foto před a po
 
