@@ -1,0 +1,748 @@
+
+<!doctype html>
+<html lang="cs" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="..">
+      
+      
+        <link rel="next" href="../uspesna-vystava/">
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.6">
+    
+    
+      
+        <title>Základní fungování - Indihu Exhibition</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.558e4712.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.2505c338.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#zakladni-fungovani" class="md-skip">
+          Přeskočit obsah
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Indihu Exhibition" class="md-header__button md-logo" aria-label="Indihu Exhibition" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Indihu Exhibition
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Základní fungování
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Hledat" placeholder="Hledat" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://libcas.github.io/indihu-manual" title="Přejít do repozitáře" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Libcas
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Indihu Exhibition" class="md-nav__button md-logo" aria-label="Indihu Exhibition" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Indihu Exhibition
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://libcas.github.io/indihu-manual" title="Přejít do repozitáře" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Libcas
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Úvod
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Základní fungování
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Základní fungování
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Obsah">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Obsah
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vysvetleni-pojmu" class="md-nav__link">
+    Vysvětlení pojmů
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#zrizeni-uctu" class="md-nav__link">
+    Zřízení účtu
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#zvladneme-pripravu-vystavy-sami" class="md-nav__link">
+    Zvládneme přípravu výstavy sami?
+  </a>
+  
+    <nav class="md-nav" aria-label="Zvládneme přípravu výstavy sami?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#jednoduchy-editor-obrazku" class="md-nav__link">
+    Jednoduchý editor obrázků
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#po-vstupu-do-editoru" class="md-nav__link">
+    Po vstupu do editoru
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#struktura-vystavy-a-zakladni-nastaveni" class="md-nav__link">
+    Struktura výstavy a základní nastavení
+  </a>
+  
+    <nav class="md-nav" aria-label="Struktura výstavy a základní nastavení">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#soubory-k-vystave" class="md-nav__link">
+    Soubory k výstavě
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nastaveni-a-sdileni" class="md-nav__link">
+    Nastavení a sdílení
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hodnoceni-a-navstevnost" class="md-nav__link">
+    Hodnocení a návštěvnost
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motiv" class="md-nav__link">
+    Motiv
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../uspesna-vystava/" class="md-nav__link">
+        Vytváříme výstavu
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../obrazovky/" class="md-nav__link">
+        Obrazovky
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hry/" class="md-nav__link">
+        Hry
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../inspirace/" class="md-nav__link">
+        Inspirace
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Obsah">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Obsah
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#vysvetleni-pojmu" class="md-nav__link">
+    Vysvětlení pojmů
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#zrizeni-uctu" class="md-nav__link">
+    Zřízení účtu
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#zvladneme-pripravu-vystavy-sami" class="md-nav__link">
+    Zvládneme přípravu výstavy sami?
+  </a>
+  
+    <nav class="md-nav" aria-label="Zvládneme přípravu výstavy sami?">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#jednoduchy-editor-obrazku" class="md-nav__link">
+    Jednoduchý editor obrázků
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#po-vstupu-do-editoru" class="md-nav__link">
+    Po vstupu do editoru
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#struktura-vystavy-a-zakladni-nastaveni" class="md-nav__link">
+    Struktura výstavy a základní nastavení
+  </a>
+  
+    <nav class="md-nav" aria-label="Struktura výstavy a základní nastavení">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#soubory-k-vystave" class="md-nav__link">
+    Soubory k výstavě
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nastaveni-a-sdileni" class="md-nav__link">
+    Nastavení a sdílení
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hodnoceni-a-navstevnost" class="md-nav__link">
+    Hodnocení a návštěvnost
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#motiv" class="md-nav__link">
+    Motiv
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="zakladni-fungovani">Základní fungování<a class="headerlink" href="#zakladni-fungovani" title="Permanent link">#</a></h1>
+<h2 id="vysvetleni-pojmu">Vysvětlení pojmů<a class="headerlink" href="#vysvetleni-pojmu" title="Permanent link">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>Pojem</th>
+<th>Vysvětlení</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Virtuální výstava</td>
+<td>Virtuální výstava je základním konceptem systému a výsledný produkt. Jedná se o ucelenou prezentaci určitého tématu, kterou vytvoříte pomocí obrazových, textových, audiovizuálních informací a interakce. Software INDIHU Exhibition je nazýván editorem výstav.</td>
+</tr>
+<tr>
+<td>Editor</td>
+<td>Editorem názýváme nástroj INDIHU Exhibition, v kterém tvůrce vytváří výstavu. Editor běží v internetovém prohlížeči.</td>
+</tr>
+<tr>
+<td>Tvůrce</td>
+<td>Tvůrce je člověk, který tvoří výstavu.</td>
+</tr>
+<tr>
+<td>Návštěvník</td>
+<td>Pojmem "návštěvník" je označován uživatel, který navštíví web s virtuální výstavou.</td>
+</tr>
+<tr>
+<td>Obrazovka</td>
+<td>Výstava je tvořena jednotlivými obrazovkami. Na obrazovkách může být různý obsah (obrázky, hry, videa atd.). V části <a href="../obrazovky/">Obrazovky</a> se seznámíte se všemi možnostmi i ovládáním. Při tvorbě výstavy postupně plníte obrazovky obsahem.</td>
+</tr>
+<tr>
+<td>Kapitola</td>
+<td>Obrazovky je možné sdružovat do kapitol. Tvoření kapitol je nástrojem pro logické členění obsahu. Výstava může obsahovat jednu či více kapitol. Kapitola vždy obsahuje úvodní stránku kapitoly s názvem a titulním obrázkem, který může být animovaný. Návštěvník může při prohlížení výstavy přeskakovat z jedné kapitoly do druhé skrze seznam "Kapitoly" v menu.</td>
+</tr>
+<tr>
+<td>Hra</td>
+<td>Pro větší interaktivitu, kterou návštěvníci dnes hodně vyžadují, jsou k dispozici <a href="../hry/">hry</a>. Návštěvník je postaven před řešení úkolu a tím se zvýší jeho angažovanost v tématu.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="zrizeni-uctu">Zřízení účtu<a class="headerlink" href="#zrizeni-uctu" title="Permanent link">#</a></h2>
+<ol>
+<li><strong>Registrace tvůrce</strong>: Pro využívání INDIHU Exhibition jako webové
+    aplikace je třeba se zaregistrovat na adrese <a href="https://exhibition.indihu.cz">exhibition.indihu.cz</a>. Můžete si vytvořit registrační údaje a zvolit si login (e-mail) a heslo nebo použít při registraci login do Google, Facebooku či GitHubu. Po vyplnění registračního formuláře je třeba registraci potvrdit pomocí odkazu zaslaného na zadaný e-mail. Tím vznikne žádost o vytvoření účtu, která je schválena
+    administrátorem nejpozději během 3 dnů. Po schválení žádosti vzniká uživatelský účet s rolí Editor. O postupech v procesu registrace je žadatel informován e-mailovými notifikacemi.</li>
+<li><strong>Přihlášení do editoru</strong>: Tvůrce se přihlašuje uživatelským jménem
+    (e-mail) a heslem, které si zvolil při registraci nebo třetí službou Google, Facebook, GitHub). Tvůrce má možnost v záložce “Správa účtu” umístěné na pravé straně záhlaví změnit svoje osobní údaje, heslo nebo zrušit účet.</li>
+</ol>
+<!-- TODO video -->
+
+<h2 id="zvladneme-pripravu-vystavy-sami">Zvládneme přípravu výstavy sami?<a class="headerlink" href="#zvladneme-pripravu-vystavy-sami" title="Permanent link">#</a></h2>
+<p>Tvorba (virtuálních) výstav je týmová práce. Nemusíte ale umět programovat nebo být webdesignéři, a přesto vytvoříte online výstavu. Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě. Editor je vytvořen tak, aby jeho <strong>používání bylo co nejjednodušší</strong>. </p>
+<p>V části <a href="../uspesna-vystava/">Jak vytvořit úspěšnou výstavu</a> jsou typy pro tvůrce, kteří dělají svou první výstavu a pro ty, kteří jsou již zkušenější a chtějí se rozvíjet a vyzkoušet nové funkce. </p>
+<div class="admonition info">
+<p class="admonition-title">Tip</p>
+<p>Pracujte v týmu. Ačkoli je zámek pro editaci nastaven jen na 1 minutu, domluvte se předem, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy.</p>
+</div>
+<p>Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste: </p>
+<ul>
+<li>Uměli alespoň trochu pracovat s obrázky</li>
+<li>Nahrát audio nebo připravit podklady pro nahrání</li>
+<li>Vytvářet videa nebo napsat scénář a výrobu videa někomu zadat </li>
+</ul>
+<div class="admonition info">
+<p class="admonition-title">Tip</p>
+<p>Pokud si po zveřejnění výstavy všimnete nějaké <strong>chyby</strong> v textu nebo i v obrázcích, nebojte se, můžete ji opravit. <strong>Výstavu lze upravovat</strong> i v režimu Zveřejněná, případně můžete změnit stav na V přípravě, pokud se jedná o změnu, která vám bude trvat déle. Změny se rovnou ukládají a návštěvníkům se vždy zobrazí ta nejaktuálnější verze. </p>
+</div>
+<h3 id="jednoduchy-editor-obrazku">Jednoduchý editor obrázků<a class="headerlink" href="#jednoduchy-editor-obrazku" title="Permanent link">#</a></h3>
+<p>Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý <strong>editor obrázků</strong>, který vám umožní základní úpravy jakými je např. ořez, otočení či změna poměru stran. </p>
+<div class="admonition warning">
+<p class="admonition-title">Upozornění</p>
+<p><strong>Autorská práva</strong> jsou v prostředí internetu velmi složitá a když něco zveřejníte online, obrázky si může kdokoli stáhnout. Doporučujeme používat jen ty obrázky, ke kterým práva máte jako instituce nebo jste je sami vyfotili. Pokud potřebujete ilustrační obrázky, využijte databáze a obrázky s licencí CC (Creative commons). Můžeme doporučit např. <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia commons</a>, <a href="https://www.flickr.com/commons">The Flickr Commons Program</a>. Existují i audio a zvuky pod licencemi CC. <strong>Vždy uvádějte zdroj</strong> obrázků nebo jiných médií. K tomu můžete využít textové pole nebo infopoint. </p>
+</div>
+<p>Najdete ho pod ikonou paletky u samotného obrázku nebo ze souborů. Pokud vám to zdroje dovolí, můžete <strong>využít služeb profesionálů</strong> (fotografa, grafika, filmaře nebo zvukaře). </p>
+<p><img alt="" src="../img/editor-obrazku.png" /></p>
+<p><img alt="" src="../img/editor-obrazku-soubory.png" /></p>
+<p><img alt="" src="../img/editor-obrazku-funkce.png" /></p>
+<div class="admonition info">
+<p class="admonition-title">Tip</p>
+<p>Pro potvrzení uložení stačí zmáčknout klávesu Enter. Akce, která je zvýrazněná modrou barvou je vždy ta, která se po potvrzení provede.</p>
+</div>
+<h2 id="po-vstupu-do-editoru">Po vstupu do editoru<a class="headerlink" href="#po-vstupu-do-editoru" title="Permanent link">#</a></h2>
+<p>Po přihlášení do editoru se zobrazí <strong>seznam výstav</strong>. Tyto výstavy buď byly vytvořeny tvůrcem, nebo od jiného tvůrce získal právo prohlížení nebo editace od dalšího uživatele. Výstavy jsou děleny podle práv, která k nim máte: </p>
+<ul>
+<li>Jsem autor</li>
+<li>Sdíleno pro čtení</li>
+<li>Sdíleno pro zápis (jste v roli spolutvůrce)</li>
+</ul>
+<p>Výstavy jsou zobrazeny graficky pomocí <strong>dlaždic</strong> nebo jako <strong>seznam</strong> (viz obrázky). Pro přepínání zobrazení slouží ikonka v pravém horním rohu (1). Výstavy je možné <strong>filtrovat</strong> nebo řadit pomocí přepínačů v horní části okna (Naposledy použité, Název apod.) (2). Tvůrce může také <strong>vyhledávat</strong> v seznamu výstav podle názvu (3).</p>
+<p>U každé výstavy jsou uvedeny základní informace, jako jsou: název, vlastník, stav a datum poslední změny (4).</p>
+<p>U každé výstavy jsou pomocí tlačítka se třemi tečkami (5) k dispozici základní operace jako je přejmenování, sdílení výstavy či její části, export, změna stavu, zkopírování či smazání .</p>
+<p><img alt="" src="../img/uvod-dlazdice-popis.png" /></p>
+<p><img alt="" src="../img/uvod-seznam-popis.png" /></p>
+<h2 id="struktura-vystavy-a-zakladni-nastaveni">Struktura výstavy a základní nastavení<a class="headerlink" href="#struktura-vystavy-a-zakladni-nastaveni" title="Permanent link">#</a></h2>
+<p>Po otevření detailu výstavy se tvůrci zobrazí první záložka "Struktura výstavy" (1). Lze se přepnout na záložky "Soubory" (2) pro správu souborů k výstavě, "Nastavení a sdílení" (3) pro obecná nastavení celé výstavy, do záložky "Hodnocení a návštěvnost," (4) kde jsou vidět statistiky návštěvnosti a poslední částí je záložka "Motiv" (5), která umožňuje nastavit si například barevnost a přidat k výstavě logo vaší instituce. </p>
+<p>Po založení nové výstavy automaticky výstava obsahuje první obrazovku "Úvod výstavy" (6), možnost přidání obrazovky pomocí ikonu + (7) a obrazovku "Závěr výstavy" (8).</p>
+<p><img alt="" src="../img/struktura-vystavy-popis.png" /></p>
+<p>Všechny změny, které tvůrce na detailu výstavy udělá, jsou okamžitě ukládány, není zde žádné tlačítko Uložit.</p>
+<p>Každá výstava obsahuje dvě povinné části, obrazovku Úvod výstavy a Závěr výstavy (viz výše <a href="https://nnis.github.io/indihu-manual/zaklady/#detail-vystavy">Detail výstavy</a>. Mezi nimi může být výstava strukturována
+do kapitol nebo je možné ji sestavit ze samostatných obrazovek. Každá
+kapitola obsahuje povinně úvodní stránku kapitoly a pak další stránky s obsahem.</p>
+<p>Po přidání vybrané obrazovky přidáváte další obrazovky pomocí tlačítka +
+(8). Postupným přidáváním dalších obrazovek a jejich přiřazování do
+kapitol vznikne výstava.</p>
+<!-- Struktura výstavy je zobrazená v grafické podobě. Editor umožňuje:
+
+  - Přidávat nové části výstavy
+  - Přesouvat stránky a kapitoly pomocí funkce "drag and drop"
+  - Každou stránku lze upravovat, zobrazit náhled nebo smazat pomocí menu (9).
+ -->
+
+<h3 id="soubory-k-vystave">Soubory k výstavě<a class="headerlink" href="#soubory-k-vystave" title="Permanent link">#</a></h3>
+<p>Každá výstava disponuje svým vlastním souborovým depozitářem, do kterého si tvůrce může nahrávat soubory potřebné pro tvorbu výstavy. Tvůrce také může vytvářet adresářové struktury ("nový adresář") a přesouvat soubory mezi složkami. K dispozici je náhled obrázku a metadata souboru. Přes ikonu ... se dostanete k menu jednotlivého obrázku. Tyto soubory tvůrce dále využívá při vytváření a editaci jednotlivých stránek, proto se snažte udržet co nejvyšší přehlednost v souborech. Editor umožňuje i hromadné nahrávání. </p>
+<div class="admonition info">
+<p class="admonition-title">Tip</p>
+<p>Přehlednost v souborech lze dosáhnout více cestami. Jednou z nich je např. řazení souborů do adresářů podle kapitol. Jinou možností je uspořádání podle formátů - obrázky, texty či audio soubory zvlášť. Během přípravy výstavy můžete mít několik verzí stejného obrázku, proto doporučujeme si obrázky pojmenovávat. Nepoužité soubory mažte. Zkuste se předem zamyslet, jak budete se soubory pracovat, jak je budete pojmenovávat a dodržujte pravidla napříč tvůrčím týmem.</p>
+</div>
+<p><img alt="" src="../img/soubory.png" /></p>
+<h3 id="nastaveni-a-sdileni">Nastavení a sdílení<a class="headerlink" href="#nastaveni-a-sdileni" title="Permanent link">#</a></h3>
+<p>Záložka obsahuje veškerá nastavení virtuální výstavy, která se týkají výstavy jako celku - stav výstavy, URL výstavy, Embed kód pro výstavu, tagy výstavy a sdílení s ostatními tvůrci. </p>
+<p><img alt="" src="../img/nastaveni-sdileni-popis.png" /></p>
+<p><strong>Stav výstavy (1)</strong></p>
+<ul>
+<li><strong>V přípravě</strong>: Výstava je v přípravě. Obsah výstavy je možné libovolně upravovat. Výstava je přístupná pouze přihlášeným tvůrcům, se kterými je výstava sdílena.</li>
+<li><strong>Zveřejněná</strong>: Výstava je veřejně dostupná přes svoje URL. Výstavu není možné upravovat. </li>
+<li><strong>Ukončená</strong>: Výstava byla ukončena a není ani veřejně dostupná ani určena k dalším úpravám.Výstavu lze znovu převést do stavu "V přípravě"" nebo "Zveřejněná".</li>
+</ul>
+<p><strong>URL výstavy (2)</strong></p>
+<p>Umožňuje nastavit libovolnou koncovku adresy tak, aby byla dobře použitelná a zapamatovatelná.</p>
+<div class="admonition info">
+<p class="admonition-title">Tip</p>
+<p>URL výstavy umožňuje nastavit libovolnou koncovku adresy tak, aby byla dobře použitelná a zapamatovatelná. Upravte URL tak, aby na propagačních materiálech vypadala dobře.</p>
+</div>
+<p><strong>Embed kód pro výstavu (3)</strong></p>
+<p>Funkce umožňuje vygenerovat embed html kód, který můžete vložit do vlastní webové stránky a umožnit tak návštěvníkům procházet výstavu na vašem webu. Funguje to podobně jako podobně, jako když na svůj web vložíte mapy nebo video z YouTube. </p>
+<p><strong>Tagy výstavy (4)</strong></p>
+<p>Tagy výstavy se zobrazí na úvodní stránce vsýtavy a pomohou návštěvníkům rozhodnout, zda je výstava pro ně v hodná. Vybíráte z připravených tagů: </p>
+<ul>
+<li>1 hlavní téma výstavy (např. Dějiny a lidé, Příroda nebo Umění)</li>
+<li>2 formální vlastnosti výstavy (např. Vzdělávací English friendly nebo Zábavná)</li>
+<li>pro koho je výstava určena (např. Děti, Odborníci nebo Studenti)</li>
+</ul>
+<div class="admonition info">
+<p class="admonition-title">Tip</p>
+<p>Můžete vytvořit několik verzí výstavy na stejné téma pro různé cílové skupiny</p>
+</div>
+<p><strong>Informace návštěvníkovi v případě, že je výstava již ukončená (5)</strong></p>
+<p>Je skvělé, že o vaši výstavu mají návštěvníci zájem, ale může se stát, že jí z jakéhokoli důvodu už nepovažujete za aktuální. Proto nastavte informace pro případ, že návštěvmník si vaši výstavu najde, ale ta již není dostupná. Vyberte obrázek, zadejte URL pro přesměrování (např. na váš web nebo na aktuální výstavu či jiný zajímavý online projekt) a napište návštěvníkům krátký vzkaz, kupříkladu poděkování za zájem a informaci o nových projektech. </p>
+<p><strong>Sdíleno s uživateli (6)</strong></p>
+<p>Výstavu lze sdílet s dalšími tvůrci pomocí jejich e-mailu. Ostatním tvůrcům je možné dát práva <strong>jen pro čtení</strong> nebo <strong>Pro čtení a zápis</strong>. V případě, že přidáváte někoho, kdo není registrovaným uživatelem, zašlete se ze systému výzva k registraci. O sdílení výstavy jsou spolutvůrci informováni e-mailem. </p>
+<p>Výstavu je dále možné <strong>sdílet odesláním URL adresy výstavy</strong>, a to jak odkazu na titulní obrazovku, tak na libovolnou kapitolu či obrazovku. Avšak stále platí, že pokud výstava není ve stavu Zveřejněná, nikdo jiný než ostatní tvůrci ji neuvidí.</p>
+<p>Při <strong>spolupráci více autorů</strong> se automaticky editace zamkne na 1 minutu. Informace o tom, který tvůrce právě výstavu upravuje, je viditelná jak v seznamu výstav, tak na detailu výstavy. Ostatní tvůrci mohou výstavu prohlížet, ale ne upravovat.</p>
+<div class="admonition info">
+<p class="admonition-title">Tip</p>
+<p>Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy. </p>
+</div>
+<h2 id="hodnoceni-a-navstevnost">Hodnocení a návštěvnost<a class="headerlink" href="#hodnoceni-a-navstevnost" title="Permanent link">#</a></h2>
+<p>V záložce "Hodnocení a návštěvnost" jsou dostupné informace o tom, jak výstavu vnímají návštěvníci. Jednak je tam uveden celkový počet shlédnutí, který systém počítá sám, podobně jako je tomu u shlédnutí videí na YouTube. Toto hodnocení pro vás může být užitečnou zpětnou vazbou, co se povedlo a kde je naopak prostor pro zlepšení. Zjednodušené hodnocení se rovněž ukáže na výpisu všech vašich výstav a máte ho tak po ruce. </p>
+<p><img alt="" src="../img/hodnoceni-vystavy.png" /> </p>
+<p><img alt="" src="../img/hodnoceni-vypis-dlazdice.png" /> </p>
+<p>Návštěvníci jsou vyzváni k hodnocení výstavy na závěrečné obrazovce. Celkové hodnocení výstavy je pomocí hvězdiček, poté mohou vybrat aspekty výstavy (např. téma nebo hry), které je obzvlášť zaujaly, a také mají možnost zanechat návštěvníkům vzkaz a adresu, na kterou tvůrci mohou odpověď. Vzkaz však není povinný. </p>
+<p><img alt="" src="../img/hodnoceni-vystavy-navstevnici-orez.png" /> </p>
+<h2 id="motiv">Motiv<a class="headerlink" href="#motiv" title="Permanent link">#</a></h2>
+<p>Poslední záložkou u výstavy v rámci všeobecných nestavení je úprava motivu, tedy barevného schématu výstavy. Editor nabízí dva základní motivy - <strong>světlý</strong> a <strong>tmavý</strong>. Editor však umožňuje si některé prvky nastavit <strong>vlastními barvami</strong>. To se hodí zejména v případě, kdy vaše instituce má jednotný grafického manuálu a korporátní identitu. Ve všeobecném nastavení máte možnost upravit barvu pozadí, barvu ikon (např. šipky), barvu tagů. Výstavu také v části "Nastavení loga a vodoznaku" můžete nahrát vlastní logo a vybrat umístění, kde se bude zobrazovat. Ve třetí části můžete změnit všeobecné nastavení infopointů, kdy všechny infopointy budou mít vámi zvolenou barvu. U infopointů si však můžete změnit barvu u každého individuálně dle potřeby a tak dát jen některé jinou barvou, což je více zvýrazní. </p>
+<p><img alt="" src="../img/motiv.png" /> </p>
+<div class="admonition warning">
+<p class="admonition-title">Upozornění</p>
+<p>Nezapomeňte změny motivu uložit vpravo dole.   </p>
+</div>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Zkop\u00edrov\u00e1no do schr\u00e1nky", "clipboard.copy": "Kop\u00edrovat do schr\u00e1nky", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "Nenalezeny \u017e\u00e1dn\u00e9 dokumenty", "search.result.one": "Nalezen\u00fd dokument: 1", "search.result.other": "Nalezen\u00e9 dokumenty: #", "search.result.placeholder": "Pi\u0161te co se m\u00e1 vyhledat", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.51d95adb.min.js"></script>
+      
+    
+  </body>
+</html>
