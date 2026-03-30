@@ -235,6 +235,9 @@ Obrazovka Před a po je ideálním prostředkem, jak **zdůraznit změnu a rozd�
 !!! info "Tip"
     Vyzkoušejte různé druhy přechodů. Pozvolný přechod působí zcela odlišným dojmem než když použijete táhlo, kterým hýbe sám uživatel. Právě pozvolný přechod u obrazovky Před a po může být využit místo složitějších animací. 
 
+!!! warning "Upozornění" 
+    U varianty Prolnutí jako přechodu mezi dvěma obrázky nefunguje lupa, která umožní online návštěvníkům prohlédnout detaily obrázku a zvětšit si konkrétní části.
+
 ![](img/pred-po-editace.png)
 
 ![](img/pred-po.png)
