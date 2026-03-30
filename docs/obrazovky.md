@@ -68,7 +68,13 @@ V pravé části stránky editace nahráváte **audio** soubory, nastavujete ča
 
 ### Dokumenty
 
-K výstavě i ke každí obrazovce je možné přidat dokumenty ideálně ve formátu .docx nebo .pdf, které si návštěvník může stáhnout. **Soubory ke stažení** umožňují přidat rozšiřující informace k výstavě (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo je nahrajte z počítače. Druhou variantou je vložit odkaz na web pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně. 
+K výstavě i ke každé obrazovce je možné přidat dokumenty ideálně ve formátu .docx nebo .pdf, které si návštěvník může stáhnout. **Soubory ke stažení** umožňují přidat rozšiřující informace k výstavě (článek, seznam doporučené literatury, pracovní listy apod.). Dokumenty vybírejte z knihovny dokumentů v editoru nebo je nahrajte z počítače. Druhou variantou je vložit odkaz na online dokument pomocí URL. Web se návštěvníkovi otevře automaticky v novém okně. Na Úvodní obrazovce také můžete přidat audio verzi celé výstavy a umožnit online návštěvníkům stáhnoutsi výstavu a poslechnout si ji jako podcast. Audioverze výstavy se zobrazí na Závěrečné obrazovce. 
+
+![](img/audioverze-vystavy-pridani.png)
+Přidání audioverze vznikne spojením jednotlivých audio souborů. Přidáte ho na Úvodní obrazovce. 
+
+![](img/audioverze-stazeni.png)
+Stažení audioverze výstavy na Závěrečné obrazovce.
 
 !!! info "Tip"
     Dokumenty je možné přidat k výstavě nebo ke každé obrazovce zvlášť. Nemusíte tedy všechny dokumenty přikládat rovnou na úvodní stránku. Pokud některé dokumenty dáte dovnitř výstavy, snížíte riziko, že bude návštěvník přehlcen množstvím informací na úvodní stránce výstavy. 
