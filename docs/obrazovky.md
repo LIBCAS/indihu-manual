@@ -170,10 +170,16 @@ Ukázku, jak může vypadat parallax, uvidíte v následujícím videu.
 
 ### Animace přiblížení
 
-Obrazovka "Animace přiblížení"" je velmi efektní způsob, jak na jednom obrázku návštěvníkům zdůraznit určité detaily. Obrázek se přiblíží na místo, které chcete ukázat, poté se oddálí a může se přiblížit na další. Tento detail také máte možnost okomentovat - máte na výběr několik možných umístění, kde se komentář zobrazí. Na detaily můžete upozorňovat i pomocí infopointů, které ale návštěvníci nemusí vždy rozkliknout, kdežto u obrazovky "Animace přiblížení" o detailní pohled nepřijdou, protože se obrázek přibližuje a oddaluje tak, jak jste to nastavili.  Mezi jednotlivými detaily se animace vždy vrátí na celek obrázku. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.   
+Obrazovka "Animace přiblížení"" je velmi efektní způsob, jak na jednom obrázku návštěvníkům zdůraznit určité detaily. Obrázek se přiblíží na místo, které chcete ukázat, poté se oddálí a může se přiblížit na další (varianta 1) nebo přejde na další detail (varianta 2). Tento detail také máte možnost okomentovat - máte na výběr několik možných umístění, kde se komentář zobrazí. Na detaily můžete upozorňovat i pomocí infopointů, které ale návštěvníci nemusí vždy rozkliknout, kdežto u obrazovky "Animace přiblížení" o detailní pohled nepřijdou, protože se obrázek přibližuje a oddaluje tak, jak jste to nastavili.  V nastavení můžete ovlivnit barvu textu a pozadí zvýeŕaznění a vizuálně podpořit vnímání detailu. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.   
+
+![](img/priblizeni-celek.png)
+Vyběr ze dvou hlavních variant. 
+
+![](img/nastaveni-detailu.png)
+Nastavení u popisku detailu. 
 
 !!! info "Tip"
-    Obrazovka "Animace přiblížení" vyžaduje poměrně dost času, aby byla animace příjemná a plynulá a návštěvníci měli dost času si obrázek prohlédnout. 
+    Obrazovka "Animace přiblížení" vyžaduje poměrně dost času, aby byla animace příjemná a plynulá a návštěvníci měli dost času si obrázek prohlédnout. Musíte také nahrát dostatečně kvalitní obrázek, aby přiblížení nebylo zrnité. 
 
 !!! info "Tip"
     Načasování plynutí výstavy věnujte velkou pozornost. Zvolte u každé obrazovky takový čas, aby měl návštěvník prostor si prohlédnout obsah, ale zároveň aby se nezačal nudit. Doporučujeme vyzkoušet načasování jednotlivých obrazovek s testovacími návštěvníky. 
