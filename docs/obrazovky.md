@@ -207,6 +207,29 @@ Při vkládání obrázků postupujte stejně jako u "Obrazovky s obrázkem" neb
 
 ## Interaktivní obrazovky 
 
+### Anketa 
+
+Anketa je v podstatě variantou kvízu, ale s tím rozdílem, že se zaznamenávají výsledky hlasování. Nejprve vyplňte název obrazovky, ten nemusí být stejný jako otázka a v ideálním případě by měl být název obrazovky kratší. Poté vyberte variantu ankety - pouze text (1), pouze obrázek (2), obrázek a text (3). Pomocí tlačítka Přidat novou odopvěď přidávate další varianty, minimální počet variant jsou dvě. Můžete také umožnit návštěvníkům napsat volnou odpověď. V tom případě se zobrazí textové pole pro odpověď jako obrázkové/textové možnosti. Můžete také zakliknout možnost, že se návštěvníkovi po odhlasování ukáže, jak hlasovali ostatní. 
+
+![](img/anketa-funkce.png)
+Základní funkce a možnosti nastavení u ankety. 
+
+![](img/anketa-vysledky.png)
+Výsledky ankety pak vidíte přehledně ve třetí záložce Výsledky. 
+
+![](img/anketa-ukazka.png)
+Ukázka varianty obrázkové ankety. 
+
+**Zveřejnění ankety a reset odpovědí**
+Anketu uvidíte v náhledu jen v případě, kdy je zveřejněná. Při přípravě výstavy a při jejím testování zveřejněte anketu. Až dokončíte výstavu a rozhodnete se ji finálně zveřejnit, doporučujeme Resetovat odpovědi a sbírat je od začátku, aby odpovědí odpravdu odpovídaly názorům online návštěvníků, kteří ji navštíví. 
+
+!!! info "Tip"
+    Využití ankety je široké. Můžete ji využít při mapování názorů i ke vzdělávacím účelům. Zde k zamšlení navrhujeme několik důvodů, proč anketu nasadit: 
+    1. **Podpoříte aktivní zapojení návštěvníka**: Anketa proměňuje pasivního návštěvníka v účastníka, který se nad tématem musí skutečně zamyslet, což prohlubuje jeho prožitek z výstavy a zvyšuje šanci, že si zapamatuje klíčové informace.
+    2. **Zpětná vazba pro tvůrce**: Odpovědi návštěvníků poskytují cenná data o tom, co publikum zaujalo, čemu rozumělo a co je překvapilo, což umožňuje výstavu v budoucnu vylepšit.
+    3. **Ověření porozumění**: Dobře položená otázka dokáže nenásilně prověřit, zda návštěvník pochopil hlavní sdělení, a funguje tak jako neformální vzdělávací nástroj. Můžete také mapovat názory v otázkách, kdy není jedna správná odpověď. 
+    3. **Propojení s ostatními návštěvníky**: Když návštěvník vidí souhrnné výsledky ankety, uvědomí si, že výstavu prochází společně s ostatními, což i u virtuálního formátu vytváří pocit sdíleného zážitku, kterého je jinak těžší docílit.
+
 ### Fotogalerie
 
 Fotogalerie je typ obrazovky, která je v hodná k prezentování více obrázků, které spolu souvisí. V případě, že vkládáte za sebe více "Obrazovek s obrázkem", zvažte využití fotogalerie, protože výsledný dojem bude plynulejší. Umožní vám to také okomentovat více fotografií v jednom textu nebo jedním audio komentářem, což vám ulehčí jak editaci, tak práci s audiosoubory. Pokud potřebujete obrázky upravit, do jednoduchého editoru obrázků se dostanete u každého obrázku přes ikonku palety nebo přes správce souborů.
