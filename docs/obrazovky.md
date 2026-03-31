@@ -104,12 +104,23 @@ Infopointy jsou malé čtverečky, které můžete umístit kamkoli na obrazovku
 
 ![](img/infopoint-ukazka.png) 
 
-
 !!! info "Tip"
     Pro snadnější sledování postupu prací na výstavě lze všechny obrazovky po dokončení označit jako dokončené. Ve výpisu všech obrazovek výstavy se tyto obrazovky vyznačí zelenou barvou. 
 
 !!! warning "Upozornění"
     Myslete na to, že při prohlížení výstav mohou mít návštěvníci malé obrazovky, a proto se obsah jednotlivých infopointů může překrývat. Doporučujeme psát infopointy stručné a nedávat je jako "Trvale zobrazené." Můžete také vytvořit výstavu pro telefony zvlášť.  
+
+### Hudba, zvuk a komentář
+
+Audio je důležitou součástí virtuálních výstav a může dodat atmosféru, informace, pomáhá budovat napětí, aktivizuje online návštěvníky a přispívá k tomu, aby byla výstava více dynamická. INDIHU Exhibition nabízí celou řadu možností, jak přidat hudbu nebo audio-komentář: 
+
+- Hudební podkres kapitoly: Přidává se u obrazovky Úvod do kapitoly a u každé individuální obrazovky ji můžete vypnout, pokud budete potřebovat.
+- Audio k obrazovce: Ideální pro audiokomentář. Načasování tvrání obrazovky můžete automaticky nastavit podle mluveného slova (audio stopy obrazovky).
+- Zvukový podkres k výstavě: Přidává se na Úvodní obrazovce a hraje i v obrazovkách, které nejsou sdruženy do kapitoly. Pokud kombinujete samostatné obrazovky i kapitoly, je možné se rozhodnout, která hudba se bude pouštět.
+
+!!! info "Tip"
+    **Převod textu do mluveného slova**
+    Pro převod textu do mluveného slova lze využít nástroje typu text-to-speech (TTS), které z psaného komentáře vytvoří zvukový soubor (formát MP3). Mezi nejjednodušší patří ElevenLabs, PlayHT nebo NaturalReader. Postup je velmi jednoduchý: vložíte text, zvolíte jazyk a hlas (např. ženský, vyprávěcí, jemný), upravíte tempo a po převodu stáhnete výsledný soubor. Abyste získali co nejlepší výsledek, je důležité zdrojový text upravit: používat kratší věty, přidat přirozené pauzy (např. rozdělením textu do odstavců), dát větám jednodušší rytmus a nepoužívat složitá souvětí. Zvukový komentář má pro online výstavu zásadní přínos, protože návštěvníkovi umožňuje obsah poslouchat namísto čtení, což zvyšuje srozumitelnost, přístupnost (např. pro osoby se zrakovým omezením) i celkový zážitek z prohlídky.
 
 ## Obsahové obrazovky 
 
