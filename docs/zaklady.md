@@ -101,6 +101,26 @@ kapitol vznikne výstava.
   - Každou stránku lze upravovat, zobrazit náhled nebo smazat pomocí menu (9).
  -->
 
+### Hudba a zvuk ve výstavě 
+
+Do virtální výstavy můžete přidat zvuk nebo audiokomentář na více místech: 
+
+1. Zvukový podkres výstavy, který přidáte va Úvodní obrazovce a hraje i přes individuální obrazovky, které nejsou sdruženy do kapitol.
+2. Hudební podkres kapitoly (je možné označit určité obrazovky, kdy se vypne). 
+3. V každé obrazovce. Tato varianta je vhodná pro audiokomentář. 
+
+**Hudební podkres**
+Hudební podkres může online výstavu rovněž výrazně obohatit, pokud je použit citlivě a účelně. Pomáhá totiž vytvářet atmosféru (např. historickou, industriální, přírodní), podporuje emoce a udržuje pozornost návštěvníka, aniž by rušil mluvený komentář. Ideální je volit jemnou, nevtíravou hudbu bez výrazných vokálů a nastavit její hlasitost tak, aby byla vždy pod úrovní mluveného slova. Správně zvolený hudební podkres spolu s mluveným komentářem vytváří vrstevnatý audiovizuální zážitek, který návštěvníka více vtáhne do tématu výstavy.
+
+**Kde získat hudbu a autorská práva**
+Hudbu lze legálně získat z databází s volnými licencemi, jako jsou Free Music Archive, Pixabay nebo YouTube Audio Library. Ale stejně doporučujeme sledovat licenční podmínky jednotlivých skladeb, protože některé vyžadují uvedení autora (Creative Commons), případně nejsou určeny pro komerční využití. Pro komerční využití online výstavy většinou vytvořené nejsou, ale doporučujeme to uvádět například v tiráži nebo v textovém poli u obrazovky společně s autory/em hudby. Doporučeujeme být transparentní a o zdroji hudby informovat. 
+
+**Převod textu do mluveného slova**
+Pro převod textu do mluveného slova lze využít nástroje typu text-to-speech (TTS), které z psaného komentáře vytvoří zvukový soubor (formát MP3). Mezi nejjednodušší patří ElevenLabs, PlayHT nebo NaturalReader. Postup je velmi jednoduchý: vložíte text, zvolíte jazyk a hlas (např. ženský, vyprávěcí, jemný), upravíte tempo a po převodu stáhnete výsledný soubor. Abyste získali co nejlepší výsledek, je důležité zdrojový text upravit: používat kratší věty, přidat přirozené pauzy (např. rozdělením textu do odstavců), dát větám jednodušší rytmus a nepoužívat složitá souvětí. Zvukový komentář má pro online výstavu zásadní přínos, protože návštěvníkovi umožňuje obsah poslouchat namísto čtení, což zvyšuje srozumitelnost, přístupnost (např. pro osoby se zrakovým omezením) i celkový zážitek z prohlídky.
+
+!!! info "Tip"
+    Audio komentář si sami přečtěte nahlas nebo požádejte někoho dalšího, aby vám ho přečetl. Označte si části textu, kde došlo k chybě nebo zaváhání a zkuste text upravit. Tak zjistíte, že audiokomentář bude znít dobře. Až potom použijte nástroje text-to-speach k finálnímu nahrání. 
+
 ### Soubory k výstavě
 
 Každá výstava disponuje svým vlastním souborovým depozitářem, do kterého si tvůrce může nahrávat soubory potřebné pro tvorbu výstavy. Tvůrce také může vytvářet adresářové struktury ("nový adresář") a přesouvat soubory mezi složkami. K dispozici je náhled obrázku a metadata souboru. Přes ikonu ... se dostanete k menu jednotlivého obrázku. Tyto soubory tvůrce dále využívá při vytváření a editaci jednotlivých stránek, proto se snažte udržet co nejvyšší přehlednost v souborech. Editor umožňuje i hromadné nahrávání. 
@@ -179,4 +199,8 @@ Poslední záložkou u výstavy v rámci všeobecných nestavení je úprava mot
 
 !!! warning "Upozornění"
     Nezapomeňte změny motivu uložit vpravo dole.   
+
+!!! warning "Upozornění"
+    V záložce Motiv si můžete vybrat základní verzi infopointu - vybíráte barvu, tvar (čtverec, kruh) nebo nahráváte vlastní ikonu. Individuálně můžete u každého infopointu měnit jeho vzezření. Nastavení u infopointu je pak nadřazené nastavení infopointu u motivu. Můžete tak pracovat s různými druhy infopointů podle barevnosti nebo např. piktogramu. 
+    ![](img/motiv-infopoint.png) 
 
