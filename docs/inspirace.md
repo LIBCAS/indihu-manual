@@ -4,6 +4,21 @@ Virtuální výstavy jsou **moderním způsobem**, jak propojit klasické prost�
 
 Virtuální výstava může být **doprovodným programem k výstavě fyzické**, obstojí však i jako zcela **samostatný multimediální počin**. Moderní technologie jsou běžnou součástí života mladších generací, nejsou však překážkou ani pro ty starší, které postupně odhalují jejich výhody a pronikají do jejich tajů. 
 
+## Podpora pro tvůrce - pracovní listy k přípravě výstavy 
+
+Zvlášť pokud je pro vás formát virtuálních výstav nový, je vhodné si osvojit nové způsoby přemýšlení o jejich vytváření. Při tvorbě virtuálních výstav nemáme oporu ve fyzickém prostoru, proto je vhodnější přemýšlt o té nejefektivnější kombinaci různých médií. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy. Čas, který inestujete do promyšlení výstavy se vám bohatě vrátí. Několik důvodů, proč pracovní listy používat: 
+
+1. **Ujasníte si cíl a smysl výstavy** — Listy vás systematicky vedou k promyšlení, proč výstavu děláte a co má návštěvníkovi přinést. Pomáhají formulovat jasný záměr ještě před samotnou tvorbou
+2. **Jasně formulujete klíčová sdělení** — Pomáhají identifikovat nejdůležitější informace, které by si online návštěvník měl z výstavy odnést, čímž zabráníte přehlcení 
+3. **Definujete cílovou skupinu** — Worksheety vás přimějí přemýšlet o tom, pro koho výstavu tvoříte, což je klíčový krok pro nastavení správného tónu, jazyka i obsahu. Pro preference obsahu také využijte informace na stránce [Online návštěvníci](online-navstevnici.md)
+4. **Pomáhají zvolit vhodný formát a obsah** — Vedou k rozhodnutí, jaké typy médií a obsahu (texty, fotografie, videa, interaktivní prvky) do výstavy zahrnout a proč
+
+![](img/pracovni-listy.png) 
+
+[Pracovní listy - provedou vás přípravou výstavy](img/INDIHU_listy3.pdf){:download}
+
+## Propojení virtuální a fyzické výstavy
+
 Tvůrci výstavy si musí na začátku stanovit, zda budou tvořit virtuální výstavu jako **samostatný počin, či s propojením na fyzickou část výstavy**. Druhá varianta tvůrce omezuje již daným ztvárněním tématu a stanovenou koncepcí fyzické výstavy, kdežto virtuální výstava bez této návaznosti poskytuje tvůrcům prostor pro zcela nové pojetí. 
 
 Dalším krokem je pak stanovení **cílového návštěvníka** tak, abychom výstavu mohli tvořit s ohledem na jeho znalosti a vzdělávací potřeby, a rovněž definování konkrétních informací, které mu chceme předat, protože obsah je pořád to nejdůležitější. Nabízí se možnost vytvořit modifikované varianty výstavy pro různé cílové skupiny, včetně pracovních listů, které jsou vhodnou pomůckou pro vzdělávání. 
@@ -69,6 +84,8 @@ Virtuální výstava "Projekt Piombo_Madona bez roušky" je příkladem výstavy
 Virtuální výstava "Akce K: Zkáza klášterních knihoven" se zabývá tématem komunistického zásahu proti církvi v 50. letech 20. století. Během přípravy se autorský tým potýkal s několika problémy. K tématu neexistovalo příliš mnoho autentických dobových materiálů, a pokud ano, byly notoricky známé. Druhým problémem bylo, že laická veřejnost, na kterou výstava cílila, není dostatečně obeznámena s historií klášterů a důležitostí církve pro středověkou i moderní společnost. Represe komunistického režimu naopak jsou populárním tématem a vernisáž výstavy byla navíc načasována na 70. výročí událostí, což přitáhlo k výstavě zájem médií. Tvůrci se tak zaměřili na **širší kontext** a vysvětlení, jak jsme se vlastně dostali do situace, kdy kláštery byly bohaté. Pro výstavu tvůrci vytvořili autentický materiál v podobě animací a kreseb, **průvodcovskou postavu mnicha**, aby autentický materiál, kterého nebylo moc, vynikl. Kromě propagace a délka výstavy 14 minut umožňovala výstavu využít během tehdejší distanční výuky během první vlny pandemie covid-19. 
 
 Vznik a konceptualizace výstavy je prezentována v odborné recenzované případové studiu v časopise JOINME (Journal of Interactive Media): [Když se potkají klášterní knihovny a nová média: Případová studie vzniku virtuální výstavy](https://joinme-muni.cz/show-article.php)
+
+<iframe src=https://exhibition.indihu.cz/view/akce-k width=600 height=400 allowFullScreen />
 
 [Odkaz na výstavu: Akce K: Zkáza klášterních knihoven](https://exhibition.indihu.cz/view/akce-k)
 
