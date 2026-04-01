@@ -21,9 +21,17 @@ Virtuální výstava je online prezentace vybraného tématu. Při tvorbě výst
 
 ## Vytvářím svou první výstavu
 
-Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že jste se rozhodli použít náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy.
+Udělat svou první výstavu je nejtěžší a moc si vážíme toho, že jste se rozhodli použít náš nástroj. Abychom vám tento proces zjednodušili, připravili jsme pro vás sadu pracovních listů, které vám pomohou vytvořit scénář virtuální výstavy. Čas, který inestujete do promyšlení výstavy se vám bohatě vrátí. Několik důvodů, proč pracovní listy používat: 
+
+1. **Ujasníte si cíl a smysl výstavy** — Listy vás systematicky vedou k promyšlení, proč výstavu děláte a co má návštěvníkovi přinést. Pomáhají formulovat jasný záměr ještě před samotnou tvorbou
+2. **Jasně formulujete klíčová sdělení** — Pomáhají identifikovat nejdůležitější informace, které by si online návštěvník měl z výstavy odnést, čímž zabráníte přehlcení 
+3. **Definujete cílovou skupinu** — Worksheety vás přimějí přemýšlet o tom, pro koho výstavu tvoříte, což je klíčový krok pro nastavení správného tónu, jazyka i obsahu. Pro preference obsahu také využijte informace na stránce [Online návštěvníci](online-navstevnici.md)
+4. **Pomáhají zvolit vhodný formát a obsah** — Vedou k rozhodnutí, jaké typy médií a obsahu (texty, fotografie, videa, interaktivní prvky) do výstavy zahrnout a proč
+
+![](img/pracovni-listy.png) 
 
 [Pracovní listy - provedou vás přípravou výstavy](img/INDIHU_listy3.pdf){:download}
+
 
 !!! info "Tip"
     Pracovní listy doporučujeme vytisknout a vyplnit s tužkou v ruce. Pracovní listy vám pomohou odpovědět na klíčové otázky - **o čem výstava bude, komu je určena, jaký ty interakce nabídne návštěvníkům.** K pracovním listům se můžete opakovaně vracet. Doporučujeme je nechat **samostatně vyplnit každému členovi či člence tvůrčího týmu** a poté najít společnou koncepci. 
