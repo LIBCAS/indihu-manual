@@ -50,19 +50,22 @@ Návštěvník má za úkol najít určité místo na obrázku. V záložce obr�
 
 ## Dokresli
 
-Návštěvník má za úkol dokreslit pouze částečně zobrazený objekt. K dispozici má tužku, u které může měnit barvu (1), vybírat si tloušťku (2) nebo si zapnout gumu, díky které v případě potřeby část obrázku smaže (3). Díky různým tloušťkám tužky může návštěvník obrázek vybarvovat a udělat v něm i plochy. V případě, že chcete ukázat, jak vypadá celý obrázek, nahrajte obrázek do Výsledku. Pokud hra nemá správné řešení, zaškrtněte pole "Hra nemá správné řešení". 
+Návštěvník má za úkol dokreslit pouze částečně zobrazený objekt nebo vybarvit plochy. K dispozici má tužku, u které může měnit barvu (1), vybírat si tloušťku (2) nebo si zapnout gumu, díky které v případě potřeby část obrázku smaže (3). Díky různým tloušťkám tužky může návštěvník obrázek vybarvovat a udělat v něm i plochy. V případě, že chcete ukázat, jak vypadá celý obrázek, nahrajte obrázek do Výsledku. Pokud hra nemá správné řešení, zaškrtněte pole "Hra nemá správné řešení". 
 
 **Příklady úkolů:** 
 
 - Dokreslení symetrického předmětu (váza, ornament, svícen)
 - Vybarvení černobílého obrázku
 - Vybarvení obrázku jen za použití studených / teplých / určitých barev
-- Ukažte návštěvníkům jen část grafu a nechte je zkusit odhadnout, jak vývoj pokračoval po nějaké události 
+- Ukažte návštěvníkům jen část grafu a nechte je zkusit odhadnout, jak vývoj pokračoval po nějaké události
+- Omalovánky 
 
 !!! info "Tip"
 	Tato hra nutí návštěvníka, aby se nad tématem opravdu zamyslel, porovnal dosavadní informace z výstavy s tím, co si o tématu doposud myslel. Pokud se hra zaměří na dokreslení tvarů, výzdoby apod., tato hra může sloužit ke kreativnímu vyjádření návštěvníka.  
 
 ![](img/dokresli-popis.png) 
+
+![](img/vybarvi.png) 
 
 ## Stírací los
 
