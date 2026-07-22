@@ -149,7 +149,7 @@ Tipy použití pro obrazovku s textem:
 
 ![](img/obrazovka-s-textem2.png) 
 
-### Parallax
+<!--### Parallax
 
 Parallax je dynamický efekt, který oživí virtuální výstavu. Spočívá v tom, že je obrázek rozdělen na nejméně 2 vrstvy - popředí a pozadí. Tyto vrstvy jsou animovány rozdílnou rychlostí, čímž vzniká iluze 3D, ačkoli se jedná stále o obrázek. Přípravu jednotlivých vrstev vytvořte v příšlušném grafickém programu, na který jste zvyklí (např. Kripta, Adobe Photoshop). 
 
@@ -167,6 +167,7 @@ Vyzkoušejte, jaká animace bude vypadat nejlépe. Máte na výběr z několika 
 Ukázku, jak může vypadat parallax, uvidíte v následujícím videu. 
 
 <center><iframe width="560" height="615" src="https://www.youtube.com/embed/XoykDUe2ItI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+-->
 
 ### Animace přiblížení
 
@@ -288,6 +289,36 @@ Postupně vyplníte záložku **Název, text, audio** jako u ostatních typů ob
 ![](img/rozcestnik-frontend.png)
 
 ![](img/rozcestnik-frontend-text.png)
+
+### Anketa
+
+Anketa funguje podobně jako kvíz, ale s tím rozdílem, že se **shromažďují odpovědi online návštěvníků**. Při nastavování ankety nejprve vyberte, zda se bude jednat o text, nebo o text s obrázkem. Dále zvažte, zda se má online návštěvníkovi zobrazit to, jak hlasovali ostatní. Můžete dát pouze na výběr konkrétní odpovědi (a) nebo do ankety zařadit i volnou odpověď (b). 
+
+![](img/anketa-1.png)
+
+![](img/anketa-1b.png)
+
+Jednotlivé možnosti odpovědí přidávejte pomocí tlačítka "Přidat novou odpověď". Vždy musíte mít minimálně dvě možnosti, ačkoli jich můžete přidat více. Odpovědi si můžete pro lepší přehlednost pojmenovat. Pomocí šipek nalevo v poli s odpovědí můžete měnit jejich pořadí a přesouvat je nahoru/dolů. Jednotlivé odpovědi se automaticky seřadí tak, aby dobře vyplňovaly stránku a obrazovku online návštěvníka.  
+
+Ve třetí záložce s názvem **Výsledky** pak vidíte, jak online návštěvníci hlasovali. 
+
+![](img/vysledky-ankety.png)
+
+Pro sbíraní výsledků je třeba nejprve **Zveřejnit anketu** pomocí tlačítka pod odpovědmi. Od této chvíle sbíráte odpovědi. Pokud výstavu testujete, což doporučujeme, nezapomeňte testovací odpovědi resetovat, než výstavu dokončíte a zveřejníte, aby výsledky nebyly zkreslené odpovědmi během testování a vy jste opravdu získali informace o tom, co si myslí vaši online návštěvníci. 
+
+**Proč zařadit anketu do online výstavy?**
+
+1. **Zjistíte zájem o konkrétní témata** — Výsledky ankety poskytují cenná data o tom, která témata, exponáty nebo otázky návštěvníky nejvíce zajímají. Tato zpětná vazba pomáhá digitálním kurátorům plánovat další výstavy, doplňkový obsah nebo edukační aktivity podle skutečného zájmu publika.
+
+2. **Zapojení a aktivizace návštěvníka** — Anketa proměňuje pasivního diváka v aktivního účastníka. Kliknutí a vyjádření vlastního názoru zvyšuje angažovanost a prohlubuje prožitek z výstavy.
+
+3. **Efekt sociálního srovnání** — Možnost vidět, jak hlasovali ostatní, uspokojuje přirozenou lidskou zvědavost - „Jsem ve většině, nebo v menšině?“ To činí interakci atraktivnější.
+
+4. **Pocit sounáležitosti a komunity** — Návštěvník ví, že není sám, ale je součástí většího publika, čímž vzniká tak pocit sdílené zkušenosti, i když je návštěva individuální a online.
+
+5. **Podnět k reflexi** — Dobře formulovaná anketní otázka (např. o kontroverzním či mnohovrstevnatém tématu) vede návštěvníka k zamyšlení a konfrontaci vlastního názoru s názorem ostatních, což podporuje kritické myšlení a multiperspektivitu.
+
+7. **Získáte data a bez registrace** — Anketa umožňuje získávat informace o publiku anonymně a bez nutnosti přihlášení, což snižuje bariéru zapojení a respektuje soukromí návštěvníka.
     
 ## Závěr výstavy  
 
