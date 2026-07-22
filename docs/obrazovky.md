@@ -149,6 +149,16 @@ Tipy použití pro obrazovku s textem:
 
 ![](img/obrazovka-s-textem2.png) 
 
+### Animace obrazových vrstev
+
+Obrazovka umožňuje, aby se na podkladovém obrázku pohyboval jiný směrem jiný obrázek nebo obrázky. Můžete si zvolit směr, kterým se budou obrázky pohybovat - zleva doprava, nahoru či dolů. Nejprve nahrajte podkladový obrázek, který je vhodné orientovat na šířku, poté vložte další obrázky. Pro lepší efekt doporučujeme, aby obrázky, které se budou hýbat, měly transparentní pozadí. 
+
+!!! info "Tip"
+    Zkuste se zamyslet na významem obrazovky a zkombinovat např. vizuální vtip s tématem výstavy - např. postavy z historické fotografie umístěte do zajímavého nebo novodobého prostředí.
+
+![](img/animace-vrstev.png)
+
+<!--
 ### Parallax
 
 Parallax je dynamický efekt, který oživí virtuální výstavu. Spočívá v tom, že je obrázek rozdělen na nejméně 2 vrstvy - popředí a pozadí. Tyto vrstvy jsou animovány rozdílnou rychlostí, čímž vzniká iluze 3D, ačkoli se jedná stále o obrázek. Přípravu jednotlivých vrstev vytvořte v příšlušném grafickém programu, na který jste zvyklí (např. Kripta, Adobe Photoshop). 
@@ -204,6 +214,40 @@ Při vkládání obrázků postupujte stejně jako u "Obrazovky s obrázkem" neb
 
 !!! info "Tip"
     Načasování plynutí výstavy věnujte velkou pozornost. Zvolte u každé obrazovky takový čas, aby měl návštěvník prostor si prohlédnout obsah, ale zároveň aby se nezačal nudit. Doporučujeme vyzkoušet načasování jednotlivých obrazovek s testovacími návštěvníky, protože vy jako tvůrci obsah znáte a nepotřebujete tolik času na prohlížení a čtení. 
+
+### Časová osa 
+
+Ve virtuálních výstavách často prezentujeme určité události a jejich časovou posloupnost v chronologickém pořadí. Obrazovka časová osa nabízí celou řadu možností, jak vizuálně prezentovat, jak šly jednotlivé události za sebou. 
+
+Základem obrazovky je samotná osa - přímka nebo úsečka, - která může být horizontální, vertikální, diagonální nahoru nebo diagonální dolů. Jednotlivé body přidáváte jako infopointy - vždy se zobrazí v levém horním rohu a pomocí myši jej přetáhnete na příslušné místo na ose. 
+
+Body mohou být zobrazené stále nebo po kliknutí. Kromě tohoto základního nastavení si můžete nastavit: 
+
+- Tloušťku a barvu osy
+- Začátek a konec osy (bod, úsečka, bez zakončení)
+- Barvu pozadí obrazovky
+- Barvu bodů na ose 
+- Typ bodů na ose (text, obrázek, text i obrázek - tyto varianty můžete kombinovat)
+- U bodů můžete mít nadpis
+- Můžete využít automatické rozmístění, kdy je mezi body stejná vzdálenost nebo je umístit ručně 
+- Obrázek na pozadí včetně nastavení průhlednosti(tzv. opacity)
+- Název časové osy
+- Text v textovém poli
+- Přidat dokumenty k obrazovce 
+
+![Pohled do editace a nastavení jednotlivých prvků časové osy](img/casova-osa4.png)
+
+![Horizontální osa se třemi body](img/casova-osa1.png)
+
+![Stejná osa ale diagonální nahoru s nadpisem u jednotlivých bodů](img/casova-osa2.png)
+
+![Osa s obrázkem na pozadí a body, které si online návštěvník musí rozkliknout](img/casova-osa3.png)
+
+!!! warning "Upozornění"
+	Je pravděpodobné, že online návštěvníci si budou prohlížet výstavu na telefonu. Proto zvažte počet bodů. Doporučujeme max. 3-5 bodů pro mobilní zařízení a ne víc jak 8 bodů pro větší obrazovky. Zkontrolujte si, jak obrazovka vypadá na telefonu a zda se informace příliš nepřekrývají. 
+
+!!! info "Tip"
+	Pokud chcete mít na začátku či na konci osy nějaký textový údaj, doporučujeme pro něj použít bod pouze text a vyplnit pouze jeho název, který je tučně a dát ho jako.
 
 ## Interaktivní obrazovky 
 
