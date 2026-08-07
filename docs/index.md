@@ -43,6 +43,13 @@ Tvorba virtuálních výstav má dvě části - příprava obsahu a samotná pr�
 3. [Obrazovky](obrazovky.md): Podrobný ilustrovaný popis jednotlivých typů obrazovek
 4. [Hry](hry.md): Podrobný ilustrovaný popis jednotlivých interaktivních her
 
+Využijte naše **pracovní listy**, které vám pomohou s vytvářením virtuální výstavy. Jednoduše si je vytiskněte. Pracovní listy vám pomohou s cílením na konkrétní typy online návštěvníků a pomocí otázek napomohou zpřesnění obsahu a výběru multimédií. 
+
+![](img/pracovni-listy-obr.png)
+
+[Stažení pracovních listů v PDF](https://github.com/LIBCAS/indihu-manual/blob/c64a47859254b1a785e2435534ba96d6c68fb101/INDIHU_pracovni_listy_2026.pdf)
+
+
 ## Jak výstavu vidí návštěvník
 
 Na úvodní stránce najde návštěvník klíčové informace o virtuální výstavě - její přibližnou délku, jednotlivé kapitoly, informace o tvůrčím týmu a v případě, že je autor vytvořil, tak i doplňující dokumenty k výstavě.
