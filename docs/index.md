@@ -16,7 +16,7 @@ Může sloužit jako **vzdělávací nástroj** a pomůcka ve výuce v různých
     * Ušetří peníze za programátory
     * Splňuje současné standardy uživatelských rozhraní - jednoduché ovládání a střízlivé rozhraní s akcentem na vizuálně atraktivní obsah. 
 
-INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kódem](<https://github.com/LIBCAS/INDIHU>). [Registrovaní tvůrci](zaklady.md#zrizeni-uctu) vytváří výstavu ve svém webovém prohlížeči na adrese [exhibition.indihu.cz]<https://exhibition.indihu.cz/>. Kdokoli si může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. O technickou stránku věci, infrastrukturu, provoz a data se stará Knihovna Akademie věd ČR. 
+INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kódem](<https://github.com/LIBCAS/INDIHU>). [Registrovaní tvůrci](zaklady.md#zrizeni-uctu) vytváří výstavu ve svém webovém prohlížeči na adrese [exhibition.indihu.cz](<https://exhibition.indihu.cz/>). Kdokoli si může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. O technickou stránku věci, infrastrukturu, provoz a data se stará Knihovna Akademie věd ČR. 
 
 ## Co to umí 
 
@@ -42,6 +42,12 @@ Tvorba virtuálních výstav má dvě části - příprava obsahu a samotná pr�
 2. [Základní fungování](zaklady.md): Vysvětlení používaných pojmů a ilustrovaný popis jednotlivých kroků při založení první výstavy
 3. [Obrazovky](obrazovky.md): Podrobný ilustrovaný popis jednotlivých typů obrazovek
 4. [Hry](hry.md): Podrobný ilustrovaný popis jednotlivých interaktivních her
+
+Využijte naše **pracovní listy**, které vám pomohou s vytvářením virtuální výstavy. Jednoduše si je vytiskněte. Pracovní listy vám pomohou s cílením na konkrétní typy online návštěvníků a pomocí otázek napomohou zpřesnění obsahu a výběru multimédií. 
+
+![](img/pracovni-listy-obr.png)
+
+[Stažení pracovních listů v PDF](img/INDIHU_pracovni_listy_2026.pdf){:download}
 
 ## Jak výstavu vidí návštěvník
 
