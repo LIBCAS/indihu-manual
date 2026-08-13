@@ -145,7 +145,7 @@ Pro vytvoření časové osy nejprve vyberte základní typ osy a poté přidáv
 
 ![](img/casova-osa-editace.png) 
 
-![](img/casova-osa-ukazka.png.png)
+![](img/casova-osa-ukazka.png)
 Tato osa je diagonální nahoru s podkladovým obrázkem o průhlednosti 75% a s ručním nastavením umístění bodů. 
 
 ### Obrazovka s videem
