@@ -124,6 +124,30 @@ Infopointy jsou určeny ke zvýraznění určitého detailu nebo motivu na obrá
 
 Vyberte obrázek z dokumentů. V případě, že obrázek nemáte nahraný do editoru, nahrajte jej pomocí správce souborů. Pokud chcete, vyberte typ animace. Zkuste více druhů animace a vyberte, která vám bude nejvíce vyhovovat. Pomocí tlačítka + přidejte infopointy a nabídka nastavení se vám zobrazí ve vyskakovacím okně. Na jeden obrázek je možné vložit více infopointů, nedoporučujeme však více než tři.
 
+### Časová osa 
+
+Pro znázornění časové souslednosti můžete využít obrazovku časová osa, kdy umístíte na osu jednotlivé události v chronologickém pořadí. Máte mnoho možností, jak časovou osu upravit tak, aby vyhovovala vašim potřebám. U časové osy nastavujete: 
+
+- Směr osy (horizontální, vertikální, diagonálně nahoru, diagonálně dolů)
+- Typ bodů na ose (text, obrázek, text i obrázek - tyto varianty můžete kombinovat)
+- Barvu osy 
+- Obrázek na pozadí a jeho případnou intenzitu (opacity neboli průhlednost)
+- Začátek a konec osy (bod, úsečka, bez zakončení)
+- Zobrazení bodů na ose (na rozkliknutí nebo stále zobrazen, barva  a tvar, rozložení - rovnoměrné nebo ruční)
+
+Pro vytvoření časové osy nejprve vyberte základní typ osy a poté přidávejte jednotlivé body na ose. Můžete zvolit automatické rozmístění, které body rovnoměrně rozprostře nebo je umístit ručně. 
+
+!!! warning "Upozornění"
+	Je pravděpodobné, že online návštěvníci si budou prohlížet výstavu na telefonu. Proto zvažte počet bodů. Doporučujeme max. 4-6 bodů pro mobilní zařízení a ne víc jak 8 bodů pro větší obrazovky. Zkontrolujte si, jak obrazovka vypadá na telefonu a zda se informace příliš nepřekrývají. 
+
+!!! info "Tip"
+	Pokud chcete mít na začátku či na konci osy nějaký textový údaj, doporučujeme pro něj použít bod pouze text a vyplnit pouze jeho název, který je tučně a dát ho jako 
+
+![](img/casova-osa-editace.png) 
+
+![](img/casova-osa-ukazka.png.png)
+Tato osa je diagonální nahoru s podkladovým obrázkem o průhlednosti 75% a s ručním nastavením umístění bodů. 
+
 ### Obrazovka s videem
 
 Hlavním obsahem této obrazovky je video, které nahrajete do souborů z počítače. Nahrávání videa funguje stejně jako nahrávání ostatních typů obsahu. Ve výstavě se video zobrazí na celou stránku, proto jsou lepší videa orientovaná na šířku. Video připravujte v rozlišení FullHD (1920×1080), 25 snímků za vteřinu, v rendrovacím formátu H.264.  
