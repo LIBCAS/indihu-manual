@@ -1,2 +1,6 @@
-venv
-site
+# Python virtual environment
+venv/
+.venv/
+
+# Generated site (e.g. via build command)
+site/
