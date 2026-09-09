@@ -2,30 +2,30 @@
 
 # O nástroji INDIHU Exhibition
 
-Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu **multimediálních bohatých prezentací s interaktivními prvky**. Online přítomnost se stává nezbytností, protože veřejnost očekává, že **budete online nabízet zajímavý obsah**. Je ideální pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si soubory mohou v případě zájmu stáhnout. 
+Editor virtuálních výstav INDIHU Exhibition je vhodný pro tvorbu **multimediálních bohatých prezentací s interaktivními prvky**. Online přítomnost se stává nezbytností, protože veřejnost očekává, že **budete online nabízet zajímavý obsah**. Je ideální pro neotřelé představení svojí práce s cílem vzbudit v návštěvnících zájem. Už není tak ideální pro přenos velkého množství informací. Delší materiály lze však přiložit a návštěvníci si soubory mohou v případě zájmu stáhnout.
 
-Editor byl koncipován tak, aby byla výsledná virtuální výstava vizuální, svěží, nápaditá a zábavná. Výstava by neměla být delší než 15 minut. Hlavní roli ve virtuálních výstavách hraje vizuální obsah, ovládací prvky jsou co nejméně nápadné. INDIHU Exhibition má širokou škálu použití pro instituce zprostředkovávající kulturní dědictví, umožní vytvářet výstavy na **libovolná témata** a lze použít i pro neotřelou online prezentaci výstupů vědeckého bádání. 
+Editor byl koncipován tak, aby byla výsledná virtuální výstava vizuální, svěží, nápaditá a zábavná. Výstava by neměla být delší než 15 minut. Hlavní roli ve virtuálních výstavách hraje vizuální obsah, ovládací prvky jsou co nejméně nápadné. INDIHU Exhibition má širokou škálu použití pro instituce zprostředkovávající kulturní dědictví, umožní vytvářet výstavy na **libovolná témata** a lze použít i pro neotřelou online prezentaci výstupů vědeckého bádání.
 
-Může sloužit jako **vzdělávací nástroj** a pomůcka ve výuce v různých typech škol. Tvůrci mohou nabídnout hotové výstavy školám, které mohou využít výstavy jako doplnění či ozvláštnění výuky a zajímavý vzdělávací obsah. Žáci a studenti také mohou tvořit vlastní výstavy a tím si osvojit jak konkrétní téma, tak i problematiku kulturního digitálního dědictví. 
+Může sloužit jako **vzdělávací nástroj** a pomůcka ve výuce v různých typech škol. Tvůrci mohou nabídnout hotové výstavy školám, které mohou využít výstavy jako doplnění či ozvláštnění výuky a zajímavý vzdělávací obsah. Žáci a studenti také mohou tvořit vlastní výstavy a tím si osvojit jak konkrétní téma, tak i problematiku kulturního digitálního dědictví.
 
 !!! question "Proč používat INDIHU Exhibition?"
     * Umožní tvořit virtuální výstavy, aniž byste museli rozumět webdesignu
-    * Poskytuje širokou škálu obsahu od obrázků, přes video, texty 
+    * Poskytuje širokou škálu obsahu od obrázků, přes video, texty
     * Nabízí zařazení interaktivních her
     * Dovoluje soustředit se na obsah a ne na technickou stránku
     * Ušetří peníze za programátory
-    * Splňuje současné standardy uživatelských rozhraní - jednoduché ovládání a střízlivé rozhraní s akcentem na vizuálně atraktivní obsah. 
+    * Splňuje současné standardy uživatelských rozhraní - jednoduché ovládání a střízlivé rozhraní s akcentem na vizuálně atraktivní obsah.
 
-INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kódem](<https://github.com/LIBCAS/INDIHU>). [Registrovaní tvůrci](zaklady.md#zrizeni-uctu) vytváří výstavu ve svém webovém prohlížeči na adrese [exhibition.indihu.cz](<https://exhibition.indihu.cz/>). Kdokoli si může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. O technickou stránku věci, infrastrukturu, provoz a data se stará Knihovna Akademie věd ČR. 
+INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kódem](https://github.com/LIBCAS/INDIHU). [Registrovaní tvůrci](zaklady.md#zrizeni-uctu) vytváří výstavu ve svém webovém prohlížeči na adrese [exhibition.indihu.cz](https://exhibition.indihu.cz/). Kdokoli si může software "rozběhnout" na vlastní infrastruktuře a upravit si ho tak, jak potřebuje. O technickou stránku věci, infrastrukturu, provoz a data se stará Knihovna Akademie věd ČR.
 
-## Co to umí 
+## Co to umí
 
 - Obrázky (animace, různé přechody, před a po, fotogalerie)
 - Infopointy (stručné informační boxy v obrázcích)
 - Video
-- Text 
+- Text
 - Audio (hudba, audio komentáře)
-- Vkládání externího obsahu (např. mapy, videa, grafy, 3D objekty) 
+- Vkládání externího obsahu (např. mapy, videa, grafy, 3D objekty)
 - [Hry](hry.md) (Kvíz, Najdi na obrázku, Stírací los, Hádej velikost apod.)
 - Přikládání souborů s dalšími materiály (např. seznam literatury, pracovní listy pro školy)
 - [Větvení výstavy](obrazovky.md#rozcestnik), kdy si návštěvník vybere, jak chce pokračovat
@@ -36,14 +36,14 @@ INDIHU Exhibition je open source (free) software s otevřeným [zdrojovým kóde
 
 ## Jak začít?
 
-Tvorba virtuálních výstav má dvě části - příprava obsahu a samotná práce v editoru. Nepodceňte přípravu obsahu. V osvojení nástroje doporučujeme postupovat takto: 
+Tvorba virtuálních výstav má dvě části - příprava obsahu a samotná práce v editoru. Nepodceňte přípravu obsahu. V osvojení nástroje doporučujeme postupovat takto:
 
-1. Nejprve je třeba [vybrat téma](uspesna-vystava.md) a obsah připravit tak, aby byl vhodný pro zpracování formou virtuální výstavy. [Inspirujte](inspirace.md) se jinými tvůrci. 
+1. Nejprve je třeba [vybrat téma](uspesna-vystava.md) a obsah připravit tak, aby byl vhodný pro zpracování formou virtuální výstavy. [Inspirujte](inspirace.md) se jinými tvůrci.
 2. [Základní fungování](zaklady.md): Vysvětlení používaných pojmů a ilustrovaný popis jednotlivých kroků při založení první výstavy
 3. [Obrazovky](obrazovky.md): Podrobný ilustrovaný popis jednotlivých typů obrazovek
 4. [Hry](hry.md): Podrobný ilustrovaný popis jednotlivých interaktivních her
 
-Využijte naše **pracovní listy**, které vám pomohou s vytvářením virtuální výstavy. Jednoduše si je vytiskněte. Pracovní listy vám pomohou s cílením na konkrétní typy online návštěvníků a pomocí otázek napomohou zpřesnění obsahu a výběru multimédií. 
+Využijte naše **pracovní listy**, které vám pomohou s vytvářením virtuální výstavy. Jednoduše si je vytiskněte. Pracovní listy vám pomohou s cílením na konkrétní typy online návštěvníků a pomocí otázek napomohou zpřesnění obsahu a výběru multimédií.
 
 ![](img/pracovni-listy-obr.png)
 
@@ -63,10 +63,10 @@ Jakmile návštěvník zahájí výstavu tlačítkem "Spustit výstavu," automat
 
 ### Pohyb ve výstavě a průchod výstavou
 
-Výstava je tvůrcem **načasovaná** a poběží návštěvníkovi v prohlížeči sama od sebe, obrazovku po obrazovce, kapitolu po kapitole. Návštěvníci však mají řadu možností, jak se ve výstavě pohybovat podle toho, jak potřebují: 
+Výstava je tvůrcem **načasovaná** a poběží návštěvníkovi v prohlížeči sama od sebe, obrazovku po obrazovce, kapitolu po kapitole. Návštěvníci však mají řadu možností, jak se ve výstavě pohybovat podle toho, jak potřebují:
 
 - (1) Pozastavení výstavy a opětovné spuštění: mezerník
-- (2) Přechod na další obrazovku nebo naopak zpět: šipka doleva/doprava na klávesnici nebo na obrazovce 
+- (2) Přechod na další obrazovku nebo naopak zpět: šipka doleva/doprava na klávesnici nebo na obrazovce
 - (3) Přechod na další kapitolu/obrazovku: Po kliknutí na ikonu s nápisem "Kapitoly" vyjede okno s výpisem kapitol po rozkliknutí šipky i obrazovek, a návštěvníci si mohou vybrat
 - (4) Přechod na další kapitolu/obrazovku: pomocí osy s vyznačenými začátky kapitol (černý čtvereček), obrazovky (puntík, nad kterým vyjede název obrazovky)
 

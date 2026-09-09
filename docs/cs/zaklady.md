@@ -3,15 +3,15 @@
 ## Vysvětlení pojmů
 
 | Pojem             | Vysvětlení                                                                                                                                                                                                                                                                                                                                                          |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Virtuální výstava | Virtuální výstava je základním konceptem systému a výsledný produkt. Jedná se o ucelenou prezentaci určitého tématu, kterou vytvoříte pomocí obrazových, textových, audiovizuálních informací a interakce. Software INDIHU Exhibition je nazýván editorem výstav.                                                                                                   |
 | Editor            | Editorem názýváme nástroj INDIHU Exhibition, v kterém tvůrce vytváří výstavu. Editor běží v internetovém prohlížeči.                                                                                                                                                                                                                                                |
 | Tvůrce            | Tvůrce je člověk, který tvoří výstavu.                                                                                                                                                                                                                                                                                                                              |
 | Návštěvník        | Pojmem "návštěvník" je označován uživatel, který navštíví web s virtuální výstavou.                                                                                                                                                                                                                                                                                 |
 | Obrazovka         | Výstava je tvořena jednotlivými obrazovkami. Na obrazovkách může být různý obsah (obrázky, hry, videa atd.). V části [Obrazovky](obrazovky.md) se seznámíte se všemi možnostmi i ovládáním. Při tvorbě výstavy postupně plníte obrazovky obsahem.                                                                                                                   |
 | Kapitola          | Obrazovky je možné sdružovat do kapitol. Tvoření kapitol je nástrojem pro logické členění obsahu. Výstava může obsahovat jednu či více kapitol. Kapitola vždy obsahuje úvodní stránku kapitoly s názvem a titulním obrázkem, který může být animovaný. Návštěvník může při prohlížení výstavy přeskakovat z jedné kapitoly do druhé skrze seznam "Kapitoly" v menu. |
-| Hra               | Pro větší interaktivitu, kterou návštěvníci dnes hodně vyžadují, jsou k dispozici [hry](hry.md). Návštěvník je postaven před řešení úkolu a tím se zvýší jeho angažovanost v tématu.                                                                                                                                                                                |                                                                                                                                                                                                     
-                                                        
+| Hra               | Pro větší interaktivitu, kterou návštěvníci dnes hodně vyžadují, jsou k dispozici [hry](hry.md). Návštěvník je postaven před řešení úkolu a tím se zvýší jeho angažovanost v tématu.                                                                                                                                                                                |
+
 ## Zřízení účtu
 
 1.  **Registrace tvůrce**: Pro využívání INDIHU Exhibition jako webové
@@ -24,30 +24,30 @@
 
 ## Zvládneme přípravu výstavy sami?
 
-Tvorba (virtuálních) výstav je týmová práce. Nemusíte ale umět programovat nebo být webdesignéři, a přesto vytvoříte online výstavu. Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě. Editor je vytvořen tak, aby jeho **používání bylo co nejjednodušší**. 
+Tvorba (virtuálních) výstav je týmová práce. Nemusíte ale umět programovat nebo být webdesignéři, a přesto vytvoříte online výstavu. Editor umožňuje, aby na výstavě spolupracovalo více tvůrců. Neumožňuje však spolupráci v reálném čase - provádět úpravy může vždy jen jeden tvůrce, pro úpravy se editor pro spolutvůrce odemkne po 1 minutě. Editor je vytvořen tak, aby jeho **používání bylo co nejjednodušší**.
 
-V části [Jak vytvořit úspěšnou výstavu](uspesna-vystava.md) jsou typy pro tvůrce, kteří dělají svou první výstavu a pro ty, kteří jsou již zkušenější a chtějí se rozvíjet a vyzkoušet nové funkce. 
+V části [Jak vytvořit úspěšnou výstavu](uspesna-vystava.md) jsou typy pro tvůrce, kteří dělají svou první výstavu a pro ty, kteří jsou již zkušenější a chtějí se rozvíjet a vyzkoušet nové funkce.
 
 !!! info "Tip"
     Pracujte v týmu. Ačkoli je zámek pro editaci nastaven jen na 1 minutu, domluvte se předem, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy.
 
-Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste: 
+Virtuální výstavy však obsahují různé typy obsahu, které vytváříte mimo editor pomocí jiných nástrojů a do editoru obsah jen vkládáte. Je tedy vhodné, abyste:
 
 - Uměli alespoň trochu pracovat s obrázky
 - Nahrát audio nebo připravit podklady pro nahrání
-- Vytvářet videa nebo napsat scénář a výrobu videa někomu zadat 
+- Vytvářet videa nebo napsat scénář a výrobu videa někomu zadat
 
 !!! info "Tip"
-    Pokud si po zveřejnění výstavy všimnete nějaké **chyby** v textu nebo i v obrázcích, nebojte se, můžete ji opravit. **Výstavu lze upravovat** i v režimu Zveřejněná, případně můžete změnit stav na V přípravě, pokud se jedná o změnu, která vám bude trvat déle. Změny se rovnou ukládají a návštěvníkům se vždy zobrazí ta nejaktuálnější verze. 
+    Pokud si po zveřejnění výstavy všimnete nějaké **chyby** v textu nebo i v obrázcích, nebojte se, můžete ji opravit. **Výstavu lze upravovat** i v režimu Zveřejněná, případně můžete změnit stav na V přípravě, pokud se jedná o změnu, která vám bude trvat déle. Změny se rovnou ukládají a návštěvníkům se vždy zobrazí ta nejaktuálnější verze.
 
 ### Jednoduchý editor obrázků
 
-Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý **editor obrázků**, který vám umožní základní úpravy jakými je např. ořez, otočení či změna poměru stran. 
+Současné webové prezentace stále více stojí na používání obrázků. Během přípravy výstav se proto neobejdete bez práce s obrázky. Můžete samozřejmě připravovat obrázky v nástrojích, na které jste běžně zvyklí. Nástroj INDIHU Exhibition však obsahuje i jednoduchý **editor obrázků**, který vám umožní základní úpravy jakými je např. ořez, otočení či změna poměru stran.
 
 !!! warning "Upozornění"
-    **Autorská práva** jsou v prostředí internetu velmi složitá a když něco zveřejníte online, obrázky si může kdokoli stáhnout. Doporučujeme používat jen ty obrázky, ke kterým práva máte jako instituce nebo jste je sami vyfotili. Pokud potřebujete ilustrační obrázky, využijte databáze a obrázky s licencí CC (Creative commons). Můžeme doporučit např. [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page), [The Flickr Commons Program](https://www.flickr.com/commons). Existují i audio a zvuky pod licencemi CC. **Vždy uvádějte zdroj** obrázků nebo jiných médií. K tomu můžete využít textové pole nebo infopoint. 
+    **Autorská práva** jsou v prostředí internetu velmi složitá a když něco zveřejníte online, obrázky si může kdokoli stáhnout. Doporučujeme používat jen ty obrázky, ke kterým práva máte jako instituce nebo jste je sami vyfotili. Pokud potřebujete ilustrační obrázky, využijte databáze a obrázky s licencí CC (Creative commons). Můžeme doporučit např. [Wikimedia commons](https://commons.wikimedia.org/wiki/Main_Page), [The Flickr Commons Program](https://www.flickr.com/commons). Existují i audio a zvuky pod licencemi CC. **Vždy uvádějte zdroj** obrázků nebo jiných médií. K tomu můžete využít textové pole nebo infopoint.
 
-Najdete ho pod ikonou paletky u samotného obrázku nebo ze souborů. Pokud vám to zdroje dovolí, můžete **využít služeb profesionálů** (fotografa, grafika, filmaře nebo zvukaře). 
+Najdete ho pod ikonou paletky u samotného obrázku nebo ze souborů. Pokud vám to zdroje dovolí, můžete **využít služeb profesionálů** (fotografa, grafika, filmaře nebo zvukaře).
 
 ![](img/editor-obrazku.png)
 
@@ -60,7 +60,7 @@ Najdete ho pod ikonou paletky u samotného obrázku nebo ze souborů. Pokud vám
 
 ## Po vstupu do editoru
 
-Po přihlášení do editoru se zobrazí **seznam výstav**. Tyto výstavy buď byly vytvořeny tvůrcem, nebo od jiného tvůrce získal právo prohlížení nebo editace od dalšího uživatele. Výstavy jsou děleny podle práv, která k nim máte: 
+Po přihlášení do editoru se zobrazí **seznam výstav**. Tyto výstavy buď byly vytvořeny tvůrcem, nebo od jiného tvůrce získal právo prohlížení nebo editace od dalšího uživatele. Výstavy jsou děleny podle práv, která k nim máte:
 
 - Jsem autor
 - Sdíleno pro čtení
@@ -76,9 +76,9 @@ U každé výstavy jsou pomocí tlačítka se třemi tečkami (5) k dispozici z�
 
 ![](img/uvod-seznam-popis.png)
 
-## Struktura výstavy a základní nastavení 
+## Struktura výstavy a základní nastavení
 
-Po otevření detailu výstavy se tvůrci zobrazí první záložka "Struktura výstavy" (1). Lze se přepnout na záložky "Soubory" (2) pro správu souborů k výstavě, "Nastavení a sdílení" (3) pro obecná nastavení celé výstavy, do záložky "Hodnocení a návštěvnost," (4) kde jsou vidět statistiky návštěvnosti a poslední částí je záložka "Motiv" (5), která umožňuje nastavit si například barevnost a přidat k výstavě logo vaší instituce. 
+Po otevření detailu výstavy se tvůrci zobrazí první záložka "Struktura výstavy" (1). Lze se přepnout na záložky "Soubory" (2) pro správu souborů k výstavě, "Nastavení a sdílení" (3) pro obecná nastavení celé výstavy, do záložky "Hodnocení a návštěvnost," (4) kde jsou vidět statistiky návštěvnosti a poslední částí je záložka "Motiv" (5), která umožňuje nastavit si například barevnost a přidat k výstavě logo vaší instituce.
 
 Po založení nové výstavy automaticky výstava obsahuje první obrazovku "Úvod výstavy" (6), možnost přidání obrazovky pomocí ikonu + (7) a obrazovku "Závěr výstavy" (8).
 
@@ -103,25 +103,25 @@ kapitol vznikne výstava.
 
 ### Soubory k výstavě
 
-Každá výstava disponuje svým vlastním souborovým depozitářem, do kterého si tvůrce může nahrávat soubory potřebné pro tvorbu výstavy. Tvůrce také může vytvářet adresářové struktury ("nový adresář") a přesouvat soubory mezi složkami. K dispozici je náhled obrázku a metadata souboru. Přes ikonu ... se dostanete k menu jednotlivého obrázku. Tyto soubory tvůrce dále využívá při vytváření a editaci jednotlivých stránek, proto se snažte udržet co nejvyšší přehlednost v souborech. Editor umožňuje i hromadné nahrávání. 
+Každá výstava disponuje svým vlastním souborovým depozitářem, do kterého si tvůrce může nahrávat soubory potřebné pro tvorbu výstavy. Tvůrce také může vytvářet adresářové struktury ("nový adresář") a přesouvat soubory mezi složkami. K dispozici je náhled obrázku a metadata souboru. Přes ikonu ... se dostanete k menu jednotlivého obrázku. Tyto soubory tvůrce dále využívá při vytváření a editaci jednotlivých stránek, proto se snažte udržet co nejvyšší přehlednost v souborech. Editor umožňuje i hromadné nahrávání.
 
 !!! info "Tip"
     Přehlednost v souborech lze dosáhnout více cestami. Jednou z nich je např. řazení souborů do adresářů podle kapitol. Jinou možností je uspořádání podle formátů - obrázky, texty či audio soubory zvlášť. Během přípravy výstavy můžete mít několik verzí stejného obrázku, proto doporučujeme si obrázky pojmenovávat. Nepoužité soubory mažte. Zkuste se předem zamyslet, jak budete se soubory pracovat, jak je budete pojmenovávat a dodržujte pravidla napříč tvůrčím týmem.
 
 ![](img/soubory.png)
 
-### Nastavení a sdílení 
+### Nastavení a sdílení
 
-Záložka obsahuje veškerá nastavení virtuální výstavy, která se týkají výstavy jako celku - stav výstavy, URL výstavy, Embed kód pro výstavu, tagy výstavy a sdílení s ostatními tvůrci. 
+Záložka obsahuje veškerá nastavení virtuální výstavy, která se týkají výstavy jako celku - stav výstavy, URL výstavy, Embed kód pro výstavu, tagy výstavy a sdílení s ostatními tvůrci.
 
 ![](img/nastaveni-sdileni-popis.png)
 
 **Stav výstavy (1)**
 
 - **V přípravě**: Výstava je v přípravě. Obsah výstavy je možné libovolně upravovat. Výstava je přístupná pouze přihlášeným tvůrcům, se kterými je výstava sdílena.
-- **Zveřejněná**: Výstava je veřejně dostupná přes svoje URL. Výstavu není možné upravovat. 
--  **Ukončená**: Výstava byla ukončena a není ani veřejně dostupná ani určena k dalším úpravám.Výstavu lze znovu převést do stavu "V přípravě"" nebo "Zveřejněná".
-  
+- **Zveřejněná**: Výstava je veřejně dostupná přes svoje URL. Výstavu není možné upravovat.
+- **Ukončená**: Výstava byla ukončena a není ani veřejně dostupná ani určena k dalším úpravám.Výstavu lze znovu převést do stavu "V přípravě"" nebo "Zveřejněná".
+
 **URL výstavy (2)**
 
 Umožňuje nastavit libovolnou koncovku adresy tak, aby byla dobře použitelná a zapamatovatelná.
@@ -131,11 +131,11 @@ Umožňuje nastavit libovolnou koncovku adresy tak, aby byla dobře použitelná
 
 **Embed kód pro výstavu (3)**
 
-Funkce umožňuje vygenerovat embed html kód, který můžete vložit do vlastní webové stránky a umožnit tak návštěvníkům procházet výstavu na vašem webu. Funguje to podobně jako podobně, jako když na svůj web vložíte mapy nebo video z YouTube. 
+Funkce umožňuje vygenerovat embed html kód, který můžete vložit do vlastní webové stránky a umožnit tak návštěvníkům procházet výstavu na vašem webu. Funguje to podobně jako podobně, jako když na svůj web vložíte mapy nebo video z YouTube.
 
 **Tagy výstavy (4)**
 
-Tagy výstavy se zobrazí na úvodní stránce vsýtavy a pomohou návštěvníkům rozhodnout, zda je výstava pro ně v hodná. Vybíráte z připravených tagů: 
+Tagy výstavy se zobrazí na úvodní stránce vsýtavy a pomohou návštěvníkům rozhodnout, zda je výstava pro ně v hodná. Vybíráte z připravených tagů:
 
 - 1 hlavní téma výstavy (např. Dějiny a lidé, Příroda nebo Umění)
 - 2 formální vlastnosti výstavy (např. Vzdělávací English friendly nebo Zábavná)
@@ -146,37 +146,36 @@ Tagy výstavy se zobrazí na úvodní stránce vsýtavy a pomohou návštěvník
 
 **Informace návštěvníkovi v případě, že je výstava již ukončená (5)**
 
-Je skvělé, že o vaši výstavu mají návštěvníci zájem, ale může se stát, že jí z jakéhokoli důvodu už nepovažujete za aktuální. Proto nastavte informace pro případ, že návštěvmník si vaši výstavu najde, ale ta již není dostupná. Vyberte obrázek, zadejte URL pro přesměrování (např. na váš web nebo na aktuální výstavu či jiný zajímavý online projekt) a napište návštěvníkům krátký vzkaz, kupříkladu poděkování za zájem a informaci o nových projektech. 
+Je skvělé, že o vaši výstavu mají návštěvníci zájem, ale může se stát, že jí z jakéhokoli důvodu už nepovažujete za aktuální. Proto nastavte informace pro případ, že návštěvmník si vaši výstavu najde, ale ta již není dostupná. Vyberte obrázek, zadejte URL pro přesměrování (např. na váš web nebo na aktuální výstavu či jiný zajímavý online projekt) a napište návštěvníkům krátký vzkaz, kupříkladu poděkování za zájem a informaci o nových projektech.
 
 **Sdíleno s uživateli (6)**
 
-Výstavu lze sdílet s dalšími tvůrci pomocí jejich e-mailu. Ostatním tvůrcům je možné dát práva **jen pro čtení** nebo **Pro čtení a zápis**. V případě, že přidáváte někoho, kdo není registrovaným uživatelem, zašlete se ze systému výzva k registraci. O sdílení výstavy jsou spolutvůrci informováni e-mailem. 
+Výstavu lze sdílet s dalšími tvůrci pomocí jejich e-mailu. Ostatním tvůrcům je možné dát práva **jen pro čtení** nebo **Pro čtení a zápis**. V případě, že přidáváte někoho, kdo není registrovaným uživatelem, zašlete se ze systému výzva k registraci. O sdílení výstavy jsou spolutvůrci informováni e-mailem.
 
 Výstavu je dále možné **sdílet odesláním URL adresy výstavy**, a to jak odkazu na titulní obrazovku, tak na libovolnou kapitolu či obrazovku. Avšak stále platí, že pokud výstava není ve stavu Zveřejněná, nikdo jiný než ostatní tvůrci ji neuvidí.
 
 Při **spolupráci více autorů** se automaticky editace zamkne na 1 minutu. Informace o tom, který tvůrce právě výstavu upravuje, je viditelná jak v seznamu výstav, tak na detailu výstavy. Ostatní tvůrci mohou výstavu prohlížet, ale ne upravovat.
 
 !!! info "Tip"
-    Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy. 
+    Ačkoli je zámek pro editaci nastaven jen na 1 minutu, doporučujeme se předem domluvit, kdy kdo na výstavě bude pracovat. Zabráníte tomu, abyste pracovali na stejné části výstavy.
 
 ## Hodnocení a návštěvnost
 
-V záložce "Hodnocení a návštěvnost" jsou dostupné informace o tom, jak výstavu vnímají návštěvníci. Jednak je tam uveden celkový počet shlédnutí, který systém počítá sám, podobně jako je tomu u shlédnutí videí na YouTube. Toto hodnocení pro vás může být užitečnou zpětnou vazbou, co se povedlo a kde je naopak prostor pro zlepšení. Zjednodušené hodnocení se rovněž ukáže na výpisu všech vašich výstav a máte ho tak po ruce. 
+V záložce "Hodnocení a návštěvnost" jsou dostupné informace o tom, jak výstavu vnímají návštěvníci. Jednak je tam uveden celkový počet shlédnutí, který systém počítá sám, podobně jako je tomu u shlédnutí videí na YouTube. Toto hodnocení pro vás může být užitečnou zpětnou vazbou, co se povedlo a kde je naopak prostor pro zlepšení. Zjednodušené hodnocení se rovněž ukáže na výpisu všech vašich výstav a máte ho tak po ruce.
 
-![](img/hodnoceni-vystavy.png) 
+![](img/hodnoceni-vystavy.png)
 
-![](img/hodnoceni-vypis-dlazdice.png) 
+![](img/hodnoceni-vypis-dlazdice.png)
 
-Návštěvníci jsou vyzváni k hodnocení výstavy na závěrečné obrazovce. Celkové hodnocení výstavy je pomocí hvězdiček, poté mohou vybrat aspekty výstavy (např. téma nebo hry), které je obzvlášť zaujaly, a také mají možnost zanechat návštěvníkům vzkaz a adresu, na kterou tvůrci mohou odpověď. Vzkaz však není povinný. 
+Návštěvníci jsou vyzváni k hodnocení výstavy na závěrečné obrazovce. Celkové hodnocení výstavy je pomocí hvězdiček, poté mohou vybrat aspekty výstavy (např. téma nebo hry), které je obzvlášť zaujaly, a také mají možnost zanechat návštěvníkům vzkaz a adresu, na kterou tvůrci mohou odpověď. Vzkaz však není povinný.
 
-![](img/hodnoceni-vystavy-navstevnici-orez.png) 
+![](img/hodnoceni-vystavy-navstevnici-orez.png)
 
-## Motiv 
+## Motiv
 
-Poslední záložkou u výstavy v rámci všeobecných nestavení je úprava motivu, tedy barevného schématu výstavy. Editor nabízí dva základní motivy - **světlý** a **tmavý**. Editor však umožňuje si některé prvky nastavit **vlastními barvami**. To se hodí zejména v případě, kdy vaše instituce má jednotný grafického manuálu a korporátní identitu. Ve všeobecném nastavení máte možnost upravit barvu pozadí, barvu ikon (např. šipky), barvu tagů. Výstavu také v části "Nastavení loga a vodoznaku" můžete nahrát vlastní logo a vybrat umístění, kde se bude zobrazovat. Ve třetí části můžete změnit všeobecné nastavení infopointů, kdy všechny infopointy budou mít vámi zvolenou barvu. U infopointů si však můžete změnit barvu u každého individuálně dle potřeby a tak dát jen některé jinou barvou, což je více zvýrazní. 
+Poslední záložkou u výstavy v rámci všeobecných nestavení je úprava motivu, tedy barevného schématu výstavy. Editor nabízí dva základní motivy - **světlý** a **tmavý**. Editor však umožňuje si některé prvky nastavit **vlastními barvami**. To se hodí zejména v případě, kdy vaše instituce má jednotný grafického manuálu a korporátní identitu. Ve všeobecném nastavení máte možnost upravit barvu pozadí, barvu ikon (např. šipky), barvu tagů. Výstavu také v části "Nastavení loga a vodoznaku" můžete nahrát vlastní logo a vybrat umístění, kde se bude zobrazovat. Ve třetí části můžete změnit všeobecné nastavení infopointů, kdy všechny infopointy budou mít vámi zvolenou barvu. U infopointů si však můžete změnit barvu u každého individuálně dle potřeby a tak dát jen některé jinou barvou, což je více zvýrazní.
 
-![](img/motiv.png) 
+![](img/motiv.png)
 
 !!! warning "Upozornění"
-    Nezapomeňte změny motivu uložit vpravo dole.   
-
+    Nezapomeňte změny motivu uložit vpravo dole.

@@ -1,18 +1,40 @@
 site_name: Indihu Exhibition
-theme: 
+site_url: https://libcas.github.io/indihu-manual/
+theme:
   name: material
-  language: 'cs'
+  language: "cs"
 nav:
-    - 'Úvod': 'index.md'
-    - 'Základní fungování': 'zaklady.md'
-    - 'Vytváříme výstavu': 'uspesna-vystava.md'  
-    - 'Obrazovky': 'obrazovky.md'
-    - 'Hry': 'hry.md'
-    - 'Inspirace': 'inspirace.md'
-repo_url: https://libcas.github.io/indihu-manual
+  - "Úvod": "index.md"
+  - "Základní fungování": "zaklady.md"
+  - "Vytváříme výstavu": "uspesna-vystava.md"
+  - "Obrazovky": "obrazovky.md"
+  - "Hry": "hry.md"
+  - "Inspirace": "inspirace.md"
+repo_url: https://github.com/LIBCAS/indihu-manual
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: cs
+          name: Čeština
+          default: true
+          build: true
+        - locale: en
+          name: English
+          default: false
+          build: true
+          nav:
+            - Home: index.md
+            - Getting started: zaklady.md
+            - Creating a successful exhibition: uspesna-vystava.md
+            - Screens: obrazovky.md
+            - Games: hry.md
+            - Inspiration: inspirace.md
 markdown_extensions:
   - toc:
-      permalink: '#'
+      permalink: "#"
   - admonition
   - attr_list
-
